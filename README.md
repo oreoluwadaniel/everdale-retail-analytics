@@ -29,8 +29,9 @@ The project builds an analysis-ready transaction layer and an executive reportin
 |---|---|
 | [`dataset/`](dataset/) | The 13 normalized source CSVs (orders, order_details, customers, products, etc.) plus their own data README |
 | [`docs/`](docs/) | Business context, data dictionary, architecture, analytical methodology, and the data-quality issue log |
+| [`workbook/`](workbook/) | The full Excel build: Power Query, Master table, executive and forecast dashboards (113MB, via Git LFS) |
 
-The full interactive workbook, Power Query steps, the Master table, pivot-driven executive and forecast dashboards, comes out to 113MB once the data model and pivot caches build in. That's too big for a GitHub repo, so it's available on request (email above), and I'm happy to walk through the Power Query steps or the DAX measures live.
+The full interactive workbook, [`workbook/Everdale_Analysis.xlsx`](workbook/Everdale_Analysis.xlsx), Power Query steps, the Master table, pivot-driven executive and forecast dashboards, comes out to 113MB once the data model and pivot caches build in. It's tracked with Git LFS, so cloning the repo pulls it automatically; if you're just browsing on GitHub, use the "Download" button on that file's page. Happy to walk through the Power Query steps or the DAX measures live too, email above.
 
 ---
 
