@@ -4,7 +4,7 @@ An Excel-based retail intelligence build that takes 194,480 order-line records f
 
 I'm a data analyst based in Lagos, Nigeria, working mostly in Excel, Power Query, Power Pivot, DAX, and statistical forecasting. This project uses synthetic data built to behave like a real retail export: duplicate order lines, missing sales amounts, discounts outside policy, deliveries dated before the order was placed. Finding those problems and deciding what to do with each one was most of the work.
 
-**Contact:** oluwafikayore@gmail.com
+**Contact:** danolatunji25@gmail.com
 
 ---
 
@@ -119,6 +119,6 @@ Every file in `dataset/` is synthetic, built to resemble a real Nigerian retail 
 
 ## About me
 
-I'm Daniel Olatunji, a data analyst working across Excel, Power Query, Power BI, SQL, and Python, with a focus on data quality, ETL, and reporting automation. If you're hiring for a data analyst, BI developer, or analytics engineer role and want to talk through this build, including the two metrics I had to go back and correct, reach me at **oluwafikayore@gmail.com**.
+I'm Daniel Olatunji, a data analyst working across Excel, Power Query, Power BI, SQL, and Python, with a focus on data quality, ETL, and reporting automation. If you're hiring for a data analyst, BI developer, or analytics engineer role and want to talk through this build, including the two metrics I had to go back and correct, reach me at **danolatunji25@gmail.com**.
 
 See also: [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio), four Excel/Power Query case studies across CRM, HR, inventory, and sales, and [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance), a CRM data migration and governance build.
