@@ -121,4 +121,4 @@ Every file in `dataset/` is synthetic, built to resemble a real Nigerian retail 
 
 I'm Daniel Olatunji, a data analyst working across Excel, Power Query, Power BI, SQL, and Python, with a focus on data quality, ETL, and reporting automation. If you're hiring for a data analyst, BI developer, or analytics engineer role and want to talk through this build, including the two metrics I had to go back and correct, reach me at **oluwafikayore@gmail.com**.
 
-See also: [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio), four Excel/Power Query case studies across CRM, HR, inventory, and sales.
+See also: [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio), four Excel/Power Query case studies across CRM, HR, inventory, and sales, and [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance), a CRM data migration and governance build.
