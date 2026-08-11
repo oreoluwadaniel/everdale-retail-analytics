@@ -1,0 +1,30 @@
+StoreID,StoreName,StoreType,City,State,RegionID,OpenDate,SizeSqm
+ST-001,Everdale Ikeja 1,Supermarket,Ikeja,Lagos,R01,2013-05-06,1489
+ST-002,Everdale Ikeja 2,Express,Ikeja,Lagos,R01,2016-12-02,424
+ST-003,Everdale Ikeja 3,Supermarket,Ikeja,Lagos,R01,2014-07-06,1373
+ST-004,Everdale Lekki 1,Hypermarket,Lekki,Lagos,R01,2020-01-26,4022
+ST-005,Everdale Lekki 2,Supermarket,Lekki,Lagos,R01,2017-10-03,1655
+ST-006,Everdale Surulere 1,Supermarket,Surulere,Lagos,R01,2017-08-15,1064
+ST-007,Everdale Surulere 2,Hypermarket,Surulere,Lagos,R01,2020-07-18,3787
+ST-008,Everdale Ikorodu,Hypermarket,Ikorodu,Lagos,R01,2018-02-02,3386
+ST-009,Everdale Ibadan 1,Supermarket,Ibadan,Oyo,R02,2013-05-17,1699
+ST-010,Everdale Ibadan 2,Express,Ibadan,Oyo,R02,2021-05-06,407
+ST-011,Everdale Abeokuta,Express,Abeokuta,Ogun,R02,2014-02-18,338
+ST-012,Everdale Akure,Hypermarket,Akure,Ondo,R02,2013-02-14,4441
+ST-013,Everdale Abuja 1,Supermarket,Abuja,FCT,R03,2019-06-21,1583
+ST-014,Everdale Abuja 2,Express,Abuja,FCT,R03,2016-03-14,260
+ST-015,Everdale Abuja 3,Supermarket,Abuja,FCT,R03,2018-02-06,1569
+ST-016,Everdale Ilorin,Hypermarket,Ilorin,Kwara,R03,2022-01-05,3989
+ST-017,Everdale Port Harcourt 1,Supermarket,Port Harcourt,Rivers,R04,2016-09-09,1714
+ST-018,Everdale Port Harcourt 2,Express,Port Harcourt,Rivers,R04,2013-03-18,297
+ST-019,Everdale Benin City,Express,Benin City,Edo,R04,2017-03-26,368
+ST-020,Everdale Warri,Hypermarket,Warri,Delta,R04,2015-11-07,2953
+ST-021,Everdale Kano 1,Supermarket,Kano,Kano,R05,2022-03-14,1044
+ST-022,Everdale Kano 2,Express,Kano,Kano,R05,2018-12-20,328
+ST-023,Everdale Kaduna,Express,Kaduna,Kaduna,R05,2020-05-27,451
+ST-024,Everdale Enugu 1,Hypermarket,Enugu,Enugu,R06,2021-03-04,3274
+ST-025,Everdale Enugu 2,Supermarket,Enugu,Enugu,R06,2014-11-28,1473
+ST-026,Everdale Onitsha,Supermarket,Onitsha,Anambra,R06,2021-01-29,1624
+WH-001,Everdale Fulfilment Centre Ikeja,Online Fulfilment Centre,Ikeja,Lagos,R01,2021-03-01,9187
+WH-002,Everdale Fulfilment Centre Abuja,Online Fulfilment Centre,Abuja,FCT,R03,2021-03-01,9147
+WH-003,Everdale Fulfilment Centre Port Harcourt,Online Fulfilment Centre,Port Harcourt,Rivers,R04,2021-03-01,9121

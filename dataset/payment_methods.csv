@@ -1,0 +1,8 @@
+PaymentMethodID,MethodName,Channel
+PM-01,Cash,In-Store
+PM-02,POS Card,In-Store
+PM-03,Bank Transfer,Both
+PM-04,USSD,Both
+PM-05,Debit Card Online,Online
+PM-06,Everdale Wallet,Online
+PM-07,Pay on Delivery,Online

@@ -1,0 +1,7 @@
+CategoryID,CategoryName,TargetGrossMargin
+CAT-01,Groceries,0.17
+CAT-02,Electronics,0.12
+CAT-03,Home & Kitchen,0.28
+CAT-04,Personal Care,0.35
+CAT-05,Fashion,0.42
+CAT-06,Baby Products,0.3

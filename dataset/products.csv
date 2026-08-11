@@ -1,0 +1,1201 @@
+ProductID,ProductName,CategoryID,SubCategory,SupplierID,CostPrice,UnitPrice,LaunchDate,Status
+P-0001,Pepsi Yoghurt Drink,CAT-01,Beverages,SUP-003,2582.89,3100,2020-08-10,Active
+P-0002,Power Oil Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-010,1545.09,1750,2020-04-27,Active
+P-0003,Loya Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-011,7183.58,8500,2024-08-01,Active
+P-0004,Semovita Semolina 5kg,CAT-01,Staples,SUP-003,26336.43,32900,2023-05-27,Active
+P-0005,Maggi Salt 1kg,CAT-01,Cooking Essentials,SUP-008,1602.77,1900,2021-01-28,Active
+P-0006,Kings Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-010,2884.81,3550,2023-07-15,Active
+P-0007,Golden Penny Macaroni 500g,CAT-01,Staples,SUP-008,29858.84,36100,2021-12-19,Active
+P-0008,Gino Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-007,5928.25,7150,2018-12-17,Active
+P-0009,Lucozade Juice 1L,CAT-01,Beverages,SUP-005,905.11,1100,2021-12-31,Discontinued
+P-0010,Royal Stallion Rice 10kg,CAT-01,Staples,SUP-001,16887.83,21200,2022-07-10,Active
+P-0011,Knorr Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-002,8170.89,9550,2018-12-28,Active
+P-0012,Pepsi Juice 1L,CAT-01,Beverages,SUP-008,5000.63,5650,2022-03-12,Discontinued
+P-0013,Chivita PET 50cl,CAT-01,Beverages,SUP-040,7922.67,9100,2022-01-17,Active
+P-0014,Heinz Baked Beans 400g,CAT-01,Canned & Packaged,SUP-003,712.62,950,2022-08-05,Active
+P-0015,Titus Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-015,3569.6,3900,2021-05-11,Active
+P-0016,Titus Baked Beans 400g,CAT-01,Canned & Packaged,SUP-014,2074.21,2450,2023-10-26,Discontinued
+P-0017,Dangote Rice 25kg,CAT-01,Staples,SUP-007,28706.57,34850,2021-01-02,Active
+P-0018,Sardine King Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-013,3408.55,3800,2022-07-23,Active
+P-0019,McVities Sausage Roll,CAT-01,Snacks,SUP-040,2277.85,3000,2022-08-08,Active
+P-0020,Titus Sardines Tin,CAT-01,Canned & Packaged,SUP-013,934.97,1100,2024-09-03,Discontinued
+P-0021,Golden Penny Noodles Carton,CAT-01,Staples,SUP-008,17653.21,23700,2019-07-30,Active
+P-0022,Coca-Cola Yoghurt Drink,CAT-01,Beverages,SUP-005,6712.41,7750,2019-05-22,Active
+P-0023,Hollandia Sachet Roll,CAT-01,Beverages,SUP-001,4199.73,5050,2024-07-10,Active
+P-0024,Fearless PET 50cl,CAT-01,Beverages,SUP-004,1569.17,1850,2020-01-17,Active
+P-0025,Devon King's Seasoning Cubes Pack  ,CAT-01,Cooking Essentials,SUP-014,10965.76,14300,2020-12-23,Active
+P-0026,Milo Energy Drink,CAT-01,Beverages,SUP-008,6998.75,8550,2021-03-19,Active
+P-0027,McVities Biscuit Pack,CAT-01,Snacks,SUP-006,2396.53,3050,2020-02-29,Active
+P-0028,Heinz Mackerel Tin,CAT-01,Canned & Packaged,SUP-015,4072.22,4950,2018-01-14,Active
+P-0029,Maggi Palm Oil 2L,CAT-01,Cooking Essentials,SUP-002,1750.42,2300,2024-05-31,Active
+P-0030,Three Crowns Butter 250g,CAT-01,Dairy & Frozen,SUP-008,1851.7,2400,2022-12-05,Active
+P-0031,Cowbell Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-004,3176.85,3950,2023-12-27,Active
+P-0032,Semovita Wheat Meal 2kg,CAT-01,Staples,SUP-015,17985.56,21500,2024-05-24,Active
+P-0033,5Alive Tin,CAT-01,Beverages,SUP-005,1246.58,1550,2018-02-04,Active
+P-0034,Maggi Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-015,7168.95,8300,2023-03-31,Active
+P-0035,Knorr Salt 1kg,CAT-01,Cooking Essentials,SUP-011,10274.06,12950,2021-12-23,Active
+P-0036,5Alive PET 50cl,CAT-01,Beverages,SUP-015,1316.52,1550,2024-08-29,Active
+P-0037,Nescafe Sachet Roll,CAT-01,Beverages,SUP-014,4969.63,6400,2020-01-23,Active
+P-0038,Laziz Salt 1kg,CAT-01,Cooking Essentials,SUP-015,12458.47,14850,2022-02-01,Active
+P-0039,Digestive Wafers,CAT-01,Snacks,SUP-006,495.83,600,2021-10-19,Active
+P-0040,5Alive Sachet Roll,CAT-01,Beverages,SUP-040,6945.32,9200,2019-03-30,Active
+P-0041,Sardine King Mackerel Tin,CAT-01,Canned & Packaged,SUP-015,2816.97,3300,2024-05-21,Discontinued
+P-0042,Golden Penny Semolina 5kg,CAT-01,Staples,SUP-009,4639.48,5400,2019-09-19,Active
+P-0043,Lucozade Refill Pack,CAT-01,Beverages,SUP-008,4536.98,5200,2023-06-16,Active
+P-0044,Beloxxi Cream Crackers,CAT-01,Snacks,SUP-009,2340.74,2750,2018-10-25,Active
+P-0045,Heinz Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-040,3961.36,4400,2020-07-24,Active
+P-0046,Maggi Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-008,3746.36,4250,2024-10-22,Active
+P-0047,Lucozade Energy Drink,CAT-01,Beverages,SUP-009,1139.92,1300,2023-02-09,Active
+P-0048,Coca-Cola Sachet Roll,CAT-01,Beverages,SUP-015,1293.45,1700,2020-03-07,Active
+P-0049,Semovita Macaroni 500g,CAT-01,Staples,SUP-003,31488.61,38750,2020-02-15,Active
+P-0050,Mama Gold Semolina 5kg  ,CAT-01,Staples,SUP-010,6371.97,7200,2021-09-12,Active
+P-0051,BUA Noodles Carton,CAT-01,Staples,SUP-008,6902.93,8100,2018-02-22,Active
+P-0052,Pringles Wafers,CAT-01,Snacks,SUP-009,2553.73,3100,2023-09-02,Active
+P-0053,McVities Cookies Jar,CAT-01,Snacks,SUP-011,3392.51,3950,2020-03-05,Discontinued
+P-0054,Nescafe Can 33cl,CAT-01,Beverages,SUP-011,1434.87,2000,2019-07-25,Active
+P-0055,Dangote Semolina 5kg,CAT-01,Staples,SUP-003,15489.4,18000,2019-09-16,Active
+P-0056,Semovita Spaghetti 500g,CAT-01,Staples,SUP-005,19632.45,22450,2018-08-22,Active
+P-0057,Coca-Cola Juice 1L,CAT-01,Beverages,SUP-005,7918.09,8800,2023-09-15,Active
+P-0058,Bama Baked Beans 400g,CAT-01,Canned & Packaged,SUP-008,5159.06,5900,2020-03-12,Active
+P-0059,Power Oil Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-013,8753.54,10400,2023-06-29,Active
+P-0060,Royal Stallion Semolina 5kg,CAT-01,Staples,SUP-005,18908.45,22950,2024-08-14,Active
+P-0061,Gino Palm Oil 2L,CAT-01,Cooking Essentials,SUP-007,5266.81,6400,2023-11-14,Active
+P-0062,Yale Cream Crackers,CAT-01,Snacks,SUP-003,675.2,750,2019-02-17,Active
+P-0063,Gino Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-014,4892.0,6150,2020-11-08,Active
+P-0064,Digestive Cream Crackers,CAT-01,Snacks,SUP-014,1569.81,1800,2019-08-12,Active
+P-0065,BUA Rice 10kg,CAT-01,Staples,SUP-011,29325.28,38550,2020-01-13,Active
+P-0066,Milo PET 50cl,CAT-01,Beverages,SUP-015,3991.27,5250,2021-05-08,Active
+P-0067,Kings Curry Powder,CAT-01,Cooking Essentials,SUP-014,7197.84,8700,2022-06-20,Active
+P-0068,Heinz Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-002,4297.95,4900,2022-02-02,Active
+P-0069,Mama Gold Noodles Carton,CAT-01,Staples,SUP-007,4973.0,6350,2022-10-03,Active
+P-0070,Laziz Palm Oil 2L,CAT-01,Cooking Essentials,SUP-014,9369.0,11700,2021-08-01,Active
+P-0071,Loya Ice Cream 1L  ,CAT-01,Dairy & Frozen,SUP-013,9783.41,11500,2024-05-28,Active
+P-0072,McVities Chin Chin 250g,CAT-01,Snacks,SUP-001,3045.75,3550,2024-05-17,Active
+P-0073,Three Crowns Ice Cream 1L,CAT-01,Dairy & Frozen,SUP-013,6169.29,7200,2024-06-23,Active
+P-0074,Minimie Wafers,CAT-01,Snacks,SUP-040,705.41,900,2018-01-20,Active
+P-0075,Yale Wafers,CAT-01,Snacks,SUP-001,1985.08,2400,2021-12-02,Active
+P-0076,Loya Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-012,5520.8,6050,2018-12-14,Active
+P-0077,Kings Palm Oil 2L,CAT-01,Cooking Essentials,SUP-010,1734.66,2250,2024-05-17,Active
+P-0078,Kings Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-013,5927.22,6950,2019-06-05,Active
+P-0079,Milo Sachet Roll,CAT-01,Beverages,SUP-014,7016.33,8550,2022-08-06,Active
+P-0080,Knorr Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-008,5099.0,6100,2020-02-22,Active
+P-0081,Digestive Biscuit Pack,CAT-01,Snacks,SUP-040,3663.83,4200,2019-01-30,Active
+P-0082,Pringles Chips 165g,CAT-01,Snacks,SUP-008,2837.15,3300,2024-06-30,Active
+P-0083,Bournvita Yoghurt Drink,CAT-01,Beverages,SUP-009,3940.33,4750,2024-05-29,Active
+P-0084,Milo Can 33cl,CAT-01,Beverages,SUP-014,5494.66,6900,2020-11-25,Active
+P-0085,Cowbell Ice Cream 1L,CAT-01,Dairy & Frozen,SUP-040,7053.59,7750,2018-10-24,Active
+P-0086,Pepsi Can 33cl,CAT-01,Beverages,SUP-001,5490.8,6650,2018-08-28,Active
+P-0087,Titus Corned Beef 340g,CAT-01,Canned & Packaged,SUP-013,2011.62,2250,2021-02-09,Active
+P-0088,Devon King's Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-011,4126.07,5100,2023-01-20,Active
+P-0089,Gala Chips 165g,CAT-01,Snacks,SUP-013,3725.22,4500,2023-05-08,Active
+P-0090,Pringles Sausage Roll,CAT-01,Snacks,SUP-006,3047.3,3800,2022-07-23,Active
+P-0091,Pringles Cookies Jar,CAT-01,Snacks,SUP-015,2398.78,3000,2024-11-02,Active
+P-0092,Exeter Baked Beans 400g,CAT-01,Canned & Packaged,SUP-005,557.82,650,2021-02-07,Active
+P-0093,Pringles Chin Chin 250g,CAT-01,Snacks,SUP-001,845.75,1000,2018-12-24,Active
+P-0094,Chivita Juice 1L,CAT-01,Beverages,SUP-013,584.29,700,2019-01-26,Active
+P-0095,Lucozade Sachet Roll,CAT-01,Beverages,SUP-001,6847.51,7700,2018-05-10,Active
+P-0096,Peak Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-003,760.02,950,2024-08-17,Active
+P-0097,Dano Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-014,6564.74,8450,2024-05-08,Discontinued
+P-0098,Geisha Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-005,1280.16,1650,2021-10-02,Active
+P-0099,Golden Penny Rice 25kg,CAT-01,Staples,SUP-015,6491.32,7300,2022-04-25,Active
+P-0100,McVities Chips 165g,CAT-01,Snacks,SUP-006,1077.11,1350,2021-07-30,Active
+P-0101,Cap Rice Noodles Carton,CAT-01,Staples,SUP-002,2745.61,3150,2024-09-16,Discontinued
+P-0102,Sonia Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-009,12825.95,14200,2020-10-25,Active
+P-0103,Honeywell Macaroni 500g,CAT-01,Staples,SUP-013,7375.08,8450,2019-03-09,Active
+P-0104,Dangote Wheat Meal 2kg,CAT-01,Staples,SUP-011,27765.44,33150,2023-12-22,Active
+P-0105,Sonia Palm Oil 2L,CAT-01,Cooking Essentials,SUP-007,12782.23,15150,2021-12-02,Active
+P-0106,Exeter Corned Beef 340g,CAT-01,Canned & Packaged,SUP-015,3963.32,4700,2021-01-11,Active
+P-0107,Cowbell Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-011,5100.31,6250,2024-06-09,Active
+P-0108,Fearless Can 33cl,CAT-01,Beverages,SUP-011,1199.48,1450,2024-06-27,Active
+P-0109,Devon King's Curry Powder,CAT-01,Cooking Essentials,SUP-013,5798.41,7100,2019-11-27,Active
+P-0110,Gala Wafers,CAT-01,Snacks,SUP-009,1683.5,1950,2023-10-02,Active
+P-0111,Milo Tin,CAT-01,Beverages,SUP-014,2757.13,3250,2019-06-29,Active
+P-0112,Power Oil Curry Powder,CAT-01,Cooking Essentials,SUP-009,6128.93,7800,2018-08-27,Active
+P-0113,Gala Cream Crackers,CAT-01,Snacks,SUP-003,2692.4,3200,2021-12-02,Active
+P-0114,Loya Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-040,3374.28,4000,2020-05-06,Active
+P-0115,Sardine King Baked Beans 400g,CAT-01,Canned & Packaged,SUP-001,3085.9,4250,2021-10-04,Active
+P-0116,Hollandia Can 33cl,CAT-01,Beverages,SUP-002,5867.01,7100,2018-11-17,Active
+P-0117,Laziz Curry Powder,CAT-01,Cooking Essentials,SUP-012,7320.02,8500,2024-04-21,Active
+P-0118,Fearless Sachet Roll,CAT-01,Beverages,SUP-008,6427.01,8000,2023-12-12,Active
+P-0119,OK Foods Wafers,CAT-01,Snacks,SUP-003,1095.99,1350,2023-10-06,Active
+P-0120,Pepsi Refill Pack,CAT-01,Beverages,SUP-002,2890.42,3200,2024-03-06,Active
+P-0121,Golden Penny Wheat Meal 2kg,CAT-01,Staples,SUP-001,27993.58,36100,2018-02-06,Active
+P-0122,Dano Ice Cream 1L,CAT-01,Dairy & Frozen,SUP-008,6542.24,7350,2021-06-24,Active
+P-0123,Honeywell Rice 10kg,CAT-01,Staples,SUP-007,33966.87,41800,2020-07-01,Active
+P-0124,Chivita Energy Drink,CAT-01,Beverages,SUP-001,5934.71,6650,2023-02-26,Active
+P-0125,Geisha Sardines Tin,CAT-01,Canned & Packaged,SUP-005,399.18,500,2020-08-27,Active
+P-0126,Bournvita Refill Pack,CAT-01,Beverages,SUP-008,1586.44,1850,2020-11-10,Active
+P-0127,Geisha Corned Beef 340g,CAT-01,Canned & Packaged,SUP-005,3288.93,3800,2023-09-22,Active
+P-0128,Pringles Biscuit Pack,CAT-01,Snacks,SUP-040,580.39,750,2023-10-09,Active
+P-0129,Maggi Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-004,9999.98,12200,2020-09-08,Active
+P-0130,Cap Rice Semolina 5kg,CAT-01,Staples,SUP-007,6160.28,7100,2019-09-03,Discontinued
+P-0131,Digestive Sausage Roll,CAT-01,Snacks,SUP-015,925.18,1150,2024-03-17,Active
+P-0132,Three Crowns Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-009,6619.26,7150,2018-02-04,Active
+P-0133,Mama Gold Rice 10kg,CAT-01,Staples,SUP-012,29154.32,35550,2018-07-30,Active
+P-0134,Power Oil Salt 1kg,CAT-01,Cooking Essentials,SUP-006,9074.59,10850,2022-03-15,Active
+P-0135,BUA Macaroni 500g,CAT-01,Staples,SUP-004,18520.52,23050,2018-05-26,Active
+P-0136,Milo Juice 1L,CAT-01,Beverages,SUP-006,3886.18,4750,2022-09-19,Active
+P-0137,Nescafe Juice 1L,CAT-01,Beverages,SUP-010,7440.22,8650,2023-11-01,Active
+P-0138,Golden Penny Rice 10kg,CAT-01,Staples,SUP-004,12896.72,14900,2018-02-24,Active
+P-0139,Fan Milk Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-001,6626.78,7700,2020-09-23,Active
+P-0140,Lucozade PET 50cl,CAT-01,Beverages,SUP-010,1756.41,2100,2022-02-28,Active
+P-0141,Hollandia Tin,CAT-01,Beverages,SUP-013,2796.96,3150,2024-05-07,Discontinued
+P-0142,Sardine King Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-013,1861.87,2150,2021-08-07,Active
+P-0143,Kings Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-007,7878.83,10100,2022-05-04,Active
+P-0144,Cowbell Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-003,10051.41,10850,2019-12-13,Active
+P-0145,Royal Stallion Wheat Meal 2kg,CAT-01,Staples,SUP-008,29292.05,36550,2024-08-05,Active
+P-0146,Coca-Cola PET 50cl,CAT-01,Beverages,SUP-004,3799.39,4400,2024-07-31,Active
+P-0147,Fearless Juice 1L,CAT-01,Beverages,SUP-010,7667.36,9350,2022-06-24,Active
+P-0148,BUA Wheat Meal 2kg,CAT-01,Staples,SUP-004,26848.52,31700,2018-01-12,Discontinued
+P-0149,Digestive Chin Chin 250g,CAT-01,Snacks,SUP-002,3020.42,3550,2018-11-06,Active
+P-0150,Royal Stallion Rice 25kg,CAT-01,Staples,SUP-012,18019.97,20000,2019-08-28,Active
+P-0151,Sonia Curry Powder,CAT-01,Cooking Essentials,SUP-014,1453.68,1700,2020-10-25,Active
+P-0152,OK Foods Cookies Jar,CAT-01,Snacks,SUP-012,3317.85,4150,2019-08-19,Active
+P-0153,Sonia Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-003,1002.08,1150,2018-04-03,Active
+P-0154,Titus Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-011,3857.7,4750,2018-01-21,Active
+P-0155,Dangote Noodles Carton,CAT-01,Staples,SUP-001,27727.3,33800,2023-12-04,Active
+P-0156,Cap Rice Wheat Meal 2kg,CAT-01,Staples,SUP-014,22419.71,26450,2021-01-14,Active
+P-0157,Maggi Curry Powder,CAT-01,Cooking Essentials,SUP-040,8882.14,10950,2018-01-12,Active
+P-0158,Royal Stallion Spaghetti 500g,CAT-01,Staples,SUP-004,29236.13,37700,2019-09-29,Active
+P-0159,Fan Milk Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-014,3166.92,4350,2019-08-18,Active
+P-0160,Gino Salt 1kg,CAT-01,Cooking Essentials,SUP-012,8087.23,9600,2018-10-14,Active
+P-0161,Devon King's Salt 1kg,CAT-01,Cooking Essentials,SUP-015,2702.84,3350,2019-11-19,Active
+P-0162,Dangote Macaroni 500g,CAT-01,Staples,SUP-005,24381.78,30400,2021-08-26,Active
+P-0163,Golden Penny Spaghetti 500g,CAT-01,Staples,SUP-014,14749.75,17650,2024-11-01,Active
+P-0164,Nescafe Tin,CAT-01,Beverages,SUP-006,8367.9,9500,2023-01-11,Active
+P-0165,5Alive Energy Drink,CAT-01,Beverages,SUP-009,6577.96,8700,2022-01-28,Active
+P-0166,Nescafe PET 50cl,CAT-01,Beverages,SUP-040,3234.35,3700,2020-05-27,Discontinued
+P-0167,Digestive Chips 165g,CAT-01,Snacks,SUP-015,1728.1,2100,2019-05-20,Active
+P-0168,BUA Semolina 5kg,CAT-01,Staples,SUP-014,16337.75,18200,2024-08-02,Active
+P-0169,Exeter Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-009,1791.52,2150,2023-02-23,Active
+P-0170,Geisha Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-011,1945.72,2400,2020-02-05,Active
+P-0171,Yale Cookies Jar,CAT-01,Snacks,SUP-008,2211.58,2700,2021-08-16,Active
+P-0172,Heinz Sardines Tin,CAT-01,Canned & Packaged,SUP-003,1513.48,1900,2019-03-20,Active
+P-0173,Royal Stallion Macaroni 500g,CAT-01,Staples,SUP-009,10205.57,12550,2019-01-24,Active
+P-0174,Power Oil Palm Oil 2L,CAT-01,Cooking Essentials,SUP-015,10086.21,12650,2023-11-23,Active
+P-0175,Semovita Rice 25kg,CAT-01,Staples,SUP-008,24278.48,28650,2021-04-05,Active
+P-0176,Gala Sausage Roll,CAT-01,Snacks,SUP-015,2002.17,2600,2020-12-03,Active
+P-0177,Kings Salt 1kg,CAT-01,Cooking Essentials,SUP-013,7054.58,8400,2022-06-21,Discontinued
+P-0178,Power Oil Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-011,13248.1,15350,2020-01-05,Active
+P-0179,Royal Stallion Noodles Carton,CAT-01,Staples,SUP-001,3119.78,3600,2018-04-13,Active
+P-0180,Bournvita Can 33cl,CAT-01,Beverages,SUP-040,2687.37,3200,2023-10-31,Active
+P-0181,Coca-Cola Energy Drink,CAT-01,Beverages,SUP-011,782.13,900,2018-10-07,Active
+P-0182,Lucozade Yoghurt Drink,CAT-01,Beverages,SUP-006,2600.47,3100,2019-07-31,Discontinued
+P-0183,Knorr Palm Oil 2L,CAT-01,Cooking Essentials,SUP-040,1873.52,2150,2020-11-07,Discontinued
+P-0184,Hollandia Energy Drink,CAT-01,Beverages,SUP-007,4393.18,5000,2018-03-15,Active
+P-0185,Devon King's Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-012,10973.23,12600,2020-04-12,Active
+P-0186,Semovita Noodles Carton,CAT-01,Staples,SUP-009,13035.4,14150,2024-04-04,Active
+P-0187,Dano Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-011,2415.15,2950,2021-04-14,Active
+P-0188,Dano Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-009,743.56,850,2023-11-30,Active
+P-0189,Cap Rice Spaghetti 500g,CAT-01,Staples,SUP-009,2386.89,2850,2022-11-14,Active
+P-0190,Semovita Rice 10kg,CAT-01,Staples,SUP-001,1038.56,1300,2023-08-04,Active
+P-0191,Laziz Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-007,7938.8,10050,2018-03-20,Active
+P-0192,Lucozade Tin,CAT-01,Beverages,SUP-003,5200.26,5750,2021-05-19,Active
+P-0193,Minimie Chips 165g,CAT-01,Snacks,SUP-008,2306.64,2850,2018-01-12,Active
+P-0194,Three Crowns Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-014,8544.28,10300,2019-09-14,Active
+P-0195,McVities Wafers,CAT-01,Snacks,SUP-040,2086.13,2750,2024-04-15,Active
+P-0196,Sardine King Corned Beef 340g,CAT-01,Canned & Packaged,SUP-008,4257.53,5350,2021-10-02,Active
+P-0197,McVities Cream Crackers,CAT-01,Snacks,SUP-040,885.04,1100,2023-06-22,Active
+P-0198,Gino Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-040,1306.19,1600,2023-01-14,Discontinued
+P-0199,Sonia Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-015,2643.58,3000,2020-05-16,Active
+P-0200,Geisha Mackerel Tin,CAT-01,Canned & Packaged,SUP-001,3800.59,4900,2018-11-07,Active
+P-0201,Coca-Cola Can 33cl,CAT-01,Beverages,SUP-003,1232.83,1500,2024-02-04,Active
+P-0202,Exeter Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-010,1241.38,1500,2018-10-31,Discontinued
+P-0203,Three Crowns Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-008,379.05,500,2024-10-15,Active
+P-0204,Peak Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-013,1476.09,1800,2018-08-16,Active
+P-0205,5Alive Juice 1L,CAT-01,Beverages,SUP-008,5058.05,6050,2024-01-10,Active
+P-0206,Pepsi PET 50cl,CAT-01,Beverages,SUP-010,4695.4,5800,2020-05-08,Active
+P-0207,Kings Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-012,553.12,700,2022-07-18,Active
+P-0208,Nescafe Energy Drink,CAT-01,Beverages,SUP-040,6917.5,8350,2022-03-30,Active
+P-0209,Fan Milk Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-012,4033.4,4950,2022-03-07,Active
+P-0210,Mama Gold Spaghetti 500g,CAT-01,Staples,SUP-014,20214.0,24200,2022-11-30,Active
+P-0211,Honeywell Spaghetti 500g,CAT-01,Staples,SUP-011,18479.74,22050,2024-09-24,Active
+P-0212,Bournvita PET 50cl,CAT-01,Beverages,SUP-012,4335.81,5100,2024-06-06,Active
+P-0213,Sonia Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-015,5372.54,6550,2018-08-24,Active
+P-0214,Mama Gold Wheat Meal 2kg,CAT-01,Staples,SUP-009,34309.69,40400,2022-09-01,Active
+P-0215,Peak Butter 250g,CAT-01,Dairy & Frozen,SUP-010,9641.31,11000,2019-05-14,Active
+P-0216,Beloxxi Wafers,CAT-01,Snacks,SUP-009,2776.6,3350,2022-06-03,Active
+P-0217,Nescafe Yoghurt Drink,CAT-01,Beverages,SUP-008,6698.93,7150,2020-08-05,Active
+P-0218,Gino Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-004,8138.53,9300,2023-05-01,Active
+P-0219,Minimie Cream Crackers,CAT-01,Snacks,SUP-007,3034.98,3600,2024-03-09,Active
+P-0220,Fearless Energy Drink,CAT-01,Beverages,SUP-011,6030.58,7150,2019-06-10,Active
+P-0221,5Alive Can 33cl,CAT-01,Beverages,SUP-004,5794.44,6950,2024-09-14,Active
+P-0222,Laziz Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-006,3795.37,5400,2021-11-29,Active
+P-0223,Exeter Mackerel Tin,CAT-01,Canned & Packaged,SUP-007,3462.34,4100,2021-12-23,Active
+P-0224,Beloxxi Cookies Jar,CAT-01,Snacks,SUP-007,828.76,1000,2020-06-25,Active
+P-0225,Mama Gold Rice 25kg,CAT-01,Staples,SUP-040,6178.81,7600,2020-09-12,Active
+P-0226,Bama Mackerel Tin,CAT-01,Canned & Packaged,SUP-009,5433.0,6250,2019-05-11,Active
+P-0227,Coca-Cola Tin,CAT-01,Beverages,SUP-010,7205.02,8400,2018-09-05,Active
+P-0228,Pepsi Energy Drink,CAT-01,Beverages,SUP-004,1734.87,2050,2018-05-23,Active
+P-0229,Chivita Yoghurt Drink,CAT-01,Beverages,SUP-007,652.74,750,2021-03-17,Active
+P-0230,Knorr Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-010,9600.19,10600,2024-01-19,Active
+P-0231,Loya Butter 250g,CAT-01,Dairy & Frozen,SUP-008,3128.01,3750,2018-10-04,Active
+P-0232,Gala Cookies Jar,CAT-01,Snacks,SUP-012,3207.98,4050,2022-03-15,Active
+P-0233,Sonia Salt 1kg,CAT-01,Cooking Essentials,SUP-006,1227.66,1500,2024-09-21,Active
+P-0234,OK Foods Biscuit Pack,CAT-01,Snacks,SUP-010,2371.67,2550,2023-08-04,Active
+P-0235,Bournvita Energy Drink,CAT-01,Beverages,SUP-001,4485.58,5300,2023-10-16,Active
+P-0236,Chivita Tin,CAT-01,Beverages,SUP-005,1418.45,1800,2020-07-26,Active
+P-0237,Bama Sardines Tin,CAT-01,Canned & Packaged,SUP-009,2005.71,2250,2021-12-31,Active
+P-0238,Honeywell Semolina 5kg,CAT-01,Staples,SUP-002,26874.11,32150,2018-04-18,Active
+P-0239,BUA Rice 25kg,CAT-01,Staples,SUP-002,4908.25,5850,2019-06-02,Active
+P-0240,Bournvita Sachet Roll,CAT-01,Beverages,SUP-010,2400.89,2750,2022-03-25,Active
+P-0241,Cap Rice Rice 25kg,CAT-01,Staples,SUP-005,16584.8,19400,2019-03-25,Active
+P-0242,Knorr Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-040,10583.91,13700,2021-08-30,Active
+P-0243,Minimie Chin Chin 250g,CAT-01,Snacks,SUP-004,1011.26,1200,2021-08-20,Active
+P-0244,OK Foods Chin Chin 250g,CAT-01,Snacks,SUP-001,3411.43,4000,2020-04-01,Active
+P-0245,Geisha Baked Beans 400g,CAT-01,Canned & Packaged,SUP-010,2969.09,3650,2021-07-18,Active
+P-0246,Pringles Cream Crackers,CAT-01,Snacks,SUP-040,580.83,700,2019-04-02,Active
+P-0247,Beloxxi Biscuit Pack,CAT-01,Snacks,SUP-040,3515.75,4300,2024-07-08,Active
+P-0248,Honeywell Wheat Meal 2kg,CAT-01,Staples,SUP-015,7876.72,9450,2023-12-26,Active
+P-0249,Peak Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-011,8779.71,11050,2018-03-17,Active
+P-0250,Chivita Refill Pack,CAT-01,Beverages,SUP-006,3764.76,4600,2021-08-14,Active
+P-0251,Coca-Cola Refill Pack,CAT-01,Beverages,SUP-002,7658.03,9400,2021-08-22,Active
+P-0252,OK Foods Cream Crackers,CAT-01,Snacks,SUP-009,1786.24,2200,2023-09-03,Active
+P-0253,Power Oil Vegetable Oil 3L,CAT-01,Cooking Essentials,SUP-040,930.21,1200,2024-04-20,Active
+P-0254,Dano Powdered Milk 900g,CAT-01,Dairy & Frozen,SUP-004,6308.58,7600,2022-05-13,Active
+P-0255,Devon King's Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-003,12877.39,14800,2023-06-08,Active
+P-0256,Yale Biscuit Pack,CAT-01,Snacks,SUP-013,132.69,150,2019-12-03,Active
+P-0257,Laziz Groundnut Oil 5L,CAT-01,Cooking Essentials,SUP-040,6256.05,7550,2019-12-04,Active
+P-0258,Fearless Yoghurt Drink,CAT-01,Beverages,SUP-003,5049.61,6150,2019-01-18,Active
+P-0259,Beloxxi Chips 165g,CAT-01,Snacks,SUP-002,2593.18,3300,2024-04-23,Active
+P-0260,Exeter Sardines Tin,CAT-01,Canned & Packaged,SUP-005,3330.21,4100,2022-03-15,Active
+P-0261,Mama Gold Macaroni 500g,CAT-01,Staples,SUP-005,6564.73,8200,2024-07-03,Active
+P-0262,Minimie Cookies Jar,CAT-01,Snacks,SUP-010,310.16,350,2019-12-26,Active
+P-0263,Fan Milk Ice Cream 1L,CAT-01,Dairy & Frozen,SUP-003,10021.05,11900,2024-02-10,Active
+P-0264,Honeywell Noodles Carton,CAT-01,Staples,SUP-008,10290.57,13350,2022-11-22,Active
+P-0265,Nescafe Refill Pack,CAT-01,Beverages,SUP-004,3304.36,4050,2020-07-04,Active
+P-0266,Hollandia Juice 1L,CAT-01,Beverages,SUP-014,4123.85,5000,2020-04-06,Active
+P-0267,Bama Corned Beef 340g,CAT-01,Canned & Packaged,SUP-008,2116.45,2500,2020-11-14,Active
+P-0268,Chivita Can 33cl,CAT-01,Beverages,SUP-013,1224.59,1500,2020-03-23,Active
+P-0269,Hollandia PET 50cl,CAT-01,Beverages,SUP-015,5215.02,6400,2022-07-27,Active
+P-0270,Milo Yoghurt Drink,CAT-01,Beverages,SUP-015,1827.56,2150,2024-06-07,Active
+P-0271,Beloxxi Chin Chin 250g,CAT-01,Snacks,SUP-010,2525.13,3050,2023-11-22,Active
+P-0272,Minimie Biscuit Pack,CAT-01,Snacks,SUP-014,603.91,750,2019-12-04,Active
+P-0273,Bournvita Juice 1L,CAT-01,Beverages,SUP-010,1771.78,2200,2022-08-14,Active
+P-0274,BUA Spaghetti 500g,CAT-01,Staples,SUP-002,36734.2,40050,2023-02-07,Active
+P-0275,Hollandia Refill Pack,CAT-01,Beverages,SUP-004,2582.23,3300,2019-09-30,Active
+P-0276,Minimie Sausage Roll,CAT-01,Snacks,SUP-007,2553.37,3150,2021-09-10,Active
+P-0277,Yale Chin Chin 250g,CAT-01,Snacks,SUP-007,2386.47,2800,2020-09-27,Active
+P-0278,Pepsi Sachet Roll,CAT-01,Beverages,SUP-009,7075.76,8150,2023-11-12,Active
+P-0279,Gino Curry Powder,CAT-01,Cooking Essentials,SUP-003,8820.05,10250,2021-09-23,Active
+P-0280,Dano Butter 250g,CAT-01,Dairy & Frozen,SUP-006,8891.26,11000,2020-03-01,Active
+P-0281,Knorr Curry Powder,CAT-01,Cooking Essentials,SUP-008,10057.95,12000,2023-10-10,Active
+P-0282,Sardine King Sardines Tin,CAT-01,Canned & Packaged,SUP-006,2965.06,3350,2022-10-16,Active
+P-0283,Devon King's Palm Oil 2L,CAT-01,Cooking Essentials,SUP-003,4043.8,4900,2019-08-24,Active
+P-0284,Dangote Spaghetti 500g,CAT-01,Staples,SUP-006,13700.12,17750,2022-07-02,Active
+P-0285,OK Foods Chips 165g,CAT-01,Snacks,SUP-001,749.17,900,2023-08-03,Active
+P-0286,Bama Sweet Corn Tin,CAT-01,Canned & Packaged,SUP-014,4054.02,5250,2019-08-10,Active
+P-0287,Beloxxi Sausage Roll,CAT-01,Snacks,SUP-015,545.46,650,2018-12-12,Active
+P-0288,Maggi Tomato Paste 210g,CAT-01,Cooking Essentials,SUP-040,2791.16,3400,2018-03-08,Active
+P-0289,Fan Milk Butter 250g,CAT-01,Dairy & Frozen,SUP-010,8652.99,11200,2020-11-23,Active
+P-0290,Digestive Cookies Jar,CAT-01,Snacks,SUP-002,609.52,750,2019-09-16,Active
+P-0291,Gala Chin Chin 250g,CAT-01,Snacks,SUP-008,2702.07,3050,2019-11-08,Active
+P-0292,Loya Milk Sachet Roll,CAT-01,Dairy & Frozen,SUP-010,1976.51,2350,2021-06-20,Active
+P-0293,Laziz Seasoning Cubes Pack,CAT-01,Cooking Essentials,SUP-010,9132.92,11100,2021-10-12,Active
+P-0294,Fearless Tin,CAT-01,Beverages,SUP-015,7910.49,9500,2018-09-22,Active
+P-0295,Fearless Refill Pack,CAT-01,Beverages,SUP-003,7256.99,9300,2018-08-26,Active
+P-0296,Cowbell Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-008,4231.85,5250,2020-07-10,Active
+P-0297,Hollandia Yoghurt Drink,CAT-01,Beverages,SUP-009,6675.96,7550,2022-08-08,Active
+P-0298,Peak Evaporated Milk Tin,CAT-01,Dairy & Frozen,SUP-007,4101.41,5150,2019-08-12,Active
+P-0299,5Alive Yoghurt Drink,CAT-01,Beverages,SUP-014,4072.14,4850,2023-02-16,Active
+P-0300,5Alive Refill Pack,CAT-01,Beverages,SUP-004,6591.08,8400,2020-03-25,Active
+P-0301,Titus Mackerel Tin,CAT-01,Canned & Packaged,SUP-008,690.19,850,2019-01-19,Discontinued
+P-0302,Yale Chips 165g,CAT-01,Snacks,SUP-005,1720.84,2050,2018-09-05,Active
+P-0303,Chivita Sachet Roll,CAT-01,Beverages,SUP-009,6588.11,7900,2018-03-29,Active
+P-0304,Yale Sausage Roll,CAT-01,Snacks,SUP-005,3376.5,3900,2021-10-14,Active
+P-0305,Dangote Rice 10kg,CAT-01,Staples,SUP-003,3932.01,4700,2021-09-09,Active
+P-0306,Cap Rice Rice 10kg,CAT-01,Staples,SUP-002,9527.88,11500,2019-05-19,Active
+P-0307,Pepsi Tin,CAT-01,Beverages,SUP-006,4244.81,4600,2021-06-14,Active
+P-0308,Bournvita Tin,CAT-01,Beverages,SUP-010,1866.19,2250,2024-08-01,Active
+P-0309,Peak Ice Cream 1L,CAT-01,Dairy & Frozen,SUP-010,1854.71,2350,2018-10-25,Active
+P-0310,Honeywell Rice 25kg,CAT-01,Staples,SUP-015,13692.84,17300,2023-11-05,Active
+P-0311,Heinz Corned Beef 340g,CAT-01,Canned & Packaged,SUP-004,2600.56,3150,2018-12-10,Active
+P-0312,Milo Refill Pack,CAT-01,Beverages,SUP-015,8630.72,9300,2021-02-10,Active
+P-0313,Fan Milk Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-010,6721.47,8000,2019-04-26,Active
+P-0314,Cowbell Butter 250g,CAT-01,Dairy & Frozen,SUP-013,6007.81,6950,2020-08-17,Active
+P-0315,Gala Biscuit Pack,CAT-01,Snacks,SUP-009,211.14,250,2023-09-03,Active
+P-0316,Cap Rice Macaroni 500g,CAT-01,Staples,SUP-040,17444.71,20900,2019-12-22,Active
+P-0317,Lucozade Can 33cl,CAT-01,Beverages,SUP-015,6797.78,7900,2020-11-12,Active
+P-0318,OK Foods Sausage Roll,CAT-01,Snacks,SUP-003,1097.96,1350,2019-02-11,Active
+P-0319,Bama Mayonnaise 443ml,CAT-01,Canned & Packaged,SUP-002,3661.32,4550,2020-02-26,Discontinued
+P-0320,Three Crowns Yoghurt 500ml,CAT-01,Dairy & Frozen,SUP-014,2359.41,2800,2023-04-18,Active
+P-0321,Titus Sardines Tin XL,CAT-01,Canned & Packaged,SUP-011,4497.06,5850,2022-06-04,Active
+P-0322,Semovita Spaghetti 500g XL,CAT-01,Staples,SUP-009,31479.81,39350,2020-04-30,Active
+P-0323,Cap Rice Rice 10kg XL,CAT-01,Staples,SUP-001,7760.2,8950,2019-06-22,Active
+P-0324,Exeter Mackerel Tin XL,CAT-01,Canned & Packaged,SUP-003,927.05,1050,2018-09-19,Active
+P-0325,Kings Salt 1kg XL,CAT-01,Cooking Essentials,SUP-008,2140.06,2500,2020-11-22,Active
+P-0326,Devon King's Salt 1kg XL,CAT-01,Cooking Essentials,SUP-001,5234.34,6050,2021-08-05,Active
+P-0327,Beloxxi Cookies Jar XL,CAT-01,Snacks,SUP-009,2378.78,2800,2020-06-12,Active
+P-0328,Heinz Corned Beef 340g XL,CAT-01,Canned & Packaged,SUP-002,5663.21,6050,2023-02-26,Active
+P-0329,Minimie Cookies Jar XL,CAT-01,Snacks,SUP-006,2501.77,2850,2018-09-26,Active
+P-0330,Royal Stallion Semolina 5kg XL,CAT-01,Staples,SUP-040,24830.24,31900,2022-09-26,Active
+P-0331,Gino Tomato Paste 210g XL,CAT-01,Cooking Essentials,SUP-015,889.95,1100,2021-08-08,Active
+P-0332,Cowbell Evaporated Milk Tin XL,CAT-01,Dairy & Frozen,SUP-009,9206.85,11400,2024-04-08,Active
+P-0333,Geisha Mayonnaise 443ml XL,CAT-01,Canned & Packaged,SUP-006,5571.27,6350,2023-07-09,Active
+P-0334,Digestive Sausage Roll XL,CAT-01,Snacks,SUP-014,3595.45,4350,2023-07-07,Active
+P-0335,Hollandia Sachet Roll XL,CAT-01,Beverages,SUP-040,1210.77,1500,2020-09-20,Active
+P-0336,Beloxxi Cookies Jar XL,CAT-01,Snacks,SUP-003,467.35,600,2018-03-19,Active
+P-0337,Pepsi Yoghurt Drink XL,CAT-01,Beverages,SUP-040,3231.64,4100,2022-01-13,Active
+P-0338,Bama Corned Beef 340g XL,CAT-01,Canned & Packaged,SUP-012,5458.96,6050,2023-01-01,Active
+P-0339,Minimie Sausage Roll XL,CAT-01,Snacks,SUP-014,1615.59,2100,2020-09-05,Active
+P-0340,Cap Rice Noodles Carton XL,CAT-01,Staples,SUP-011,24009.49,27950,2020-07-13,Active
+P-0341,Dano Milk Sachet Roll XL,CAT-01,Dairy & Frozen,SUP-011,3611.97,4750,2020-03-12,Active
+P-0342,5Alive Can 33cl XL,CAT-01,Beverages,SUP-004,5741.42,6950,2023-11-29,Active
+P-0343,5Alive PET 50cl XL,CAT-01,Beverages,SUP-006,6050.99,7250,2019-06-21,Active
+P-0344,Geisha Sweet Corn Tin XL,CAT-01,Canned & Packaged,SUP-011,4864.14,6050,2018-09-19,Active
+P-0345,Three Crowns Yoghurt 500ml XL,CAT-01,Dairy & Frozen,SUP-014,9590.72,11350,2022-07-31,Active
+P-0346,Devon King's Salt 1kg XL,CAT-01,Cooking Essentials,SUP-040,7834.67,9450,2022-03-22,Active
+P-0347,Digestive Cream Crackers XL,CAT-01,Snacks,SUP-010,2180.68,2600,2018-04-07,Active
+P-0348,Titus Sweet Corn Tin XL,CAT-01,Canned & Packaged,SUP-013,5099.16,5600,2019-05-23,Discontinued
+P-0349,Exeter Sardines Tin XL,CAT-01,Canned & Packaged,SUP-002,4591.89,5200,2021-03-10,Active
+P-0350,Fan Milk Powdered Milk 900g XL,CAT-01,Dairy & Frozen,SUP-015,3706.2,4650,2018-05-26,Active
+P-0351,Mama Gold Spaghetti 500g XL,CAT-01,Staples,SUP-003,29971.75,32750,2019-11-07,Active
+P-0352,BUA Semolina 5kg XL,CAT-01,Staples,SUP-011,36256.81,40600,2023-06-03,Active
+P-0353,Kings Vegetable Oil 3L XL,CAT-01,Cooking Essentials,SUP-009,7988.86,9650,2023-11-10,Active
+P-0354,OK Foods Cookies Jar XL,CAT-01,Snacks,SUP-011,483.26,600,2021-06-17,Active
+P-0355,Dangote Spaghetti 500g XL,CAT-01,Staples,SUP-004,35881.59,41250,2021-04-19,Active
+P-0356,Milo PET 50cl XL,CAT-01,Beverages,SUP-013,3164.63,3750,2018-11-18,Active
+P-0357,Golden Penny Rice 25kg XL,CAT-01,Staples,SUP-001,28769.31,35350,2018-10-23,Active
+P-0358,Beloxxi Wafers XL,CAT-01,Snacks,SUP-015,3310.56,3950,2024-06-08,Active
+P-0359,McVities Wafers XL,CAT-01,Snacks,SUP-014,2710.32,3150,2021-07-25,Active
+P-0360,Pringles Sausage Roll XL,CAT-01,Snacks,SUP-002,1606.53,1800,2018-12-07,Active
+P-0361,Cap Rice Macaroni 500g XL,CAT-01,Staples,SUP-007,19970.97,22350,2018-04-11,Active
+P-0362,Loya Milk Sachet Roll XL,CAT-01,Dairy & Frozen,SUP-012,2262.8,2500,2019-04-10,Active
+P-0363,Dangote Noodles Carton XL,CAT-01,Staples,SUP-040,14277.3,17550,2018-08-31,Active
+P-0364,Nescafe Energy Drink XL,CAT-01,Beverages,SUP-015,884.05,1100,2024-10-12,Active
+P-0365,Knorr Curry Powder XL,CAT-01,Cooking Essentials,SUP-002,5771.51,7100,2023-12-19,Discontinued
+P-0366,Pepsi Yoghurt Drink XL,CAT-01,Beverages,SUP-007,4574.3,5250,2021-04-11,Discontinued
+P-0367,Cap Rice Wheat Meal 2kg XL,CAT-01,Staples,SUP-009,23721.55,29900,2024-07-24,Active
+P-0368,Fearless Juice 1L XL,CAT-01,Beverages,SUP-005,605.63,750,2023-03-20,Active
+P-0369,Fearless Can 33cl XL,CAT-01,Beverages,SUP-010,678.13,900,2023-09-25,Active
+P-0370,5Alive Can 33cl XL,CAT-01,Beverages,SUP-015,4463.99,5250,2023-12-19,Active
+P-0371,Hollandia Yoghurt Drink XL,CAT-01,Beverages,SUP-040,3490.73,4400,2021-11-19,Active
+P-0372,Heinz Corned Beef 340g XL,CAT-01,Canned & Packaged,SUP-004,1986.19,2350,2021-07-07,Active
+P-0373,5Alive Energy Drink XL,CAT-01,Beverages,SUP-001,936.21,1200,2019-12-17,Active
+P-0374,BUA Rice 25kg XL,CAT-01,Staples,SUP-008,27889.23,35000,2022-03-28,Active
+P-0375,Coca-Cola Tin XL,CAT-01,Beverages,SUP-006,1223.13,1500,2023-10-07,Active
+P-0376,Coca-Cola Tin XL,CAT-01,Beverages,SUP-010,4337.26,5300,2019-06-23,Active
+P-0377,Gala Wafers XL,CAT-01,Snacks,SUP-001,1896.07,2250,2024-08-26,Active
+P-0378,Minimie Cookies Jar XL,CAT-01,Snacks,SUP-014,1404.6,1700,2018-10-13,Active
+P-0379,Minimie Chin Chin 250g XL,CAT-01,Snacks,SUP-003,3076.55,3550,2018-08-13,Active
+P-0380,Titus Corned Beef 340g XL,CAT-01,Canned & Packaged,SUP-008,3534.56,4150,2020-02-28,Active
+P-0381,Tecno Galaxy A15,CAT-02,Mobile Phones,SUP-025,351686.8,410900,2019-01-29,Active
+P-0382,itel Hot 40i,CAT-02,Mobile Phones,SUP-021,370858.36,396050,2018-04-12,Discontinued
+P-0383,Logitech Wireless Mouse,CAT-02,Computing & Accessories,SUP-019,15429.28,17150,2019-08-14,Active
+P-0384,Logitech 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-019,48097.93,55300,2019-10-15,Active
+P-0385,Samsung Smart 8,CAT-02,Mobile Phones,SUP-025,108238.2,120700,2021-09-05,Active
+P-0386,Zealot Headset H2002,CAT-02,Audio,SUP-020,129411.75,156000,2018-11-15,Active
+P-0387,Nokia Camon 30,CAT-02,Mobile Phones,SUP-018,108971.4,129700,2020-05-19,Active
+P-0388,Maxi 43in Smart TV,CAT-02,Televisions,SUP-017,352054.17,396150,2018-11-06,Active
+P-0389,Master Chef Standing Fan 18in,CAT-02,Small Appliances,SUP-016,50139.34,57450,2021-09-13,Active
+P-0390,Sony Headset H2002,CAT-02,Audio,SUP-020,67663.11,80250,2023-04-04,Active
+P-0391,Binatone Yam Pounder,CAT-02,Small Appliances,SUP-023,137986.66,150450,2022-12-10,Active
+P-0392,Redmi Spark 20,CAT-02,Mobile Phones,SUP-016,201612.91,231600,2018-03-20,Active
+P-0393,Havit Bluetooth Speaker,CAT-02,Audio,SUP-025,166543.78,179100,2021-06-24,Active
+P-0394,Binatone Blender 1.5L,CAT-02,Small Appliances,SUP-021,62927.4,72700,2023-01-09,Active
+P-0395,Zinox Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-018,53536.76,61650,2022-01-22,Active
+P-0396,Silver Crest Blender 1.5L,CAT-02,Small Appliances,SUP-017,71202.56,79800,2019-12-09,Active
+P-0397,Scanfrost Standing Fan 18in,CAT-02,Small Appliances,SUP-020,117732.42,133150,2021-04-03,Active
+P-0398,Logitech Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-021,37505.7,42400,2019-04-28,Active
+P-0399,Kenwood Blender 1.5L,CAT-02,Small Appliances,SUP-022,53240.99,61500,2023-11-11,Active
+P-0400,SanDisk WiFi Router N300,CAT-02,Computing & Accessories,SUP-018,83507.64,91350,2022-02-06,Active
+P-0401,Tecno Camon 30,CAT-02,Mobile Phones,SUP-019,218566.09,234650,2020-11-28,Active
+P-0402,itel A70,CAT-02,Mobile Phones,SUP-018,119510.0,125800,2020-05-24,Active
+P-0403,Skyworth 50in UHD TV,CAT-02,Televisions,SUP-024,548720.0,577600,2018-11-24,Active
+P-0404,Logitech Keyboard Combo,CAT-02,Computing & Accessories,SUP-021,22372.1,28100,2018-09-07,Active
+P-0405,Samsung Camon 30,CAT-02,Mobile Phones,SUP-024,102707.4,119150,2024-07-18,Active
+P-0406,Infinix C32,CAT-02,Mobile Phones,SUP-024,325960.99,376050,2019-02-28,Active
+P-0407,Samsung Note 13,CAT-02,Mobile Phones,SUP-020,167490.94,179150,2022-11-06,Active
+P-0408,Nokia Note 13,CAT-02,Mobile Phones,SUP-018,133481.36,147550,2020-08-14,Active
+P-0409,Redmi A70,CAT-02,Mobile Phones,SUP-020,276648.34,309400,2018-11-15,Active
+P-0410,Oraimo Headset H2002,CAT-02,Audio,SUP-023,131075.78,141550,2018-09-30,Active
+P-0411,Hisense 50in UHD TV,CAT-02,Televisions,SUP-020,650683.59,719000,2023-07-31,Active
+P-0412,itel Note 13,CAT-02,Mobile Phones,SUP-021,98753.37,111150,2020-05-08,Active
+P-0413,Skyworth 32in HD TV,CAT-02,Televisions,SUP-017,535106.5,668800,2020-09-07,Active
+P-0414,JBL FreePods 4,CAT-02,Audio,SUP-023,22824.79,26600,2022-10-19,Active
+P-0415,Logitech Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-017,21528.23,24700,2020-01-28,Active
+P-0416,Binatone Electric Kettle,CAT-02,Small Appliances,SUP-018,75157.51,84200,2018-03-01,Active
+P-0417,Oraimo Bluetooth Speaker,CAT-02,Audio,SUP-019,99431.01,111800,2023-12-08,Active
+P-0418,Logitech WiFi Router N300,CAT-02,Computing & Accessories,SUP-022,63432.84,75800,2023-03-16,Discontinued
+P-0419,Hisense 43in Smart TV,CAT-02,Televisions,SUP-024,400583.85,468350,2018-07-22,Active
+P-0420,Hisense 55in Smart TV,CAT-02,Televisions,SUP-021,449586.15,534750,2022-05-26,Active
+P-0421,TP-Link Keyboard Combo,CAT-02,Computing & Accessories,SUP-017,20145.74,23700,2023-09-23,Active
+P-0422,Zinox WiFi Router N300,CAT-02,Computing & Accessories,SUP-022,77428.13,94500,2018-10-24,Active
+P-0423,LG 32in HD TV,CAT-02,Televisions,SUP-016,365350.75,413200,2024-02-03,Active
+P-0424,Infinix Camon 30,CAT-02,Mobile Phones,SUP-020,377197.5,397050,2024-10-22,Active
+P-0425,Qasa Yam Pounder,CAT-02,Small Appliances,SUP-024,32663.94,34650,2021-10-24,Active
+P-0426,Zealot FreePods 4,CAT-02,Audio,SUP-017,153024.54,171050,2018-05-29,Active
+P-0427,itel Smart 8,CAT-02,Mobile Phones,SUP-023,99306.77,116950,2023-09-17,Active
+P-0428,Master Chef Yam Pounder,CAT-02,Small Appliances,SUP-021,43843.61,48950,2023-04-08,Active
+P-0429,JBL Party Speaker,CAT-02,Audio,SUP-020,135117.9,147250,2018-12-17,Active
+P-0430,Oraimo Party Speaker,CAT-02,Audio,SUP-025,151773.69,173750,2018-01-14,Active
+P-0431,itel Spark 20,CAT-02,Mobile Phones,SUP-022,124342.76,139900,2020-12-10,Active
+P-0432,TP-Link Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-021,35461.84,37800,2023-10-04,Discontinued
+P-0433,HP Keyboard Combo,CAT-02,Computing & Accessories,SUP-017,52772.5,55550,2019-06-17,Discontinued
+P-0434,SanDisk Wireless Mouse,CAT-02,Computing & Accessories,SUP-019,19627.58,22150,2022-12-28,Active
+P-0435,Qasa Microwave 20L,CAT-02,Small Appliances,SUP-023,64910.27,68700,2023-07-18,Active
+P-0436,Havit Headset H2002,CAT-02,Audio,SUP-016,33879.88,36850,2021-11-11,Active
+P-0437,Skyworth 43in Smart TV,CAT-02,Televisions,SUP-025,664416.87,749100,2020-10-22,Active
+P-0438,Silver Crest Yam Pounder,CAT-02,Small Appliances,SUP-024,135705.91,157450,2022-06-20,Active
+P-0439,HP Wireless Mouse,CAT-02,Computing & Accessories,SUP-021,23621.22,25600,2020-10-05,Active
+P-0440,itel Galaxy A15,CAT-02,Mobile Phones,SUP-025,67722.01,81650,2018-11-24,Active
+P-0441,TP-Link Wireless Mouse,CAT-02,Computing & Accessories,SUP-019,39244.25,45650,2019-05-17,Active
+P-0442,Infinix Smart 8,CAT-02,Mobile Phones,SUP-017,345023.91,385350,2022-05-10,Active
+P-0443,Maxi 50in UHD TV,CAT-02,Televisions,SUP-023,268274.11,305950,2019-10-28,Active
+P-0444,Zinox Wireless Mouse,CAT-02,Computing & Accessories,SUP-020,30537.21,40000,2020-10-04,Active
+P-0445,Nokia Smart 8,CAT-02,Mobile Phones,SUP-022,49828.96,58150,2023-10-18,Active
+P-0446,Nokia C32,CAT-02,Mobile Phones,SUP-017,282046.94,338600,2020-09-08,Active
+P-0447,TP-Link 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-018,66167.75,81050,2024-04-12,Active
+P-0448,Tecno Smart 8,CAT-02,Mobile Phones,SUP-016,343932.8,370300,2018-09-05,Active
+P-0449,Nokia Hot 40i,CAT-02,Mobile Phones,SUP-016,80873.85,93100,2022-03-28,Active
+P-0450,Tecno C32,CAT-02,Mobile Phones,SUP-020,267579.18,318150,2018-05-22,Active
+P-0451,Tecno A70,CAT-02,Mobile Phones,SUP-023,278858.45,324300,2024-01-01,Active
+P-0452,HP 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-017,25194.9,29500,2024-10-02,Active
+P-0453,Samsung C32,CAT-02,Mobile Phones,SUP-017,195389.73,234500,2019-08-19,Active
+P-0454,Scanfrost Blender 1.5L,CAT-02,Small Appliances,SUP-019,115053.75,127800,2023-06-19,Active
+P-0455,Qasa Blender 1.5L,CAT-02,Small Appliances,SUP-024,99041.13,111350,2019-09-09,Active
+P-0456,Binatone Microwave 20L,CAT-02,Small Appliances,SUP-018,122645.0,129100,2018-01-20,Active
+P-0457,JBL Bluetooth Speaker,CAT-02,Audio,SUP-022,163733.76,177200,2022-12-10,Active
+P-0458,Master Chef Blender 1.5L,CAT-02,Small Appliances,SUP-023,67045.34,80550,2019-07-10,Active
+P-0459,TP-Link WiFi Router N300,CAT-02,Computing & Accessories,SUP-021,72581.7,83550,2018-08-23,Active
+P-0460,Redmi Note 13,CAT-02,Mobile Phones,SUP-024,177976.51,188550,2021-04-15,Active
+P-0461,TP-Link Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-022,69758.86,73850,2024-01-18,Active
+P-0462,Infinix Spark 20,CAT-02,Mobile Phones,SUP-025,265394.4,291950,2024-06-27,Active
+P-0463,Qasa Standing Fan 18in,CAT-02,Small Appliances,SUP-018,105026.2,116500,2018-03-03,Active
+P-0464,Kenwood Standing Fan 18in,CAT-02,Small Appliances,SUP-022,14823.69,17350,2023-08-08,Discontinued
+P-0465,SanDisk Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-017,33338.32,39450,2023-12-03,Active
+P-0466,Oraimo WiFi Router N300,CAT-02,Computing & Accessories,SUP-023,63762.81,71950,2021-08-04,Active
+P-0467,LG 50in UHD TV,CAT-02,Televisions,SUP-025,712862.68,766550,2023-12-07,Active
+P-0468,Nokia Spark 20,CAT-02,Mobile Phones,SUP-022,264746.56,337250,2023-06-12,Discontinued
+P-0469,Master Chef Rechargeable Fan,CAT-02,Small Appliances,SUP-020,138334.42,153750,2019-07-31,Active
+P-0470,Zinox Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-016,62199.15,71450,2018-09-15,Active
+P-0471,Samsung 55in Smart TV,CAT-02,Televisions,SUP-021,492914.34,587500,2021-04-05,Active
+P-0472,Scanfrost Rechargeable Fan,CAT-02,Small Appliances,SUP-019,124972.5,131550,2024-08-25,Active
+P-0473,Infinix Galaxy A15,CAT-02,Mobile Phones,SUP-023,358417.59,409650,2021-12-17,Active
+P-0474,Maxi 65in QLED TV  ,CAT-02,Televisions,SUP-023,310208.78,362500,2019-12-29,Active
+P-0475,Oraimo Soundbar 2.1,CAT-02,Audio,SUP-019,22390.75,24700,2019-06-14,Active
+P-0476,Qasa Rechargeable Fan,CAT-02,Small Appliances,SUP-021,17697.14,20200,2021-08-12,Active
+P-0477,LG 43in Smart TV,CAT-02,Televisions,SUP-017,602035.41,685300,2023-08-31,Active
+P-0478,Nokia A70,CAT-02,Mobile Phones,SUP-021,252755.16,284450,2024-06-04,Active
+P-0479,Redmi Hot 40i,CAT-02,Mobile Phones,SUP-024,163344.66,174750,2022-11-17,Active
+P-0480,Sony FreePods 4,CAT-02,Audio,SUP-021,126166.18,144100,2020-11-20,Active
+P-0481,Infinix Hot 40i,CAT-02,Mobile Phones,SUP-016,336435.94,360800,2019-01-19,Active
+P-0482,Zinox Keyboard Combo,CAT-02,Computing & Accessories,SUP-022,73871.93,81800,2024-01-13,Active
+P-0483,Kenwood Rechargeable Fan,CAT-02,Small Appliances,SUP-020,37987.88,41700,2023-03-28,Active
+P-0484,Oraimo Wired Earphones,CAT-02,Audio,SUP-019,50140.85,55550,2019-09-14,Active
+P-0485,Samsung Galaxy A15,CAT-02,Mobile Phones,SUP-017,219581.66,278200,2019-12-26,Active
+P-0486,Hisense 65in QLED TV,CAT-02,Televisions,SUP-023,202652.7,218600,2022-03-24,Active
+P-0487,Tecno Hot 40i,CAT-02,Mobile Phones,SUP-017,67127.1,72800,2022-08-14,Active
+P-0488,JBL Wired Earphones,CAT-02,Audio,SUP-019,15910.72,18800,2020-04-06,Active
+P-0489,Zealot Bluetooth Speaker,CAT-02,Audio,SUP-025,40472.13,45350,2021-01-07,Active
+P-0490,Scanfrost Air Fryer 5L,CAT-02,Small Appliances,SUP-016,115358.53,123800,2021-09-13,Active
+P-0491,JBL Soundbar 2.1,CAT-02,Audio,SUP-016,156236.8,167300,2021-06-01,Active
+P-0492,Binatone Rechargeable Fan,CAT-02,Small Appliances,SUP-021,82068.43,99900,2018-10-28,Active
+P-0493,HP Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-019,43484.62,47300,2018-06-29,Active
+P-0494,Infinix Note 13,CAT-02,Mobile Phones,SUP-018,184340.69,220600,2021-07-06,Active
+P-0495,Scanfrost Electric Kettle,CAT-02,Small Appliances,SUP-025,39509.42,41750,2021-01-31,Discontinued
+P-0496,Nokia Galaxy A15,CAT-02,Mobile Phones,SUP-019,184650.33,207000,2021-09-08,Discontinued
+P-0497,Havit Party Speaker,CAT-02,Audio,SUP-017,92224.57,104100,2023-01-08,Active
+P-0498,Sony Wired Earphones,CAT-02,Audio,SUP-024,29136.49,33050,2019-05-04,Active
+P-0499,Samsung Spark 20,CAT-02,Mobile Phones,SUP-019,174910.65,199600,2020-03-26,Active
+P-0500,Tecno Note 13,CAT-02,Mobile Phones,SUP-025,338500.66,384650,2019-01-27,Active
+P-0501,Sony Party Speaker,CAT-02,Audio,SUP-019,170810.0,179800,2023-03-06,Active
+P-0502,Samsung A70,CAT-02,Mobile Phones,SUP-019,121286.5,138900,2022-05-16,Active
+P-0503,Samsung 32in HD TV,CAT-02,Televisions,SUP-021,725434.05,842900,2021-12-27,Active
+P-0504,Master Chef Electric Kettle,CAT-02,Small Appliances,SUP-018,117915.66,138850,2020-03-17,Active
+P-0505,Maxi 55in Smart TV,CAT-02,Televisions,SUP-025,620976.45,727950,2019-05-25,Active
+P-0506,Samsung 43in Smart TV,CAT-02,Televisions,SUP-016,768179.77,839500,2024-04-17,Active
+P-0507,Silver Crest Standing Fan 18in,CAT-02,Small Appliances,SUP-020,45911.01,49650,2024-03-15,Active
+P-0508,Master Chef Air Fryer 5L,CAT-02,Small Appliances,SUP-018,82126.32,93700,2021-12-10,Active
+P-0509,Skyworth 65in QLED TV,CAT-02,Televisions,SUP-018,610898.86,666900,2022-05-11,Active
+P-0510,Kenwood Yam Pounder,CAT-02,Small Appliances,SUP-024,23824.54,28200,2021-08-24,Active
+P-0511,LG 55in Smart TV,CAT-02,Televisions,SUP-020,251613.51,286350,2023-10-28,Active
+P-0512,Infinix A70,CAT-02,Mobile Phones,SUP-018,45195.2,52950,2018-10-08,Active
+P-0513,Binatone Standing Fan 18in,CAT-02,Small Appliances,SUP-017,43124.98,50550,2019-03-19,Active
+P-0514,JBL Headset H2002,CAT-02,Audio,SUP-016,94128.1,106150,2018-02-25,Active
+P-0515,Oraimo Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-018,50201.99,58800,2023-10-23,Active
+P-0516,Sony Bluetooth Speaker,CAT-02,Audio,SUP-016,13550.43,16150,2022-04-16,Discontinued
+P-0517,Oraimo Wireless Mouse,CAT-02,Computing & Accessories,SUP-021,16588.11,19450,2024-02-11,Active
+P-0518,LG 65in QLED TV,CAT-02,Televisions,SUP-019,193997.9,229550,2023-07-14,Active
+P-0519,Oraimo Keyboard Combo,CAT-02,Computing & Accessories,SUP-025,53647.96,58150,2022-07-08,Active
+P-0520,Skyworth 55in Smart TV,CAT-02,Televisions,SUP-021,273952.65,339200,2023-04-14,Active
+P-0521,Qasa Electric Kettle,CAT-02,Small Appliances,SUP-016,13128.7,15950,2020-06-18,Active
+P-0522,Oraimo Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-018,4465.0,4700,2021-09-21,Active
+P-0523,Samsung 50in UHD TV,CAT-02,Televisions,SUP-020,647414.73,686950,2022-05-30,Active
+P-0524,Hisense 32in HD TV,CAT-02,Televisions,SUP-016,177754.37,195050,2022-04-02,Active
+P-0525,SanDisk Laptop Bag 15.6,CAT-02,Computing & Accessories,SUP-018,6232.52,6900,2022-02-17,Active
+P-0526,Master Chef Microwave 20L,CAT-02,Small Appliances,SUP-022,64206.92,71500,2018-12-16,Active
+P-0527,Scanfrost Yam Pounder,CAT-02,Small Appliances,SUP-024,33721.77,39400,2023-08-24,Discontinued
+P-0528,Redmi Camon 30,CAT-02,Mobile Phones,SUP-017,363024.13,391850,2021-06-27,Active
+P-0529,Silver Crest Electric Kettle,CAT-02,Small Appliances,SUP-017,134131.45,155500,2018-01-31,Active
+P-0530,HP Power Bank 20000mAh,CAT-02,Computing & Accessories,SUP-023,46027.71,53650,2018-06-16,Active
+P-0531,HP WiFi Router N300,CAT-02,Computing & Accessories,SUP-023,53871.43,59550,2023-10-26,Active
+P-0532,Havit Wired Earphones,CAT-02,Audio,SUP-021,28722.61,30600,2022-11-08,Active
+P-0533,Havit FreePods 4,CAT-02,Audio,SUP-024,128022.77,153350,2018-07-07,Active
+P-0534,Tecno Spark 20,CAT-02,Mobile Phones,SUP-025,146428.92,162100,2018-11-23,Active
+P-0535,Zealot Soundbar 2.1,CAT-02,Audio,SUP-017,32590.13,34350,2023-01-07,Active
+P-0536,Silver Crest Rechargeable Fan,CAT-02,Small Appliances,SUP-023,125357.09,151350,2018-09-02,Active
+P-0537,Samsung 65in QLED TV,CAT-02,Televisions,SUP-024,366977.69,396100,2019-06-23,Active
+P-0538,SanDisk 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-019,55765.99,59900,2018-11-07,Active
+P-0539,Zealot Wired Earphones,CAT-02,Audio,SUP-025,159119.5,177750,2019-10-07,Active
+P-0540,Samsung Hot 40i,CAT-02,Mobile Phones,SUP-016,272893.23,297800,2020-02-15,Active
+P-0541,Redmi Galaxy A15,CAT-02,Mobile Phones,SUP-024,285116.17,327650,2018-06-28,Active
+P-0542,SanDisk Keyboard Combo,CAT-02,Computing & Accessories,SUP-020,70408.14,80800,2020-03-04,Active
+P-0543,Zinox 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-023,80810.36,90650,2023-10-08,Active
+P-0544,Oraimo FreePods 4,CAT-02,Audio,SUP-016,144627.45,159700,2019-12-09,Active
+P-0545,Maxi 32in HD TV,CAT-02,Televisions,SUP-016,535204.8,621900,2018-12-21,Active
+P-0546,Redmi C32,CAT-02,Mobile Phones,SUP-023,87389.07,97400,2022-09-22,Active
+P-0547,Qasa Air Fryer 5L,CAT-02,Small Appliances,SUP-022,44885.39,51250,2020-11-01,Active
+P-0548,Scanfrost Microwave 20L,CAT-02,Small Appliances,SUP-022,55580.51,65450,2023-03-15,Discontinued
+P-0549,Sony Soundbar 2.1,CAT-02,Audio,SUP-017,40699.44,47300,2018-09-29,Active
+P-0550,Kenwood Air Fryer 5L,CAT-02,Small Appliances,SUP-023,115424.88,131350,2023-10-19,Active
+P-0551,Kenwood Microwave 20L,CAT-02,Small Appliances,SUP-023,10726.4,12300,2021-08-19,Active
+P-0552,Binatone Air Fryer 5L,CAT-02,Small Appliances,SUP-017,67838.15,72600,2018-08-31,Active
+P-0553,Zealot Party Speaker,CAT-02,Audio,SUP-017,6268.38,7450,2023-05-12,Active
+P-0554,Silver Crest Microwave 20L,CAT-02,Small Appliances,SUP-021,45128.02,52000,2021-06-08,Active
+P-0555,Havit Soundbar 2.1,CAT-02,Audio,SUP-025,158645.49,176650,2022-04-30,Active
+P-0556,Silver Crest Air Fryer 5L,CAT-02,Small Appliances,SUP-018,79685.21,91600,2023-06-08,Active
+P-0557,Redmi Smart 8,CAT-02,Mobile Phones,SUP-017,47238.74,51100,2020-04-20,Active
+P-0558,Oraimo 64GB Flash Drive,CAT-02,Computing & Accessories,SUP-018,30523.08,32800,2019-01-14,Active
+P-0559,itel Camon 30,CAT-02,Mobile Phones,SUP-020,82208.4,94100,2024-09-11,Active
+P-0560,Kenwood Electric Kettle,CAT-02,Small Appliances,SUP-025,19447.68,22700,2018-01-21,Active
+P-0561,Lion Plastics Water Dispenser Bottle,CAT-03,Home Storage,SUP-022,26447.7,37000,2024-05-14,Active
+P-0562,Sniper Bleach 3.5L,CAT-03,Cleaning,SUP-026,6425.7,8250,2018-11-19,Active
+P-0563,Sniper Mop Set,CAT-03,Cleaning,SUP-028,2993.45,4050,2019-11-30,Active
+P-0564,Bennett Table Lamp,CAT-03,Home Decor,SUP-021,6936.21,10000,2019-05-15,Active
+P-0565,Vim Scouring Powder,CAT-03,Cleaning,SUP-022,1772.41,2400,2018-03-19,Active
+P-0566,Petra Food Container Set,CAT-03,Home Storage,SUP-021,18732.32,26450,2021-06-20,Active
+P-0567,Petra Water Dispenser Bottle,CAT-03,Home Storage,SUP-022,20977.53,27950,2020-06-07,Active
+P-0568,HomeBase Artificial Plant,CAT-03,Home Decor,SUP-022,26806.96,38650,2019-10-27,Active
+P-0569,Petra Storage Box 60L,CAT-03,Home Storage,SUP-028,10098.62,14650,2019-06-19,Active
+P-0570,Bedmate Bedsheet 6x6,CAT-03,Bedding & Textiles,SUP-026,9509.53,15700,2022-08-24,Active
+P-0571,Vitafoam Mattress Topper,CAT-03,Bedding & Textiles,SUP-022,57364.85,77550,2023-02-11,Active
+P-0572,Morning Fresh Mop Set,CAT-03,Cleaning,SUP-026,5269.64,6900,2022-09-09,Active
+P-0573,HomeBase Wall Clock,CAT-03,Home Decor,SUP-028,6343.31,9000,2024-10-18,Active
+P-0574,Ankara House Bedsheet 6x6,CAT-03,Bedding & Textiles,SUP-027,14037.21,20600,2020-05-19,Active
+P-0575,Lion Plastics Cooler 25L,CAT-03,Home Storage,SUP-021,8730.86,11900,2018-02-05,Active
+P-0576,Sterling Food Container Set,CAT-03,Home Storage,SUP-022,8071.61,11050,2023-08-24,Active
+P-0577,HomeBase Cooler 25L,CAT-03,Home Storage,SUP-028,6744.89,9350,2018-03-24,Active
+P-0578,Sterling Water Dispenser Bottle,CAT-03,Home Storage,SUP-026,11008.6,14550,2020-03-28,Discontinued
+P-0579,Master Chef Pressure Cooker 7L,CAT-03,Cookware,SUP-022,15950.35,22350,2018-08-13,Active
+P-0580,Vim Mop Set,CAT-03,Cleaning,SUP-026,6405.73,8850,2023-06-21,Active
+P-0581,Vitafoam Throw Blanket,CAT-03,Bedding & Textiles,SUP-027,53094.2,74550,2021-08-22,Active
+P-0582,Master Chef Stainless Pot 4pc,CAT-03,Cookware,SUP-022,52780.76,76800,2018-11-01,Active
+P-0583,Morning Fresh Scouring Powder,CAT-03,Cleaning,SUP-021,2519.81,3350,2023-04-02,Active
+P-0584,Master Chef Non-Stick Pot Set,CAT-03,Cookware,SUP-022,60007.98,84550,2018-04-01,Active
+P-0585,Mortein Bleach 3.5L,CAT-03,Cleaning,SUP-021,658.07,900,2018-08-22,Active
+P-0586,Mortein Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-026,4533.25,5950,2020-05-20,Active
+P-0587,Harpic Scouring Powder,CAT-03,Cleaning,SUP-022,3010.63,4300,2018-09-02,Active
+P-0588,Sterling Cooler 25L,CAT-03,Home Storage,SUP-028,8335.05,11900,2023-10-28,Active
+P-0589,Deco Lagos Wall Clock,CAT-03,Home Decor,SUP-028,9674.99,13600,2020-11-28,Active
+P-0590,Deco Lagos Photo Frame Set,CAT-03,Home Decor,SUP-027,11563.52,16100,2018-05-10,Active
+P-0591,Tower Non-Stick Pot Set,CAT-03,Cookware,SUP-028,32728.93,45950,2020-11-10,Active
+P-0592,Lion Plastics Storage Box 60L,CAT-03,Home Storage,SUP-027,15890.25,22600,2021-04-23,Active
+P-0593,Bennett Curtain Set,CAT-03,Home Decor,SUP-026,32124.81,43700,2023-08-22,Active
+P-0594,Master Chef Frying Pan 28cm,CAT-03,Cookware,SUP-021,53072.61,72300,2024-05-05,Active
+P-0595,Mouka Throw Blanket,CAT-03,Bedding & Textiles,SUP-026,52599.86,78550,2021-08-09,Active
+P-0596,Ankara House Pillow Pair,CAT-03,Bedding & Textiles,SUP-021,54239.67,88650,2020-06-02,Active
+P-0597,Hypo Insecticide Spray,CAT-03,Cleaning,SUP-021,833.48,1100,2021-11-10,Active
+P-0598,Scanfrost Pressure Cooker 7L,CAT-03,Cookware,SUP-027,8435.88,11800,2020-01-08,Active
+P-0599,Vim Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-028,1258.99,1650,2019-10-09,Active
+P-0600,Sterling Storage Box 60L,CAT-03,Home Storage,SUP-028,6430.96,9100,2018-10-29,Active
+P-0601,HomeBase Food Container Set,CAT-03,Home Storage,SUP-027,13483.68,18200,2022-01-09,Active
+P-0602,Mouka Mattress Topper,CAT-03,Bedding & Textiles,SUP-027,66199.18,95000,2020-02-26,Active
+P-0603,Hypo Scouring Powder,CAT-03,Cleaning,SUP-026,5896.98,8800,2023-12-22,Active
+P-0604,Bedmate Throw Blanket,CAT-03,Bedding & Textiles,SUP-027,66446.28,88650,2020-05-10,Active
+P-0605,Lion Plastics Food Container Set,CAT-03,Home Storage,SUP-028,13578.34,18550,2020-02-26,Active
+P-0606,Mortein Mop Set,CAT-03,Cleaning,SUP-027,6174.22,8600,2021-04-09,Active
+P-0607,Tower Stainless Pot 4pc,CAT-03,Cookware,SUP-027,7018.64,9550,2022-10-30,Active
+P-0608,Vono Kitchens Cast Iron Pot,CAT-03,Cookware,SUP-021,46041.24,57950,2023-06-21,Active
+P-0609,Vitafoam Bedsheet 6x6,CAT-03,Bedding & Textiles,SUP-027,60744.29,83800,2024-07-02,Active
+P-0610,HomeBase Water Dispenser Bottle,CAT-03,Home Storage,SUP-026,10889.43,15600,2021-03-14,Active
+P-0611,Tower Frying Pan 28cm,CAT-03,Cookware,SUP-027,25471.81,35450,2020-01-13,Active
+P-0612,Sniper Scouring Powder,CAT-03,Cleaning,SUP-022,1708.95,2350,2020-02-08,Active
+P-0613,Bennett Photo Frame Set,CAT-03,Home Decor,SUP-022,12495.65,16850,2022-04-17,Active
+P-0614,HomeBase Storage Box 60L,CAT-03,Home Storage,SUP-021,11098.14,15950,2019-10-27,Active
+P-0615,Scanfrost Cast Iron Pot,CAT-03,Cookware,SUP-021,54724.26,77900,2024-08-12,Active
+P-0616,Master Chef Cast Iron Pot,CAT-03,Cookware,SUP-022,27673.05,40200,2021-09-08,Active
+P-0617,Hypo Dishwash 900ml,CAT-03,Cleaning,SUP-021,1094.25,1450,2024-10-02,Active
+P-0618,Sniper Insecticide Spray,CAT-03,Cleaning,SUP-021,5284.64,7300,2018-07-22,Active
+P-0619,Deco Lagos Curtain Set,CAT-03,Home Decor,SUP-028,21808.83,29050,2022-12-14,Active
+P-0620,Bennett Artificial Plant,CAT-03,Home Decor,SUP-028,29222.48,38250,2018-04-23,Active
+P-0621,Vim Bleach 3.5L,CAT-03,Cleaning,SUP-027,1581.41,2500,2018-04-02,Active
+P-0622,Bedmate Duvet Set Queen,CAT-03,Bedding & Textiles,SUP-022,32470.01,42550,2024-02-21,Active
+P-0623,Sterling Laundry Basket,CAT-03,Home Storage,SUP-026,7427.14,9750,2020-04-27,Active
+P-0624,Ankara House Duvet Set Queen,CAT-03,Bedding & Textiles,SUP-022,55686.78,73650,2019-11-19,Active
+P-0625,Scanfrost Non-Stick Pot Set,CAT-03,Cookware,SUP-022,48173.88,62100,2020-01-01,Active
+P-0626,Morning Fresh Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-028,2420.67,3250,2018-07-02,Discontinued
+P-0627,Tower Pressure Cooker 7L,CAT-03,Cookware,SUP-028,4646.27,6900,2022-12-27,Active
+P-0628,Scanfrost Frying Pan 28cm,CAT-03,Cookware,SUP-021,45668.32,65900,2019-08-24,Active
+P-0629,HomeBase Photo Frame Set,CAT-03,Home Decor,SUP-026,11272.19,15950,2021-04-30,Active
+P-0630,Mouka Duvet Set Queen,CAT-03,Bedding & Textiles,SUP-028,40935.53,58650,2022-03-25,Active
+P-0631,Ankara House Throw Blanket,CAT-03,Bedding & Textiles,SUP-021,28602.51,39300,2024-10-23,Active
+P-0632,Mortein Insecticide Spray,CAT-03,Cleaning,SUP-026,2191.34,3150,2018-09-10,Active
+P-0633,Vono Kitchens Non-Stick Pot Set,CAT-03,Cookware,SUP-028,55318.11,78650,2023-03-26,Active
+P-0634,Vono Kitchens Frying Pan 28cm,CAT-03,Cookware,SUP-022,26081.79,38150,2020-01-03,Active
+P-0635,Tower Cast Iron Pot,CAT-03,Cookware,SUP-022,14760.25,22900,2019-10-19,Active
+P-0636,Sniper Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-026,3386.48,5050,2019-01-23,Active
+P-0637,Scanfrost Stainless Pot 4pc,CAT-03,Cookware,SUP-026,12208.84,17400,2020-07-30,Active
+P-0638,Hypo Bleach 3.5L,CAT-03,Cleaning,SUP-028,5251.34,8350,2021-10-20,Active
+P-0639,Lion Plastics Laundry Basket,CAT-03,Home Storage,SUP-028,5765.61,8550,2021-11-20,Active
+P-0640,Deco Lagos Artificial Plant,CAT-03,Home Decor,SUP-026,9696.99,14400,2018-01-04,Active
+P-0641,Harpic Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-026,5959.38,8050,2018-06-15,Discontinued
+P-0642,Morning Fresh Dishwash 900ml,CAT-03,Cleaning,SUP-021,831.16,1100,2023-01-12,Active
+P-0643,HomeBase Curtain Set,CAT-03,Home Decor,SUP-021,15053.48,20350,2019-08-10,Active
+P-0644,Harpic Bleach 3.5L,CAT-03,Cleaning,SUP-021,3375.21,5050,2020-09-29,Active
+P-0645,Hypo Mop Set,CAT-03,Cleaning,SUP-022,698.51,1050,2019-01-11,Active
+P-0646,Bennett Wall Clock,CAT-03,Home Decor,SUP-022,21583.61,30600,2023-03-24,Active
+P-0647,Morning Fresh Insecticide Spray,CAT-03,Cleaning,SUP-021,2813.64,3850,2019-10-21,Active
+P-0648,Harpic Dishwash 900ml,CAT-03,Cleaning,SUP-021,2360.36,3500,2023-03-30,Active
+P-0649,Petra Cooler 25L,CAT-03,Home Storage,SUP-026,6308.48,7800,2019-09-20,Active
+P-0650,Harpic Mop Set,CAT-03,Cleaning,SUP-022,1224.02,1800,2024-08-14,Active
+P-0651,HomeBase Table Lamp,CAT-03,Home Decor,SUP-021,6131.43,8500,2023-10-21,Discontinued
+P-0652,Petra Laundry Basket,CAT-03,Home Storage,SUP-027,18004.89,29550,2019-11-05,Active
+P-0653,Deco Lagos Table Lamp,CAT-03,Home Decor,SUP-028,3370.19,5100,2018-04-23,Active
+P-0654,Bedmate Mattress Topper,CAT-03,Bedding & Textiles,SUP-021,26919.11,37000,2020-02-05,Active
+P-0655,Mouka Bedsheet 6x6,CAT-03,Bedding & Textiles,SUP-022,20785.25,27800,2022-01-27,Active
+P-0656,Vono Kitchens Stainless Pot 4pc,CAT-03,Cookware,SUP-021,34766.31,50100,2019-07-08,Active
+P-0657,Ankara House Mattress Topper,CAT-03,Bedding & Textiles,SUP-027,65459.85,85300,2023-06-04,Active
+P-0658,Vono Kitchens Pressure Cooker 7L,CAT-03,Cookware,SUP-026,35458.08,50150,2023-12-22,Active
+P-0659,Harpic Insecticide Spray  ,CAT-03,Cleaning,SUP-022,5053.47,6650,2020-04-04,Active
+P-0660,Vitafoam Duvet Set Queen,CAT-03,Bedding & Textiles,SUP-026,32885.17,53150,2020-05-21,Active
+P-0661,Vim Dishwash 900ml,CAT-03,Cleaning,SUP-028,4003.24,5300,2018-09-26,Active
+P-0662,Sniper Dishwash 900ml,CAT-03,Cleaning,SUP-026,1240.21,1700,2023-02-21,Active
+P-0663,HomeBase Laundry Basket,CAT-03,Home Storage,SUP-021,28165.29,34450,2023-03-29,Active
+P-0664,Vim Insecticide Spray,CAT-03,Cleaning,SUP-027,4848.49,6750,2019-10-18,Active
+P-0665,Vitafoam Pillow Pair,CAT-03,Bedding & Textiles,SUP-026,54301.36,69500,2023-03-09,Active
+P-0666,Hypo Toilet Cleaner 725ml,CAT-03,Cleaning,SUP-027,5063.03,6800,2018-05-29,Active
+P-0667,Morning Fresh Bleach 3.5L,CAT-03,Cleaning,SUP-022,3248.1,4500,2022-01-08,Active
+P-0668,Bedmate Pillow Pair,CAT-03,Bedding & Textiles,SUP-022,14941.51,19000,2022-09-24,Active
+P-0669,Mortein Dishwash 900ml,CAT-03,Cleaning,SUP-021,4204.76,5700,2021-09-10,Active
+P-0670,Mortein Scouring Powder,CAT-03,Cleaning,SUP-021,4039.42,5800,2020-05-13,Active
+P-0671,Mouka Pillow Pair,CAT-03,Bedding & Textiles,SUP-021,46781.29,62550,2022-07-02,Active
+P-0672,Vitafoam Throw Blanket XL,CAT-03,Bedding & Textiles,SUP-027,40108.99,53150,2023-04-29,Active
+P-0673,Ankara House Mattress Topper XL,CAT-03,Bedding & Textiles,SUP-028,42577.89,52250,2018-09-10,Active
+P-0674,Deco Lagos Artificial Plant XL,CAT-03,Home Decor,SUP-028,3876.14,5900,2019-04-01,Active
+P-0675,Petra Water Dispenser Bottle XL,CAT-03,Home Storage,SUP-028,21203.48,31850,2019-07-09,Active
+P-0676,Morning Fresh Insecticide Spray XL,CAT-03,Cleaning,SUP-022,2503.26,3600,2023-09-25,Active
+P-0677,Vitafoam Mattress Topper XL,CAT-03,Bedding & Textiles,SUP-022,33920.13,51550,2023-12-01,Active
+P-0678,Mouka Throw Blanket XL,CAT-03,Bedding & Textiles,SUP-028,11772.62,17450,2019-02-06,Active
+P-0679,Hypo Dishwash 900ml XL,CAT-03,Cleaning,SUP-021,3300.3,5100,2020-07-22,Active
+P-0680,Hypo Mop Set XL,CAT-03,Cleaning,SUP-026,2738.64,3600,2023-11-09,Active
+P-0681,Scanfrost Cast Iron Pot XL,CAT-03,Cookware,SUP-028,52773.02,69500,2020-08-16,Active
+P-0682,Sterling Laundry Basket XL,CAT-03,Home Storage,SUP-026,3118.31,4300,2024-05-18,Active
+P-0683,Hypo Bleach 3.5L XL,CAT-03,Cleaning,SUP-028,3797.27,5500,2024-01-19,Active
+P-0684,Hypo Dishwash 900ml XL,CAT-03,Cleaning,SUP-026,3711.97,5050,2022-04-18,Active
+P-0685,HomeBase Storage Box 60L XL,CAT-03,Home Storage,SUP-021,23687.84,31950,2022-09-04,Active
+P-0686,Mouka Throw Blanket XL,CAT-03,Bedding & Textiles,SUP-022,67478.06,89600,2018-05-21,Active
+P-0687,Sterling Cooler 25L XL,CAT-03,Home Storage,SUP-028,14065.08,18900,2021-08-24,Active
+P-0688,Ankara House Mattress Topper XL,CAT-03,Bedding & Textiles,SUP-028,10207.49,13250,2020-03-03,Active
+P-0689,Morning Fresh Toilet Cleaner 725ml XL,CAT-03,Cleaning,SUP-021,1945.09,2600,2023-09-23,Active
+P-0690,Lion Plastics Cooler 25L XL,CAT-03,Home Storage,SUP-027,5536.93,8300,2023-07-14,Active
+P-0691,Lion Plastics Food Container Set XL,CAT-03,Home Storage,SUP-028,25732.79,34900,2020-07-09,Active
+P-0692,Master Chef Cast Iron Pot XL,CAT-03,Cookware,SUP-026,58500.17,77350,2019-09-30,Active
+P-0693,Lion Plastics Cooler 25L XL,CAT-03,Home Storage,SUP-021,17375.75,25200,2022-04-28,Discontinued
+P-0694,Hypo Insecticide Spray XL,CAT-03,Cleaning,SUP-027,6910.53,9150,2019-03-13,Active
+P-0695,Morning Fresh Insecticide Spray XL,CAT-03,Cleaning,SUP-028,507.2,700,2023-05-08,Active
+P-0696,Morning Fresh Insecticide Spray XL,CAT-03,Cleaning,SUP-028,2992.01,4500,2023-09-07,Active
+P-0697,Sniper Toilet Cleaner 725ml XL,CAT-03,Cleaning,SUP-022,2715.18,3950,2019-09-17,Active
+P-0698,Sterling Laundry Basket XL,CAT-03,Home Storage,SUP-027,10394.14,13850,2021-10-07,Active
+P-0699,Scanfrost Frying Pan 28cm XL,CAT-03,Cookware,SUP-021,46079.38,57050,2021-09-20,Active
+P-0700,Bennett Wall Clock XL,CAT-03,Home Decor,SUP-026,22192.49,31800,2019-08-19,Active
+P-0701,Sterling Storage Box 60L XL,CAT-03,Home Storage,SUP-028,2416.65,3600,2019-10-18,Active
+P-0702,Petra Food Container Set XL,CAT-03,Home Storage,SUP-021,20463.8,29000,2022-08-20,Active
+P-0703,Deco Lagos Wall Clock XL,CAT-03,Home Decor,SUP-022,2443.98,3750,2022-02-18,Active
+P-0704,Tower Frying Pan 28cm XL  ,CAT-03,Cookware,SUP-028,60529.02,84650,2022-07-05,Active
+P-0705,Scanfrost Stainless Pot 4pc XL,CAT-03,Cookware,SUP-027,49822.23,71400,2021-10-25,Active
+P-0706,HomeBase Artificial Plant XL,CAT-03,Home Decor,SUP-021,20726.23,31950,2024-05-11,Active
+P-0707,Lion Plastics Water Dispenser Bottle XL,CAT-03,Home Storage,SUP-026,2692.87,3400,2018-11-02,Active
+P-0708,Harpic Scouring Powder XL,CAT-03,Cleaning,SUP-022,1698.58,2350,2022-02-13,Active
+P-0709,Vim Toilet Cleaner 725ml XL,CAT-03,Cleaning,SUP-021,1415.55,2100,2021-01-18,Active
+P-0710,Sterling Cooler 25L XL,CAT-03,Home Storage,SUP-028,21246.84,29750,2023-05-05,Active
+P-0711,Harpic Insecticide Spray XL,CAT-03,Cleaning,SUP-026,2452.49,3250,2022-06-20,Active
+P-0712,Sterling Water Dispenser Bottle XL,CAT-03,Home Storage,SUP-028,11776.02,16950,2021-11-22,Active
+P-0713,Vono Kitchens Pressure Cooker 7L XL,CAT-03,Cookware,SUP-028,40552.69,58900,2024-07-04,Active
+P-0714,Bennett Curtain Set XL,CAT-03,Home Decor,SUP-027,2453.79,3350,2021-03-01,Active
+P-0715,Scanfrost Pressure Cooker 7L XL,CAT-03,Cookware,SUP-027,46285.27,58800,2022-03-16,Active
+P-0716,Mouka Mattress Topper XL,CAT-03,Bedding & Textiles,SUP-028,63187.5,78650,2020-02-18,Active
+P-0717,Sterling Food Container Set XL,CAT-03,Home Storage,SUP-022,13762.67,20050,2023-04-17,Active
+P-0718,Lion Plastics Water Dispenser Bottle XL,CAT-03,Home Storage,SUP-027,22368.84,31700,2020-05-27,Active
+P-0719,Ankara House Duvet Set Queen XL,CAT-03,Bedding & Textiles,SUP-027,16967.63,25150,2024-01-03,Active
+P-0720,Vono Kitchens Stainless Pot 4pc XL,CAT-03,Cookware,SUP-027,27850.93,39650,2020-05-13,Active
+P-0721,Master Chef Cast Iron Pot XL,CAT-03,Cookware,SUP-027,17672.54,25450,2020-05-06,Active
+P-0722,Morning Fresh Scouring Powder XL,CAT-03,Cleaning,SUP-026,6144.89,8500,2022-10-14,Active
+P-0723,HomeBase Cooler 25L XL,CAT-03,Home Storage,SUP-028,12717.61,19000,2021-07-26,Active
+P-0724,Vitafoam Bedsheet 6x6 XL,CAT-03,Bedding & Textiles,SUP-026,15294.74,22450,2023-08-28,Active
+P-0725,HomeBase Photo Frame Set XL,CAT-03,Home Decor,SUP-021,26596.84,39100,2023-03-15,Active
+P-0726,HomeBase Table Lamp XL,CAT-03,Home Decor,SUP-021,23599.24,33350,2018-01-13,Active
+P-0727,Deco Lagos Photo Frame Set XL,CAT-03,Home Decor,SUP-021,31343.95,44700,2022-07-20,Active
+P-0728,Scanfrost Non-Stick Pot Set XL,CAT-03,Cookware,SUP-026,48901.38,64950,2024-03-27,Active
+P-0729,Mortein Insecticide Spray XL,CAT-03,Cleaning,SUP-028,3833.35,5650,2024-05-06,Active
+P-0730,Morning Fresh Bleach 3.5L XL,CAT-03,Cleaning,SUP-021,5860.46,8100,2024-03-31,Active
+P-0731,Bennett Wall Clock XL,CAT-03,Home Decor,SUP-027,17587.38,23150,2020-09-12,Active
+P-0732,Vim Insecticide Spray XL,CAT-03,Cleaning,SUP-021,927.88,1200,2020-08-31,Active
+P-0733,Mortein Mop Set XL,CAT-03,Cleaning,SUP-022,3384.17,4600,2021-03-14,Active
+P-0734,Bedmate Bedsheet 6x6 XL,CAT-03,Bedding & Textiles,SUP-027,41165.3,57150,2018-10-31,Active
+P-0735,Tower Frying Pan 28cm XL  ,CAT-03,Cookware,SUP-027,48617.21,65050,2021-03-26,Active
+P-0736,Mouka Pillow Pair XL,CAT-03,Bedding & Textiles,SUP-027,58168.53,81750,2018-08-04,Active
+P-0737,Mouka Bedsheet 6x6 XL,CAT-03,Bedding & Textiles,SUP-021,47220.52,71400,2021-12-27,Active
+P-0738,Petra Food Container Set XL,CAT-03,Home Storage,SUP-027,8274.35,11550,2019-02-19,Active
+P-0739,Master Chef Cast Iron Pot XL,CAT-03,Cookware,SUP-022,50747.97,75250,2024-06-29,Active
+P-0740,Sniper Mop Set XL,CAT-03,Cleaning,SUP-026,1410.58,2100,2021-09-19,Active
+P-0741,Dudu Osun Bar Soap 6pk,CAT-04,Bath & Body,SUP-037,5319.92,7900,2018-03-22,Active
+P-0742,Zaron Facial Cleanser  ,CAT-04,Skincare,SUP-038,7989.8,11600,2021-10-30,Active
+P-0743,X-Pression Edge Control,CAT-04,Haircare,SUP-003,7859.99,13450,2022-11-09,Active
+P-0744,Dettol Black Soap 150g,CAT-04,Bath & Body,SUP-038,3298.04,5950,2018-07-04,Active
+P-0745,Gillette Beard Oil,CAT-04,Men's Grooming,SUP-037,1645.98,2750,2019-09-11,Active
+P-0746,Irish Spring Black Soap 150g,CAT-04,Bath & Body,SUP-034,3232.5,4800,2020-10-07,Active
+P-0747,Dove Facial Cleanser,CAT-04,Skincare,SUP-038,9448.51,14950,2018-01-31,Active
+P-0748,ORS Braid Extension,CAT-04,Haircare,SUP-039,4414.9,6650,2019-09-28,Active
+P-0749,Cantu Hair Conditioner,CAT-04,Haircare,SUP-039,1831.45,2750,2023-01-27,Active
+P-0750,Dudu Osun Antiseptic 750ml,CAT-04,Bath & Body,SUP-002,338.11,500,2019-05-10,Active
+P-0751,Cantu Relaxer Kit,CAT-04,Haircare,SUP-039,2932.25,4650,2021-10-19,Active
+P-0752,X-Pression Relaxer Kit,CAT-04,Haircare,SUP-038,4875.16,8300,2018-08-22,Active
+P-0753,Nivea Body Cream 200ml,CAT-04,Skincare,SUP-035,14326.35,23850,2021-12-09,Active
+P-0754,Lux Body Spray,CAT-04,Bath & Body,SUP-002,2405.5,3550,2019-03-19,Active
+P-0755,Premier Cool Black Soap 150g,CAT-04,Bath & Body,SUP-002,3100.08,4700,2019-05-31,Active
+P-0756,ORS Relaxer Kit,CAT-04,Haircare,SUP-038,7783.1,11100,2018-09-28,Active
+P-0757,Cantu Braid Extension,CAT-04,Haircare,SUP-037,7187.82,12100,2018-07-21,Active
+P-0758,Lux Black Soap 150g,CAT-04,Bath & Body,SUP-034,4026.09,6250,2020-12-28,Active
+P-0759,Close Up Whitening Paste,CAT-04,Oral Care,SUP-039,972.27,1400,2022-06-20,Active
+P-0760,Premier Cool Body Spray,CAT-04,Bath & Body,SUP-034,5485.38,8550,2018-08-10,Active
+P-0761,Premier Cool Antiseptic 750ml,CAT-04,Bath & Body,SUP-039,5677.4,8900,2022-08-16,Active
+P-0762,CeraVe Body Cream 200ml,CAT-04,Skincare,SUP-035,15543.47,25000,2019-07-03,Active
+P-0763,X-Pression Shea Butter Cream 340g,CAT-04,Haircare,SUP-037,6472.98,10000,2023-03-01,Active
+P-0764,Dettol Shower Gel 500ml,CAT-04,Bath & Body,SUP-038,1003.9,1650,2023-05-23,Active
+P-0765,Nivea Men Deodorant Roll-On,CAT-04,Men's Grooming,SUP-034,3956.61,5500,2018-09-16,Active
+P-0766,Dettol Body Spray,CAT-04,Bath & Body,SUP-034,4221.66,6350,2021-12-16,Active
+P-0767,Irish Spring Bar Soap 6pk,CAT-04,Bath & Body,SUP-038,5324.39,7600,2024-05-26,Active
+P-0768,Nivea Men Aftershave 100ml,CAT-04,Men's Grooming,SUP-037,8045.51,13850,2018-07-24,Active
+P-0769,Dark & Lovely Shea Butter Cream 340g,CAT-04,Haircare,SUP-037,3989.11,5800,2021-12-20,Active
+P-0770,Dark & Lovely Braid Extension,CAT-04,Haircare,SUP-002,8885.04,14950,2022-03-02,Active
+P-0771,Dudu Osun Black Soap 150g,CAT-04,Bath & Body,SUP-039,1081.58,1500,2018-06-03,Active
+P-0772,Vaseline Facial Cleanser,CAT-04,Skincare,SUP-035,12649.68,20800,2024-03-08,Discontinued
+P-0773,Oriflame Facial Cleanser,CAT-04,Skincare,SUP-002,17025.17,24600,2019-02-19,Discontinued
+P-0774,Arko Beard Oil,CAT-04,Men's Grooming,SUP-038,893.45,1250,2021-07-27,Active
+P-0775,Old Spice Beard Oil,CAT-04,Men's Grooming,SUP-002,4121.37,6600,2019-12-08,Active
+P-0776,CeraVe Petroleum Jelly 250ml,CAT-04,Skincare,SUP-003,11933.35,19400,2024-01-06,Active
+P-0777,Arko Deodorant Roll-On,CAT-04,Men's Grooming,SUP-038,6513.01,10600,2024-07-17,Active
+P-0778,Nivea Men Shaving Stick,CAT-04,Men's Grooming,SUP-039,8348.96,11550,2018-11-20,Active
+P-0779,Nivea Body Lotion 400ml,CAT-04,Skincare,SUP-037,8313.56,13600,2019-07-09,Active
+P-0780,Irish Spring Body Spray,CAT-04,Bath & Body,SUP-003,3906.48,5950,2021-05-20,Active
+P-0781,ORS Hair Conditioner,CAT-04,Haircare,SUP-034,969.4,1450,2019-11-08,Active
+P-0782,Mega Growth Edge Control,CAT-04,Haircare,SUP-039,4128.74,7000,2023-03-12,Active
+P-0783,Nivea Men Razor 4pk,CAT-04,Men's Grooming,SUP-038,2506.71,3950,2019-06-08,Active
+P-0784,Colgate Mouthwash 500ml,CAT-04,Oral Care,SUP-035,2119.84,3250,2019-11-25,Active
+P-0785,Nivea Facial Cleanser,CAT-04,Skincare,SUP-003,6412.55,9800,2020-12-14,Active
+P-0786,Vaseline Sunscreen SPF50,CAT-04,Skincare,SUP-035,11453.12,18900,2019-05-15,Active
+P-0787,Vaseline Body Cream 200ml,CAT-04,Skincare,SUP-002,8121.7,12300,2023-02-13,Active
+P-0788,Zaron Petroleum Jelly 250ml,CAT-04,Skincare,SUP-003,2641.54,4000,2023-09-19,Active
+P-0789,ORS Shea Butter Cream 340g,CAT-04,Haircare,SUP-035,5952.72,8700,2018-11-06,Discontinued
+P-0790,Mega Growth Relaxer Kit,CAT-04,Haircare,SUP-034,6975.58,9600,2018-02-12,Active
+P-0791,Irish Spring Shower Gel 500ml,CAT-04,Bath & Body,SUP-036,1013.06,1500,2018-02-20,Active
+P-0792,Old Spice Razor 4pk,CAT-04,Men's Grooming,SUP-038,4128.81,6150,2021-09-04,Active
+P-0793,Nivea Petroleum Jelly 250ml,CAT-04,Skincare,SUP-038,2289.58,3700,2018-01-03,Active
+P-0794,Dove Body Cream 200ml,CAT-04,Skincare,SUP-039,11314.91,15900,2020-10-20,Active
+P-0795,Oral-B Whitening Paste,CAT-04,Oral Care,SUP-003,941.97,1450,2018-03-02,Active
+P-0796,Vaseline Body Lotion 400ml,CAT-04,Skincare,SUP-035,15758.05,27500,2022-06-02,Active
+P-0797,Gillette Aftershave 100ml,CAT-04,Men's Grooming,SUP-002,1252.08,2050,2022-03-06,Active
+P-0798,Lux Bar Soap 6pk,CAT-04,Bath & Body,SUP-038,3655.56,5800,2018-11-07,Active
+P-0799,Zaron Sunscreen SPF50,CAT-04,Skincare,SUP-038,3131.16,5200,2020-08-17,Active
+P-0800,Irish Spring Antiseptic 750ml,CAT-04,Bath & Body,SUP-002,3636.94,6000,2022-01-22,Active
+P-0801,Old Spice Shaving Stick,CAT-04,Men's Grooming,SUP-034,5776.62,8350,2018-05-25,Active
+P-0802,Sensodyne Toothpaste 140g,CAT-04,Oral Care,SUP-035,2690.7,4350,2018-10-23,Active
+P-0803,Oriflame Petroleum Jelly 250ml,CAT-04,Skincare,SUP-038,4613.27,7750,2021-02-14,Discontinued
+P-0804,Nivea Sunscreen SPF50,CAT-04,Skincare,SUP-039,11857.1,20200,2021-10-18,Active
+P-0805,ORS Edge Control,CAT-04,Haircare,SUP-038,7095.87,10350,2018-01-19,Active
+P-0806,Dettol Bar Soap 6pk,CAT-04,Bath & Body,SUP-037,4292.42,6300,2021-04-02,Active
+P-0807,Oriflame Sunscreen SPF50,CAT-04,Skincare,SUP-036,10797.54,17150,2020-07-01,Active
+P-0808,Dove Petroleum Jelly 250ml,CAT-04,Skincare,SUP-034,15583.69,24850,2023-05-22,Active
+P-0809,Oral-B Toothpaste 140g,CAT-04,Oral Care,SUP-003,943.54,1300,2021-03-25,Discontinued
+P-0810,CeraVe Sunscreen SPF50,CAT-04,Skincare,SUP-035,19434.85,27650,2018-11-24,Active
+P-0811,Sensodyne Mouthwash 500ml,CAT-04,Oral Care,SUP-002,1690.11,2650,2023-07-31,Active
+P-0812,Nivea Men Beard Oil,CAT-04,Men's Grooming,SUP-039,6859.57,11350,2022-06-13,Active
+P-0813,Dark & Lovely Edge Control,CAT-04,Haircare,SUP-034,7635.35,11850,2023-12-29,Active
+P-0814,Premier Cool Shower Gel 500ml,CAT-04,Bath & Body,SUP-037,3345.24,4900,2022-09-18,Discontinued
+P-0815,Dove Body Lotion 400ml,CAT-04,Skincare,SUP-037,5302.9,7850,2019-01-28,Active
+P-0816,Arko Shaving Stick  ,CAT-04,Men's Grooming,SUP-002,9498.46,13600,2023-02-02,Active
+P-0817,CeraVe Body Lotion 400ml,CAT-04,Skincare,SUP-036,9728.11,15750,2022-01-20,Active
+P-0818,Sensodyne Whitening Paste,CAT-04,Oral Care,SUP-037,2802.1,4600,2019-10-01,Active
+P-0819,Dove Sunscreen SPF50,CAT-04,Skincare,SUP-002,2809.98,4650,2021-03-18,Active
+P-0820,Colgate Whitening Paste,CAT-04,Oral Care,SUP-036,3926.53,6250,2022-08-28,Active
+P-0821,Gillette Shaving Stick,CAT-04,Men's Grooming,SUP-034,9131.61,12350,2022-11-11,Active
+P-0822,Close Up Mouthwash 500ml,CAT-04,Oral Care,SUP-035,821.75,1400,2019-04-27,Active
+P-0823,Vaseline Petroleum Jelly 250ml,CAT-04,Skincare,SUP-034,1934.81,2850,2018-06-15,Active
+P-0824,Dark & Lovely Hair Conditioner,CAT-04,Haircare,SUP-002,6386.1,9450,2024-05-09,Active
+P-0825,CeraVe Facial Cleanser,CAT-04,Skincare,SUP-035,10158.94,15900,2023-08-17,Active
+P-0826,Lux Shower Gel 500ml,CAT-04,Bath & Body,SUP-002,4113.06,6050,2023-11-06,Active
+P-0827,Oriflame Body Lotion 400ml,CAT-04,Skincare,SUP-034,15916.89,23400,2024-09-14,Active
+P-0828,Zaron Body Lotion 400ml,CAT-04,Skincare,SUP-038,12574.46,21200,2020-09-18,Active
+P-0829,X-Pression Braid Extension,CAT-04,Haircare,SUP-038,1408.57,2350,2023-04-21,Active
+P-0830,Colgate Toothpaste 140g,CAT-04,Oral Care,SUP-034,1769.27,2700,2021-05-06,Active
+P-0831,Sensodyne Toothbrush Twin Pack,CAT-04,Oral Care,SUP-037,1614.49,2600,2023-03-21,Active
+P-0832,Mega Growth Braid Extension,CAT-04,Haircare,SUP-037,1301.59,2100,2020-12-25,Active
+P-0833,Old Spice Aftershave 100ml,CAT-04,Men's Grooming,SUP-035,7792.34,10600,2019-08-10,Active
+P-0834,Close Up Toothpaste 140g,CAT-04,Oral Care,SUP-035,1839.53,2850,2020-08-31,Active
+P-0835,Old Spice Deodorant Roll-On,CAT-04,Men's Grooming,SUP-038,5729.66,8800,2019-10-30,Active
+P-0836,Dettol Antiseptic 750ml,CAT-04,Bath & Body,SUP-036,681.31,1050,2020-08-14,Active
+P-0837,Arko Aftershave 100ml,CAT-04,Men's Grooming,SUP-034,5772.75,10150,2019-07-30,Discontinued
+P-0838,Mega Growth Hair Conditioner,CAT-04,Haircare,SUP-036,2217.25,3400,2024-02-23,Active
+P-0839,Zaron Body Cream 200ml,CAT-04,Skincare,SUP-035,13828.98,21700,2020-08-07,Active
+P-0840,Close Up Toothbrush Twin Pack,CAT-04,Oral Care,SUP-036,5008.07,7350,2020-02-26,Active
+P-0841,Cantu Edge Control,CAT-04,Haircare,SUP-002,2843.11,4350,2022-05-26,Active
+P-0842,Arko Razor 4pk,CAT-04,Men's Grooming,SUP-003,6012.51,9400,2022-02-27,Active
+P-0843,Colgate Toothbrush Twin Pack,CAT-04,Oral Care,SUP-038,3143.74,4900,2022-03-17,Active
+P-0844,Oriflame Body Cream 200ml,CAT-04,Skincare,SUP-038,5024.8,8450,2023-06-29,Active
+P-0845,Oral-B Mouthwash 500ml,CAT-04,Oral Care,SUP-002,3714.42,6700,2021-01-09,Active
+P-0846,Gillette Deodorant Roll-On,CAT-04,Men's Grooming,SUP-035,4365.01,6250,2018-12-24,Active
+P-0847,Dudu Osun Body Spray,CAT-04,Bath & Body,SUP-034,390.03,650,2023-01-04,Active
+P-0848,Gillette Razor 4pk,CAT-04,Men's Grooming,SUP-034,7403.9,10400,2018-01-29,Active
+P-0849,Cantu Shea Butter Cream 340g,CAT-04,Haircare,SUP-037,5772.08,9500,2024-03-17,Active
+P-0850,Lux Antiseptic 750ml,CAT-04,Bath & Body,SUP-039,1333.46,2400,2019-09-17,Active
+P-0851,Oral-B Toothbrush Twin Pack,CAT-04,Oral Care,SUP-002,3571.48,5850,2022-07-07,Active
+P-0852,Dark & Lovely Relaxer Kit,CAT-04,Haircare,SUP-039,4405.92,7250,2023-06-22,Active
+P-0853,Dudu Osun Shower Gel 500ml,CAT-04,Bath & Body,SUP-039,6073.85,8300,2024-04-16,Active
+P-0854,Premier Cool Bar Soap 6pk,CAT-04,Bath & Body,SUP-034,2820.96,4450,2019-10-25,Active
+P-0855,Mega Growth Shea Butter Cream 340g,CAT-04,Haircare,SUP-035,2989.46,4450,2018-07-28,Active
+P-0856,X-Pression Hair Conditioner,CAT-04,Haircare,SUP-038,2426.91,3550,2022-11-01,Active
+P-0857,Cantu Hair Conditioner XL,CAT-04,Haircare,SUP-034,7271.48,10400,2023-03-18,Active
+P-0858,Dove Petroleum Jelly 250ml XL,CAT-04,Skincare,SUP-002,3909.27,6200,2019-12-05,Active
+P-0859,CeraVe Sunscreen SPF50 XL,CAT-04,Skincare,SUP-002,13220.82,20250,2020-01-25,Active
+P-0860,ORS Edge Control XL,CAT-04,Haircare,SUP-038,6718.8,9800,2023-03-22,Active
+P-0861,Cantu Edge Control XL,CAT-04,Haircare,SUP-035,2932.23,4650,2022-08-11,Active
+P-0862,ORS Edge Control XL,CAT-04,Haircare,SUP-035,3261.82,5500,2018-06-06,Active
+P-0863,Sensodyne Mouthwash 500ml XL,CAT-04,Oral Care,SUP-035,2873.34,4400,2019-04-22,Active
+P-0864,X-Pression Edge Control XL,CAT-04,Haircare,SUP-039,9480.88,14200,2019-08-08,Active
+P-0865,Mega Growth Relaxer Kit XL,CAT-04,Haircare,SUP-003,844.01,1400,2024-03-02,Active
+P-0866,Dark & Lovely Relaxer Kit XL,CAT-04,Haircare,SUP-034,8200.54,12750,2018-06-28,Active
+P-0867,Old Spice Shaving Stick XL,CAT-04,Men's Grooming,SUP-035,3068.06,4850,2023-04-27,Active
+P-0868,Irish Spring Black Soap 150g XL,CAT-04,Bath & Body,SUP-037,646.42,1050,2020-10-11,Active
+P-0869,Close Up Mouthwash 500ml XL,CAT-04,Oral Care,SUP-035,3326.09,5550,2022-05-18,Active
+P-0870,Mega Growth Relaxer Kit XL,CAT-04,Haircare,SUP-035,575.21,800,2020-01-22,Active
+P-0871,Zaron Petroleum Jelly 250ml XL,CAT-04,Skincare,SUP-038,4304.98,6200,2020-06-03,Active
+P-0872,Oriflame Facial Cleanser XL,CAT-04,Skincare,SUP-036,1839.29,2750,2021-03-10,Active
+P-0873,Dettol Antiseptic 750ml XL,CAT-04,Bath & Body,SUP-038,5601.38,8700,2020-02-20,Active
+P-0874,X-Pression Edge Control XL,CAT-04,Haircare,SUP-037,6326.23,9350,2019-08-03,Active
+P-0875,Vaseline Sunscreen SPF50 XL,CAT-04,Skincare,SUP-034,2259.89,3250,2018-08-29,Active
+P-0876,Cantu Edge Control XL,CAT-04,Haircare,SUP-037,5894.02,10350,2021-10-29,Active
+P-0877,Cantu Hair Conditioner XL,CAT-04,Haircare,SUP-036,835.32,1350,2024-09-27,Active
+P-0878,Nivea Facial Cleanser XL,CAT-04,Skincare,SUP-037,842.68,1300,2022-04-12,Active
+P-0879,Dudu Osun Black Soap 150g XL,CAT-04,Bath & Body,SUP-035,3207.84,4700,2024-05-31,Active
+P-0880,Close Up Toothpaste 140g XL,CAT-04,Oral Care,SUP-037,731.7,1250,2019-01-01,Active
+P-0881,CeraVe Facial Cleanser XL,CAT-04,Skincare,SUP-034,6056.2,8950,2023-12-01,Discontinued
+P-0882,Gillette Shaving Stick XL,CAT-04,Men's Grooming,SUP-035,5704.59,8150,2019-06-25,Active
+P-0883,Lux Body Spray XL,CAT-04,Bath & Body,SUP-035,3266.41,5200,2022-06-08,Active
+P-0884,Zaron Body Cream 200ml XL,CAT-04,Skincare,SUP-035,17042.15,26150,2020-02-14,Active
+P-0885,Dove Body Lotion 400ml XL,CAT-04,Skincare,SUP-038,11592.7,18600,2024-04-25,Active
+P-0886,Old Spice Deodorant Roll-On XL,CAT-04,Men's Grooming,SUP-003,641.2,950,2019-06-13,Active
+P-0887,Arko Aftershave 100ml XL,CAT-04,Men's Grooming,SUP-003,3340.55,5500,2018-10-01,Active
+P-0888,Nivea Men Razor 4pk XL,CAT-04,Men's Grooming,SUP-034,5687.98,8650,2023-11-02,Active
+P-0889,Lux Black Soap 150g XL,CAT-04,Bath & Body,SUP-003,383.88,600,2023-02-13,Active
+P-0890,Irish Spring Black Soap 150g XL,CAT-04,Bath & Body,SUP-037,1757.24,2850,2018-03-26,Active
+P-0891,Vaseline Sunscreen SPF50 XL,CAT-04,Skincare,SUP-036,3163.94,4950,2023-03-15,Active
+P-0892,CeraVe Sunscreen SPF50 XL,CAT-04,Skincare,SUP-039,4194.31,6400,2020-05-15,Active
+P-0893,Colgate Mouthwash 500ml XL,CAT-04,Oral Care,SUP-003,957.78,1450,2021-04-23,Active
+P-0894,Oral-B Mouthwash 500ml XL,CAT-04,Oral Care,SUP-002,1173.71,1800,2021-01-26,Active
+P-0895,Vaseline Petroleum Jelly 250ml XL,CAT-04,Skincare,SUP-037,7231.0,10700,2024-07-13,Active
+P-0896,X-Pression Shea Butter Cream 340g XL,CAT-04,Haircare,SUP-037,5938.11,8800,2023-05-21,Active
+P-0897,Dudu Osun Body Spray XL,CAT-04,Bath & Body,SUP-002,3267.89,5250,2020-01-20,Active
+P-0898,Close Up Toothbrush Twin Pack XL,CAT-04,Oral Care,SUP-036,4146.82,6700,2018-11-01,Active
+P-0899,Zaron Body Lotion 400ml XL,CAT-04,Skincare,SUP-039,5280.54,8450,2024-08-25,Discontinued
+P-0900,Irish Spring Antiseptic 750ml XL  ,CAT-04,Bath & Body,SUP-037,5217.92,7350,2023-07-18,Active
+P-0901,Colgate Toothpaste 140g XL,CAT-04,Oral Care,SUP-002,704.72,1000,2020-02-11,Active
+P-0902,Sensodyne Toothpaste 140g XL,CAT-04,Oral Care,SUP-034,797.15,1200,2023-10-02,Active
+P-0903,Gillette Shaving Stick XL,CAT-04,Men's Grooming,SUP-003,2165.94,3350,2020-04-26,Active
+P-0904,Dettol Shower Gel 500ml XL,CAT-04,Bath & Body,SUP-035,1033.02,1700,2020-02-21,Active
+P-0905,Oriflame Body Cream 200ml XL,CAT-04,Skincare,SUP-002,13501.3,20250,2022-01-26,Active
+P-0906,Lux Black Soap 150g XL,CAT-04,Bath & Body,SUP-039,3046.34,4600,2018-12-22,Active
+P-0907,Cantu Hair Conditioner XL,CAT-04,Haircare,SUP-002,6465.83,10250,2020-03-20,Active
+P-0908,Mega Growth Braid Extension XL,CAT-04,Haircare,SUP-002,1444.66,2150,2023-09-28,Active
+P-0909,Close Up Toothbrush Twin Pack XL,CAT-04,Oral Care,SUP-036,2453.08,3550,2022-05-16,Active
+P-0910,Zaron Sunscreen SPF50 XL,CAT-04,Skincare,SUP-038,7483.51,10650,2022-12-27,Active
+P-0911,Gillette Beard Oil XL,CAT-04,Men's Grooming,SUP-035,4328.32,7300,2021-12-18,Active
+P-0912,Nivea Men Shaving Stick XL,CAT-04,Men's Grooming,SUP-038,5355.86,7400,2018-11-27,Active
+P-0913,Dettol Body Spray XL,CAT-04,Bath & Body,SUP-038,2088.03,3200,2018-03-08,Active
+P-0914,Irish Spring Black Soap 150g XL,CAT-04,Bath & Body,SUP-038,4127.49,6600,2024-04-24,Discontinued
+P-0915,Arko Razor 4pk XL,CAT-04,Men's Grooming,SUP-039,6063.85,8750,2018-06-04,Active
+P-0916,Dettol Body Spray XL,CAT-04,Bath & Body,SUP-035,5308.02,8450,2023-05-19,Active
+P-0917,Premier Cool Bar Soap 6pk XL,CAT-04,Bath & Body,SUP-038,730.87,1050,2022-03-22,Active
+P-0918,Irish Spring Black Soap 150g XL,CAT-04,Bath & Body,SUP-034,799.52,1250,2020-03-27,Active
+P-0919,ORS Hair Conditioner XL,CAT-04,Haircare,SUP-038,7418.71,10850,2018-02-01,Active
+P-0920,Irish Spring Body Spray XL,CAT-04,Bath & Body,SUP-036,4947.76,7700,2018-08-20,Active
+P-0921,Dettol Bar Soap 6pk XL,CAT-04,Bath & Body,SUP-002,1467.25,2400,2023-10-23,Active
+P-0922,Irish Spring Shower Gel 500ml XL,CAT-04,Bath & Body,SUP-034,473.13,700,2021-01-31,Active
+P-0923,Oral-B Mouthwash 500ml XL,CAT-04,Oral Care,SUP-037,2744.23,4250,2020-07-05,Active
+P-0924,CeraVe Sunscreen SPF50 XL,CAT-04,Skincare,SUP-002,8870.68,15150,2023-01-29,Active
+P-0925,Old Spice Shaving Stick XL,CAT-04,Men's Grooming,SUP-036,1466.0,2250,2023-08-17,Active
+P-0926,Oriflame Facial Cleanser XL,CAT-04,Skincare,SUP-035,13651.69,22500,2024-01-16,Active
+P-0927,Gillette Beard Oil XL,CAT-04,Men's Grooming,SUP-034,981.01,1350,2023-04-19,Discontinued
+P-0928,Arko Aftershave 100ml XL,CAT-04,Men's Grooming,SUP-003,3818.87,5200,2020-01-19,Active
+P-0929,Vaseline Petroleum Jelly 250ml XL,CAT-04,Skincare,SUP-037,8731.51,14100,2020-06-09,Active
+P-0930,Nivea Men Deodorant Roll-On XL,CAT-04,Men's Grooming,SUP-039,3432.08,5050,2019-11-19,Active
+P-0931,Rosies Senator Kaftan,CAT-05,Men's Wear,SUP-032,20481.03,34350,2022-01-02,Active
+P-0932,Kanem Backpack,CAT-05,Bags & Accessories,SUP-030,56037.26,98500,2020-07-19,Active
+P-0933,Rosies Wrapper 6yds,CAT-05,Women's Wear,SUP-029,6162.55,11100,2021-01-07,Active
+P-0934,Sleek Studio Polo Shirt,CAT-05,Men's Wear,SUP-030,30719.48,51400,2022-03-10,Active
+P-0935,Adidas Lite Sneakers,CAT-05,Footwear,SUP-030,28775.55,53050,2018-01-26,Active
+P-0936,Kanem Office Loafers  ,CAT-05,Footwear,SUP-029,53726.69,96050,2022-07-21,Active
+P-0937,Kanem Heeled Pumps,CAT-05,Footwear,SUP-031,46086.99,77100,2021-10-24,Active
+P-0938,Clarks NG Office Loafers,CAT-05,Footwear,SUP-030,30170.1,51400,2024-01-07,Active
+P-0939,Rosies Travel Duffel,CAT-05,Bags & Accessories,SUP-031,85741.74,146200,2018-12-12,Active
+P-0940,Zara Lagos Ankara Gown,CAT-05,Women's Wear,SUP-030,61355.71,111750,2022-12-30,Active
+P-0941,Sleek Studio Leather Handbag,CAT-05,Bags & Accessories,SUP-032,54116.3,98600,2018-10-03,Active
+P-0942,Adidas Lite Leather Sandals,CAT-05,Footwear,SUP-030,33506.72,60200,2018-05-05,Active
+P-0943,Sleek Studio Travel Duffel,CAT-05,Bags & Accessories,SUP-030,45933.76,79300,2024-01-04,Active
+P-0944,Kanem Leather Handbag,CAT-05,Bags & Accessories,SUP-028,11143.32,18700,2024-10-30,Active
+P-0945,Sleek Studio Wrapper 6yds,CAT-05,Women's Wear,SUP-032,7370.32,13150,2018-12-01,Active
+P-0946,Clarks NG Leather Sandals,CAT-05,Footwear,SUP-032,41753.05,70300,2022-11-25,Active
+P-0947,Rosies Office Dress,CAT-05,Women's Wear,SUP-031,66587.66,104250,2018-05-24,Active
+P-0948,Rosies Belt Genuine Leather,CAT-05,Bags & Accessories,SUP-031,35977.89,62800,2020-06-01,Active
+P-0949,House of Bunmi Agbada 3pc,CAT-05,Men's Wear,SUP-030,47448.51,84250,2021-08-14,Active
+P-0950,Adidas Lite Slides,CAT-05,Footwear,SUP-029,38181.74,64300,2024-03-03,Active
+P-0951,Ankara House Office Dress,CAT-05,Women's Wear,SUP-030,9375.23,15600,2024-09-27,Active
+P-0952,Polo Classic Agbada 3pc,CAT-05,Men's Wear,SUP-028,20407.44,35050,2022-01-26,Active
+P-0953,Kanem Travel Duffel,CAT-05,Bags & Accessories,SUP-030,17630.0,31450,2022-01-30,Active
+P-0954,Adidas Lite Office Loafers,CAT-05,Footwear,SUP-028,57565.64,97350,2018-02-21,Active
+P-0955,Rosies Agbada 3pc,CAT-05,Men's Wear,SUP-030,22803.58,35550,2022-08-25,Active
+P-0956,Clarks NG Slides,CAT-05,Footwear,SUP-031,37112.18,63950,2018-03-17,Active
+P-0957,Clarks NG Heeled Pumps,CAT-05,Footwear,SUP-030,53972.89,87250,2018-03-29,Active
+P-0958,Clarks NG Sneakers,CAT-05,Footwear,SUP-031,4337.59,7650,2019-10-06,Active
+P-0959,Sleek Studio Agbada 3pc,CAT-05,Men's Wear,SUP-029,3996.98,7100,2021-02-01,Active
+P-0960,Polo Classic Polo Shirt,CAT-05,Men's Wear,SUP-029,49239.12,76700,2020-08-31,Active
+P-0961,Rosies Chinos Trousers,CAT-05,Men's Wear,SUP-032,56318.69,92050,2020-01-24,Active
+P-0962,Rosies Polo Shirt,CAT-05,Men's Wear,SUP-030,30799.98,55400,2020-07-26,Active
+P-0963,Nike Court Sneakers,CAT-05,Footwear,SUP-032,55119.19,91900,2021-10-13,Active
+P-0964,Zara Lagos Office Dress,CAT-05,Women's Wear,SUP-030,43052.92,70750,2020-04-30,Active
+P-0965,House of Bunmi Polo Shirt,CAT-05,Men's Wear,SUP-029,31055.84,56300,2022-10-30,Active
+P-0966,Nike Court Heeled Pumps  ,CAT-05,Footwear,SUP-028,39102.42,76200,2023-06-01,Active
+P-0967,Rosies Backpack,CAT-05,Bags & Accessories,SUP-032,52287.07,89900,2019-06-06,Active
+P-0968,Ankara House Wrapper 6yds,CAT-05,Women's Wear,SUP-032,43657.85,75950,2021-11-29,Active
+P-0969,Polo Classic Chinos Trousers,CAT-05,Men's Wear,SUP-029,42349.05,73600,2023-08-03,Active
+P-0970,Sleek Studio Formal Shirt,CAT-05,Men's Wear,SUP-029,22906.79,43150,2020-08-20,Active
+P-0971,Rosies Bubu Kaftan,CAT-05,Women's Wear,SUP-028,54576.98,88150,2018-01-02,Active
+P-0972,Sleek Studio Chinos Trousers,CAT-05,Men's Wear,SUP-032,44164.77,78200,2021-03-06,Active
+P-0973,House of Bunmi Senator Kaftan,CAT-05,Men's Wear,SUP-029,44514.37,69100,2019-11-27,Active
+P-0974,Sleek Studio Blouse & Skirt Set,CAT-05,Women's Wear,SUP-029,63817.87,110850,2024-04-10,Active
+P-0975,Nike Court Leather Sandals,CAT-05,Footwear,SUP-028,35884.38,62300,2022-03-04,Active
+P-0976,Sleek Studio Ankara Gown,CAT-05,Women's Wear,SUP-028,52624.58,105100,2022-01-29,Active
+P-0977,Kanem Slides,CAT-05,Footwear,SUP-031,27163.02,50700,2020-08-10,Active
+P-0978,Sleek Studio Backpack,CAT-05,Bags & Accessories,SUP-030,68310.15,126300,2021-04-26,Discontinued
+P-0979,Zara Lagos Wrapper 6yds,CAT-05,Women's Wear,SUP-031,33385.86,60500,2018-05-02,Active
+P-0980,Kanem Wristwatch Classic,CAT-05,Bags & Accessories,SUP-028,62635.52,120100,2022-11-17,Active
+P-0981,Polo Classic Formal Shirt,CAT-05,Men's Wear,SUP-029,19646.84,33350,2022-01-20,Active
+P-0982,Nike Court Office Loafers,CAT-05,Footwear,SUP-028,62441.2,98100,2018-12-09,Active
+P-0983,House of Bunmi Formal Shirt,CAT-05,Men's Wear,SUP-032,24374.77,49000,2020-04-05,Active
+P-0984,Ankara House Bubu Kaftan,CAT-05,Women's Wear,SUP-029,54015.96,103250,2022-06-05,Active
+P-0985,Zara Lagos Bubu Kaftan  ,CAT-05,Women's Wear,SUP-031,35200.16,65650,2021-10-14,Active
+P-0986,Rosies Formal Shirt,CAT-05,Men's Wear,SUP-031,28111.86,50600,2021-07-02,Active
+P-0987,Polo Classic Senator Kaftan,CAT-05,Men's Wear,SUP-031,40229.9,69450,2022-04-06,Active
+P-0988,Rosies Blouse & Skirt Set,CAT-05,Women's Wear,SUP-029,15067.13,27850,2020-03-13,Active
+P-0989,Sleek Studio Bubu Kaftan,CAT-05,Women's Wear,SUP-030,33894.58,61550,2023-07-24,Active
+P-0990,Rosies Ankara Gown,CAT-05,Women's Wear,SUP-030,54881.56,93100,2019-08-06,Active
+P-0991,Sleek Studio Senator Kaftan,CAT-05,Men's Wear,SUP-030,19990.48,35050,2020-02-07,Active
+P-0992,House of Bunmi Chinos Trousers,CAT-05,Men's Wear,SUP-028,15763.94,29200,2019-01-23,Active
+P-0993,Sleek Studio Belt Genuine Leather,CAT-05,Bags & Accessories,SUP-028,70562.53,119650,2018-07-04,Active
+P-0994,Zara Lagos Blouse & Skirt Set,CAT-05,Women's Wear,SUP-032,69289.18,110400,2024-10-16,Active
+P-0995,Rosies Wristwatch Classic,CAT-05,Bags & Accessories,SUP-029,66214.37,117800,2020-09-03,Active
+P-0996,Adidas Lite Heeled Pumps,CAT-05,Footwear,SUP-032,22270.95,39800,2021-03-20,Discontinued
+P-0997,Rosies Leather Handbag,CAT-05,Bags & Accessories,SUP-028,84661.46,149650,2018-08-06,Active
+P-0998,Kanem Belt Genuine Leather,CAT-05,Bags & Accessories,SUP-029,26732.33,45900,2018-01-11,Active
+P-0999,Sleek Studio Wristwatch Classic,CAT-05,Bags & Accessories,SUP-031,81321.15,140600,2021-06-07,Active
+P-1000,Ankara House Blouse & Skirt Set,CAT-05,Women's Wear,SUP-029,21496.12,34850,2019-09-22,Active
+P-1001,Kanem Leather Sandals,CAT-05,Footwear,SUP-028,25504.16,39750,2019-07-19,Active
+P-1002,Kanem Sneakers,CAT-05,Footwear,SUP-031,40212.34,68450,2021-01-07,Active
+P-1003,Ankara House Ankara Gown,CAT-05,Women's Wear,SUP-031,27395.8,43250,2020-07-02,Active
+P-1004,Sleek Studio Office Dress,CAT-05,Women's Wear,SUP-029,20919.02,38350,2019-01-05,Active
+P-1005,Nike Court Slides,CAT-05,Footwear,SUP-030,37572.94,64100,2023-09-20,Active
+P-1006,Sleek Studio Senator Kaftan XL,CAT-05,Men's Wear,SUP-028,38418.02,63400,2019-05-23,Active
+P-1007,Rosies Leather Handbag XL,CAT-05,Bags & Accessories,SUP-028,50961.63,91450,2018-09-23,Active
+P-1008,Sleek Studio Bubu Kaftan XL,CAT-05,Women's Wear,SUP-030,7541.07,14000,2018-07-03,Active
+P-1009,Adidas Lite Slides XL,CAT-05,Footwear,SUP-032,36102.14,61350,2019-06-26,Discontinued
+P-1010,Adidas Lite Heeled Pumps XL,CAT-05,Footwear,SUP-032,55634.63,90750,2021-01-01,Active
+P-1011,Rosies Belt Genuine Leather XL,CAT-05,Bags & Accessories,SUP-028,32332.4,55100,2018-05-10,Active
+P-1012,Sleek Studio Chinos Trousers XL,CAT-05,Men's Wear,SUP-030,45510.32,82550,2024-06-15,Active
+P-1013,Rosies Bubu Kaftan XL,CAT-05,Women's Wear,SUP-030,16501.6,29950,2019-06-10,Active
+P-1014,Ankara House Office Dress XL,CAT-05,Women's Wear,SUP-031,14514.12,24900,2021-09-01,Active
+P-1015,Polo Classic Formal Shirt XL,CAT-05,Men's Wear,SUP-032,49755.28,86900,2018-05-24,Active
+P-1016,Polo Classic Chinos Trousers XL  ,CAT-05,Men's Wear,SUP-032,15406.74,27800,2020-04-29,Active
+P-1017,Sleek Studio Blouse & Skirt Set XL,CAT-05,Women's Wear,SUP-031,28353.61,49950,2019-06-13,Active
+P-1018,Rosies Wristwatch Classic XL,CAT-05,Bags & Accessories,SUP-029,53298.44,93200,2018-04-03,Active
+P-1019,Adidas Lite Heeled Pumps XL,CAT-05,Footwear,SUP-032,51190.22,97300,2020-05-14,Active
+P-1020,Sleek Studio Wristwatch Classic XL,CAT-05,Bags & Accessories,SUP-031,26539.84,44600,2018-06-04,Active
+P-1021,Sleek Studio Belt Genuine Leather XL,CAT-05,Bags & Accessories,SUP-030,43063.5,66150,2023-01-19,Active
+P-1022,Ankara House Ankara Gown XL,CAT-05,Women's Wear,SUP-029,8554.19,17700,2020-07-14,Active
+P-1023,Polo Classic Chinos Trousers XL,CAT-05,Men's Wear,SUP-028,22047.18,40250,2024-07-08,Active
+P-1024,Sleek Studio Senator Kaftan XL,CAT-05,Men's Wear,SUP-030,8036.1,14650,2019-08-18,Active
+P-1025,Rosies Wrapper 6yds XL,CAT-05,Women's Wear,SUP-029,24639.81,40850,2023-02-23,Discontinued
+P-1026,Sleek Studio Backpack XL,CAT-05,Bags & Accessories,SUP-031,38389.17,66800,2018-08-08,Active
+P-1027,House of Bunmi Senator Kaftan XL,CAT-05,Men's Wear,SUP-030,40770.01,67050,2019-09-03,Active
+P-1028,Sleek Studio Wrapper 6yds XL,CAT-05,Women's Wear,SUP-029,25197.33,44450,2023-08-01,Active
+P-1029,Ankara House Bubu Kaftan XL,CAT-05,Women's Wear,SUP-028,61197.38,105050,2021-01-02,Active
+P-1030,Nike Court Slides XL,CAT-05,Footwear,SUP-030,52047.59,84350,2024-02-23,Active
+P-1031,Sleek Studio Formal Shirt XL,CAT-05,Men's Wear,SUP-030,41232.52,77450,2023-09-12,Active
+P-1032,Sleek Studio Polo Shirt XL,CAT-05,Men's Wear,SUP-032,36972.05,63000,2022-08-18,Active
+P-1033,Sleek Studio Senator Kaftan XL,CAT-05,Men's Wear,SUP-029,45098.54,79050,2023-10-29,Active
+P-1034,Zara Lagos Office Dress XL,CAT-05,Women's Wear,SUP-029,18046.32,35150,2018-09-09,Active
+P-1035,Nike Court Slides XL,CAT-05,Footwear,SUP-032,64069.0,100250,2023-03-08,Active
+P-1036,Sleek Studio Office Dress XL,CAT-05,Women's Wear,SUP-031,13605.37,25900,2019-07-05,Active
+P-1037,Polo Classic Polo Shirt XL,CAT-05,Men's Wear,SUP-031,42004.75,76950,2019-09-30,Active
+P-1038,Kanem Heeled Pumps XL,CAT-05,Footwear,SUP-032,14293.59,25250,2023-07-05,Active
+P-1039,Nike Court Slides XL,CAT-05,Footwear,SUP-030,46647.14,80450,2021-06-30,Active
+P-1040,House of Bunmi Chinos Trousers XL,CAT-05,Men's Wear,SUP-028,20244.36,33900,2023-11-15,Active
+P-1041,Polo Classic Agbada 3pc XL,CAT-05,Men's Wear,SUP-031,26894.27,46400,2018-08-01,Active
+P-1042,Kanem Belt Genuine Leather XL,CAT-05,Bags & Accessories,SUP-028,31139.26,54200,2019-12-07,Active
+P-1043,Zara Lagos Wrapper 6yds XL,CAT-05,Women's Wear,SUP-029,16859.84,25650,2019-11-27,Active
+P-1044,House of Bunmi Agbada 3pc XL,CAT-05,Men's Wear,SUP-029,8893.0,14300,2023-07-02,Active
+P-1045,Rosies Polo Shirt XL,CAT-05,Men's Wear,SUP-031,31386.37,51850,2018-05-27,Active
+P-1046,Adidas Lite Sneakers XL,CAT-05,Footwear,SUP-030,42692.32,71400,2020-07-14,Active
+P-1047,Sleek Studio Office Dress XL,CAT-05,Women's Wear,SUP-029,55952.34,99400,2024-07-31,Active
+P-1048,Sleek Studio Wrapper 6yds XL,CAT-05,Women's Wear,SUP-028,47739.64,86600,2023-07-16,Active
+P-1049,Rosies Agbada 3pc XL,CAT-05,Men's Wear,SUP-030,7401.64,14000,2023-03-11,Active
+P-1050,Rosies Wrapper 6yds XL,CAT-05,Women's Wear,SUP-031,19094.68,32550,2022-09-17,Active
+P-1051,Polo Classic Senator Kaftan XL,CAT-05,Men's Wear,SUP-029,10958.77,17800,2024-05-08,Active
+P-1052,Rosies Bubu Kaftan XL,CAT-05,Women's Wear,SUP-031,17919.33,32050,2018-01-24,Active
+P-1053,Ankara House Bubu Kaftan XL,CAT-05,Women's Wear,SUP-030,41319.84,70550,2018-02-28,Active
+P-1054,Adidas Lite Slides XL,CAT-05,Footwear,SUP-030,48051.68,86850,2018-02-08,Discontinued
+P-1055,House of Bunmi Formal Shirt XL,CAT-05,Men's Wear,SUP-030,15237.8,24800,2019-11-15,Active
+P-1056,Clarks NG Heeled Pumps XL,CAT-05,Footwear,SUP-032,4269.59,7600,2021-02-06,Active
+P-1057,House of Bunmi Formal Shirt XL,CAT-05,Men's Wear,SUP-032,48453.79,89300,2022-07-24,Active
+P-1058,Rosies Wristwatch Classic XL,CAT-05,Bags & Accessories,SUP-028,12640.94,24100,2019-07-08,Active
+P-1059,Sleek Studio Senator Kaftan XL,CAT-05,Men's Wear,SUP-030,23403.41,41050,2018-06-03,Active
+P-1060,Clarks NG Office Loafers XL,CAT-05,Footwear,SUP-030,35966.42,77150,2022-05-02,Active
+P-1061,Rosies Belt Genuine Leather XL,CAT-05,Bags & Accessories,SUP-029,49520.42,82600,2023-04-06,Active
+P-1062,Rosies Leather Handbag XL,CAT-05,Bags & Accessories,SUP-028,50043.38,83550,2018-11-20,Active
+P-1063,Clarks NG Heeled Pumps XL,CAT-05,Footwear,SUP-028,39246.99,70750,2020-03-30,Active
+P-1064,Kanem Sneakers XL,CAT-05,Footwear,SUP-031,31525.18,48750,2019-12-15,Active
+P-1065,Sleek Studio Chinos Trousers XL,CAT-05,Men's Wear,SUP-030,39704.53,67150,2019-12-27,Active
+P-1066,House of Bunmi Chinos Trousers XL,CAT-05,Men's Wear,SUP-029,17342.69,31550,2023-11-26,Active
+P-1067,Kanem Belt Genuine Leather XL,CAT-05,Bags & Accessories,SUP-031,54361.56,92800,2022-05-26,Active
+P-1068,Zara Lagos Wrapper 6yds XL,CAT-05,Women's Wear,SUP-032,56482.37,86700,2018-07-03,Active
+P-1069,Rosies Bubu Kaftan XL,CAT-05,Women's Wear,SUP-030,21365.27,38400,2019-12-10,Active
+P-1070,Kanem Travel Duffel XL,CAT-05,Bags & Accessories,SUP-028,50038.56,92150,2020-08-05,Active
+P-1071,Sleek Studio Bubu Kaftan XL,CAT-05,Women's Wear,SUP-030,51869.82,86800,2023-07-04,Active
+P-1072,Sleek Studio Wristwatch Classic XL,CAT-05,Bags & Accessories,SUP-030,4521.07,8100,2018-01-21,Active
+P-1073,Sleek Studio Blouse & Skirt Set XL,CAT-05,Women's Wear,SUP-032,24514.01,43650,2020-05-09,Active
+P-1074,Ankara House Blouse & Skirt Set XL,CAT-05,Women's Wear,SUP-029,43532.92,77050,2018-12-17,Active
+P-1075,Sleek Studio Ankara Gown XL,CAT-05,Women's Wear,SUP-029,9937.29,19600,2020-07-15,Active
+P-1076,Zara Lagos Office Dress XL,CAT-05,Women's Wear,SUP-029,30996.62,53600,2019-01-24,Discontinued
+P-1077,House of Bunmi Chinos Trousers XL,CAT-05,Men's Wear,SUP-031,22561.12,43550,2024-07-10,Active
+P-1078,Rosies Agbada 3pc XL,CAT-05,Men's Wear,SUP-029,44480.37,69600,2019-12-12,Discontinued
+P-1079,Rosies Polo Shirt XL,CAT-05,Men's Wear,SUP-031,58395.1,93850,2024-09-02,Active
+P-1080,Nike Court Heeled Pumps XL,CAT-05,Footwear,SUP-032,19027.73,32100,2023-10-09,Active
+P-1081,Cerelac Formula Stage 2 400g,CAT-06,Baby Food,SUP-034,11958.37,18100,2022-07-17,Active
+P-1082,Avent Sippy Cup,CAT-06,Feeding,SUP-035,15398.72,22200,2023-12-20,Active
+P-1083,Avent Bottle Brush Set  ,CAT-06,Feeding,SUP-034,7869.75,11050,2018-11-30,Active
+P-1084,Avent Breast Pump Manual,CAT-06,Feeding,SUP-033,24036.35,36750,2018-08-31,Active
+P-1085,Cussons Baby Jelly 250ml,CAT-06,Baby Bath & Care,SUP-034,6630.89,10400,2023-07-26,Active
+P-1086,Frisolac Formula Stage 1 900g,CAT-06,Baby Food,SUP-035,10834.5,16650,2019-12-10,Active
+P-1087,LeapStart Teether Set,CAT-06,Toys,SUP-001,10724.52,15100,2020-08-23,Active
+P-1088,Dr Brown's Steriliser,CAT-06,Feeding,SUP-034,31352.71,45400,2021-05-08,Active
+P-1089,NAN Baby Rice 250g,CAT-06,Baby Food,SUP-035,9121.76,12900,2019-06-29,Active
+P-1090,My Boy Formula Stage 2 400g,CAT-06,Baby Food,SUP-001,13189.13,19150,2023-02-12,Active
+P-1091,Ameda Breast Pump Manual,CAT-06,Feeding,SUP-035,43820.57,62000,2023-09-03,Active
+P-1092,Frisolac Formula Stage 2 400g,CAT-06,Baby Food,SUP-035,12180.41,17700,2022-02-24,Active
+P-1093,Mamuwa Stacking Rings,CAT-06,Toys,SUP-001,11787.97,16750,2021-05-27,Active
+P-1094,Cussons Baby Breast Pump Manual,CAT-06,Feeding,SUP-034,5639.75,7700,2024-05-07,Active
+P-1095,Huggies Diapers Midi 58ct,CAT-06,Diapers & Wipes,SUP-001,10244.96,14350,2019-04-10,Active
+P-1096,Cerelac Formula Stage 1 900g,CAT-06,Baby Food,SUP-034,6676.4,8950,2023-12-08,Active
+P-1097,Johnson's Jelly 250ml,CAT-06,Baby Bath & Care,SUP-035,6250.7,8350,2023-12-30,Active
+P-1098,Cussons Baby Diapers Jumbo 44ct,CAT-06,Diapers & Wipes,SUP-034,10434.08,16450,2018-04-27,Active
+P-1099,Molfix Swim Pants 20ct,CAT-06,Diapers & Wipes,SUP-003,13270.37,20950,2022-01-23,Active
+P-1100,SMA Gold Infant Cereal 400g,CAT-06,Baby Food,SUP-001,8391.58,12000,2018-11-20,Active
+P-1101,Sebamed Baby Lotion 400ml,CAT-06,Baby Bath & Care,SUP-001,5258.04,7000,2022-10-03,Active
+P-1102,NAN Infant Cereal 400g,CAT-06,Baby Food,SUP-033,5512.46,7400,2018-06-24,Active
+P-1103,Cussons Baby Bottle Brush Set,CAT-06,Feeding,SUP-035,8022.95,11150,2018-12-25,Active
+P-1104,FirstPlay Push Walker,CAT-06,Toys,SUP-035,3448.01,5300,2024-03-23,Active
+P-1105,Cussons Baby Baby Powder 200g,CAT-06,Baby Bath & Care,SUP-034,6807.17,9500,2018-05-17,Active
+P-1106,FirstPlay Stacking Rings,CAT-06,Toys,SUP-003,15683.59,20950,2019-06-09,Active
+P-1107,Johnson's Bath Set,CAT-06,Baby Bath & Care,SUP-035,1619.76,2400,2019-08-09,Active
+P-1108,Cussons Baby Swim Pants 20ct,CAT-06,Diapers & Wipes,SUP-003,13698.34,21800,2024-01-13,Active
+P-1109,LeapStart Stacking Rings,CAT-06,Toys,SUP-033,3670.57,5450,2024-09-15,Active
+P-1110,Ameda Bottle Brush Set,CAT-06,Feeding,SUP-001,1873.59,2450,2023-10-18,Active
+P-1111,Dr Brown's Breast Pump Manual,CAT-06,Feeding,SUP-003,10011.92,13500,2021-02-06,Active
+P-1112,FirstPlay Teether Set,CAT-06,Toys,SUP-035,23309.9,38650,2020-01-24,Active
+P-1113,LeapStart Push Walker,CAT-06,Toys,SUP-001,16537.51,23300,2021-09-07,Active
+P-1114,NAN Formula Stage 2 400g,CAT-06,Baby Food,SUP-003,14306.7,20700,2024-10-25,Active
+P-1115,Mamuwa Push Walker,CAT-06,Toys,SUP-003,2864.65,3850,2019-03-07,Active
+P-1116,Pampers Diapers Midi 58ct,CAT-06,Diapers & Wipes,SUP-034,4917.05,7400,2024-08-05,Active
+P-1117,Huggies Diapers Jumbo 44ct,CAT-06,Diapers & Wipes,SUP-001,4965.51,6800,2018-08-08,Active
+P-1118,Johnson's Baby Lotion 400ml,CAT-06,Baby Bath & Care,SUP-003,11215.24,16350,2019-09-27,Active
+P-1119,Pampers Diapers Jumbo 44ct,CAT-06,Diapers & Wipes,SUP-034,10073.57,15450,2024-06-25,Active
+P-1120,Cerelac Infant Cereal 400g,CAT-06,Baby Food,SUP-035,11341.84,17700,2023-04-15,Active
+P-1121,LeapStart Activity Gym,CAT-06,Toys,SUP-003,5086.87,7350,2022-05-20,Active
+P-1122,Pampers Baby Wipes 3pk,CAT-06,Diapers & Wipes,SUP-034,13338.45,19000,2018-04-15,Active
+P-1123,FirstPlay Musical Mobile,CAT-06,Toys,SUP-034,24135.17,34400,2023-08-16,Active
+P-1124,Johnson's Baby Shampoo,CAT-06,Baby Bath & Care,SUP-001,6499.49,9250,2022-07-10,Active
+P-1125,Cussons Baby Sippy Cup,CAT-06,Feeding,SUP-034,20204.92,25900,2019-08-27,Active
+P-1126,Frisolac Baby Rice 250g,CAT-06,Baby Food,SUP-003,16207.28,22350,2021-05-12,Active
+P-1127,LeapStart Musical Mobile,CAT-06,Toys,SUP-033,26187.8,38550,2021-01-26,Active
+P-1128,Avent Feeding Bottle 260ml,CAT-06,Feeding,SUP-035,20354.21,27800,2021-04-29,Active
+P-1129,Ameda Steriliser,CAT-06,Feeding,SUP-003,9082.01,12250,2024-08-14,Active
+P-1130,SMA Gold Formula Stage 2 400g,CAT-06,Baby Food,SUP-003,17852.43,25850,2023-01-18,Active
+P-1131,Sebamed Baby Powder 200g,CAT-06,Baby Bath & Care,SUP-035,2921.84,4250,2022-10-05,Active
+P-1132,Molfix Diapers Jumbo 44ct,CAT-06,Diapers & Wipes,SUP-035,7158.2,10700,2018-08-31,Active
+P-1133,My Boy Formula Stage 1 900g,CAT-06,Baby Food,SUP-034,16414.95,21750,2018-03-14,Active
+P-1134,Pampers Swim Pants 20ct,CAT-06,Diapers & Wipes,SUP-003,8418.04,11300,2020-04-16,Active
+P-1135,Ameda Feeding Bottle 260ml,CAT-06,Feeding,SUP-034,15219.44,22100,2019-11-17,Active
+P-1136,My Boy Infant Cereal 400g,CAT-06,Baby Food,SUP-001,13497.22,18550,2019-01-18,Active
+P-1137,Frisolac Infant Cereal 400g,CAT-06,Baby Food,SUP-034,4081.52,5750,2018-07-03,Active
+P-1138,Huggies Baby Wipes 3pk,CAT-06,Diapers & Wipes,SUP-001,4242.71,6150,2019-05-16,Active
+P-1139,Mamuwa Musical Mobile,CAT-06,Toys,SUP-033,18480.74,28750,2020-03-19,Active
+P-1140,Avent Steriliser,CAT-06,Feeding,SUP-003,14373.58,21100,2021-01-03,Active
+P-1141,Dr Brown's Bottle Brush Set,CAT-06,Feeding,SUP-001,42660.52,61850,2021-10-31,Active
+P-1142,Cussons Baby Baby Wipes 3pk,CAT-06,Diapers & Wipes,SUP-033,11575.8,16700,2021-05-08,Active
+P-1143,Dr Brown's Sippy Cup,CAT-06,Feeding,SUP-035,40311.06,56550,2021-07-20,Active
+P-1144,FirstPlay Activity Gym,CAT-06,Toys,SUP-034,23993.46,35000,2023-12-10,Active
+P-1145,Cussons Baby Baby Lotion 400ml,CAT-06,Baby Bath & Care,SUP-033,4837.76,6550,2022-01-13,Active
+P-1146,Dr Brown's Feeding Bottle 260ml,CAT-06,Feeding,SUP-001,38588.94,54600,2020-10-08,Active
+P-1147,NAN Formula Stage 1 900g,CAT-06,Baby Food,SUP-003,4904.7,7250,2020-08-21,Active
+P-1148,Cerelac Baby Rice 250g,CAT-06,Baby Food,SUP-035,18101.22,26100,2022-05-14,Active
+P-1149,SMA Gold Formula Stage 1 900g,CAT-06,Baby Food,SUP-035,10816.34,15300,2023-01-02,Active
+P-1150,Johnson's Baby Powder 200g,CAT-06,Baby Bath & Care,SUP-033,1086.94,1550,2018-07-17,Active
+P-1151,Huggies Swim Pants 20ct,CAT-06,Diapers & Wipes,SUP-033,12718.99,18000,2023-11-10,Active
+P-1152,Cussons Baby Diapers Midi 58ct,CAT-06,Diapers & Wipes,SUP-034,2197.31,3150,2021-07-02,Active
+P-1153,Molfix Baby Wipes 3pk,CAT-06,Diapers & Wipes,SUP-035,2237.16,3100,2021-04-01,Active
+P-1154,Cussons Baby Feeding Bottle 260ml,CAT-06,Feeding,SUP-035,19395.46,29150,2021-03-25,Active
+P-1155,Mamuwa Teether Set,CAT-06,Toys,SUP-034,1552.96,2250,2021-03-30,Active
+P-1156,Cussons Baby Baby Shampoo,CAT-06,Baby Bath & Care,SUP-003,6381.2,8800,2022-07-21,Active
+P-1157,Sebamed Baby Shampoo,CAT-06,Baby Bath & Care,SUP-034,11001.8,15650,2021-08-02,Active
+P-1158,Molfix Diapers Midi 58ct,CAT-06,Diapers & Wipes,SUP-001,5209.56,7350,2024-10-08,Active
+P-1159,Mamuwa Activity Gym,CAT-06,Toys,SUP-001,16282.74,21750,2020-10-07,Active
+P-1160,My Boy Baby Rice 250g,CAT-06,Baby Food,SUP-033,22907.69,31850,2022-11-21,Active
+P-1161,SMA Gold Baby Rice 250g,CAT-06,Baby Food,SUP-034,13744.13,20650,2023-05-27,Active
+P-1162,Sebamed Jelly 250ml,CAT-06,Baby Bath & Care,SUP-034,10740.92,16300,2023-04-15,Active
+P-1163,Cussons Baby Bath Set,CAT-06,Baby Bath & Care,SUP-033,6710.05,9350,2018-11-15,Active
+P-1164,Sebamed Bath Set,CAT-06,Baby Bath & Care,SUP-003,2057.73,2950,2019-02-22,Active
+P-1165,Ameda Sippy Cup,CAT-06,Feeding,SUP-034,5278.5,6850,2018-06-24,Active
+P-1166,Cussons Baby Steriliser,CAT-06,Feeding,SUP-035,38973.54,57100,2024-10-15,Active
+P-1167,Cerelac Formula Stage 2 400g XL,CAT-06,Baby Food,SUP-034,20946.73,28650,2021-07-21,Active
+P-1168,Avent Bottle Brush Set XL,CAT-06,Feeding,SUP-003,10134.89,15150,2023-10-20,Active
+P-1169,Pampers Diapers Jumbo 44ct XL,CAT-06,Diapers & Wipes,SUP-034,11914.65,17050,2018-09-22,Active
+P-1170,Avent Steriliser XL,CAT-06,Feeding,SUP-035,4063.98,5600,2023-02-05,Active
+P-1171,Johnson's Baby Powder 200g XL,CAT-06,Baby Bath & Care,SUP-001,4715.44,7200,2019-05-22,Active
+P-1172,Ameda Feeding Bottle 260ml XL,CAT-06,Feeding,SUP-001,28626.71,39250,2018-07-26,Active
+P-1173,SMA Gold Formula Stage 1 900g XL,CAT-06,Baby Food,SUP-003,21463.4,31300,2022-08-25,Active
+P-1174,Ameda Steriliser XL,CAT-06,Feeding,SUP-003,1616.01,2450,2021-06-02,Active
+P-1175,Ameda Bottle Brush Set XL,CAT-06,Feeding,SUP-035,39262.08,59550,2019-01-18,Active
+P-1176,FirstPlay Teether Set XL,CAT-06,Toys,SUP-001,18239.03,25950,2023-02-06,Discontinued
+P-1177,Mamuwa Musical Mobile XL,CAT-06,Toys,SUP-001,23179.78,33500,2024-09-06,Active
+P-1178,Cussons Baby Sippy Cup XL,CAT-06,Feeding,SUP-001,9140.69,12950,2023-07-11,Active
+P-1179,SMA Gold Infant Cereal 400g XL,CAT-06,Baby Food,SUP-001,15699.19,21950,2023-12-11,Active
+P-1180,Pampers Diapers Midi 58ct XL,CAT-06,Diapers & Wipes,SUP-035,8215.48,11800,2021-08-14,Active
+P-1181,Cussons Baby Baby Powder 200g XL,CAT-06,Baby Bath & Care,SUP-003,11131.26,15550,2022-12-01,Active
+P-1182,Huggies Diapers Midi 58ct XL,CAT-06,Diapers & Wipes,SUP-003,13277.33,18100,2019-12-03,Active
+P-1183,Cussons Baby Jelly 250ml XL,CAT-06,Baby Bath & Care,SUP-033,6529.37,10100,2019-01-10,Active
+P-1184,Ameda Sippy Cup XL,CAT-06,Feeding,SUP-003,2674.09,3550,2021-06-09,Active
+P-1185,Pampers Swim Pants 20ct XL,CAT-06,Diapers & Wipes,SUP-001,15031.28,21200,2024-07-18,Active
+P-1186,Mamuwa Activity Gym XL,CAT-06,Toys,SUP-034,27527.05,37150,2022-11-02,Active
+P-1187,Avent Bottle Brush Set XL,CAT-06,Feeding,SUP-001,37671.27,55750,2021-07-03,Active
+P-1188,Dr Brown's Breast Pump Manual XL,CAT-06,Feeding,SUP-001,49927.45,67900,2018-11-15,Active
+P-1189,Johnson's Bath Set XL,CAT-06,Baby Bath & Care,SUP-003,3247.11,4750,2023-07-11,Active
+P-1190,NAN Baby Rice 250g XL,CAT-06,Baby Food,SUP-033,20333.67,27800,2022-01-08,Discontinued
+P-1191,Mamuwa Stacking Rings XL,CAT-06,Toys,SUP-035,10479.77,17300,2022-10-17,Active
+P-1192,Sebamed Baby Shampoo XL,CAT-06,Baby Bath & Care,SUP-034,11115.31,16250,2024-03-10,Active
+P-1193,Cussons Baby Jelly 250ml XL,CAT-06,Baby Bath & Care,SUP-034,11811.7,17900,2024-03-24,Active
+P-1194,Huggies Baby Wipes 3pk XL,CAT-06,Diapers & Wipes,SUP-033,2775.5,3750,2023-03-21,Active
+P-1195,Sebamed Baby Shampoo XL,CAT-06,Baby Bath & Care,SUP-001,6086.33,7950,2022-01-14,Active
+P-1196,LeapStart Teether Set XL,CAT-06,Toys,SUP-035,18235.86,24900,2023-08-13,Active
+P-1197,FirstPlay Teether Set XL,CAT-06,Toys,SUP-035,28934.35,44900,2021-03-25,Discontinued
+P-1198,Frisolac Formula Stage 1 900g XL,CAT-06,Baby Food,SUP-035,4285.97,6450,2019-03-26,Active
+P-1199,Molfix Diapers Jumbo 44ct XL,CAT-06,Diapers & Wipes,SUP-003,10147.64,14750,2020-05-10,Active
+P-1200,Frisolac Infant Cereal 400g XL,CAT-06,Baby Food,SUP-001,7294.72,10350,2021-01-16,Active

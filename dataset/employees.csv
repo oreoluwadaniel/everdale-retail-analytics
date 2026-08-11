@@ -1,0 +1,301 @@
+EmployeeID,FirstName,LastName,Role,StoreID,HireDate,MonthlySalaryNGN,Status
+E-001,Khadija,Adebayo,Store Manager,ST-001,2018-01-24,373000,Active
+E-002,Dapo,Obi,Cashier,ST-001,2013-02-17,131000,Active
+E-003,Obinna,Idris,Cashier,ST-001,2017-04-12,88000,Active
+E-004,Aisha,Ekwueme,Cashier,ST-001,2015-11-06,85000,Active
+E-005,Bello,Oyelaran,Sales Associate,ST-001,2014-11-14,107000,Resigned
+E-006,Ikenna,Olawale,Sales Associate,ST-001,2019-10-28,143000,Active
+E-007,Wale,Danjuma,Sales Associate,ST-001,2019-11-10,93000,Active
+E-008,Kelechi,Abdulrahman,Store Manager,ST-002,2019-08-27,441000,Active
+E-009,Modupe,Salami,Cashier,ST-002,2014-03-22,98000,Active
+E-010,Oluchi,Ezenwa,Cashier,ST-002,2022-04-18,97000,Active
+E-011,Aisha,Falana,Cashier,ST-002,2018-06-20,91000,Active
+E-012,Zainab,Obi,Cashier,ST-002,2014-01-09,135000,Active
+E-013,Emeka,Fashola,Sales Associate,ST-002,2022-08-18,119000,Resigned
+E-014,Ayodeji,Baba,Sales Associate,ST-002,2020-04-04,147000,Active
+E-015,Obinna,Oladipo,Sales Associate,ST-002,2023-04-03,122000,Active
+E-016,Abdullahi,Olawale,Store Manager,ST-003,2024-02-27,440000,Active
+E-017,Kunle,Igwe,Cashier,ST-003,2023-09-10,126000,Active
+E-018,Somto,Sambo,Cashier,ST-003,2020-04-11,121000,Active
+E-019,Lekan,Sambo,Cashier,ST-003,2022-05-25,135000,Active
+E-020,Zainab,Onwudiwe,Sales Associate,ST-003,2023-04-09,106000,Active
+E-021,Yetunde,Iheanacho,Sales Associate,ST-003,2018-08-10,132000,Active
+E-022,Adaeze,Ogunleye,Sales Associate,ST-003,2017-10-24,125000,Active
+E-023,Chiamaka,Onwudiwe,Store Manager,ST-004,2016-08-30,391000,Active
+E-024,Titilayo,Afolabi,Cashier,ST-004,2016-01-01,135000,Active
+E-025,Sani,Ogundipe,Cashier,ST-004,2024-12-03,90000,Active
+E-026,Dapo,Dauda,Cashier,ST-004,2019-08-31,85000,Active
+E-027,Rotimi,Adeyemi,Cashier,ST-004,2015-02-12,86000,Active
+E-028,Musa,Bakare,Sales Associate,ST-004,2014-01-15,118000,Resigned
+E-029,Emeka,Baba,Sales Associate,ST-004,2013-07-23,93000,Active
+E-030,Ronke,Yakubu,Sales Associate,ST-004,2013-05-25,100000,Active
+E-031,Tanko,Onyeka,Store Manager,ST-005,2020-09-13,447000,Active
+E-032,Somto,Onwudiwe,Cashier,ST-005,2018-04-05,115000,Resigned
+E-033,Ibrahim,Idris,Cashier,ST-005,2021-09-12,102000,Active
+E-034,Kemi,Abdulrahman,Cashier,ST-005,2015-04-22,119000,Active
+E-035,Aisha,Eze,Cashier,ST-005,2017-02-07,129000,Active
+E-036,Obinna,Tanimu,Sales Associate,ST-005,2021-05-04,98000,Active
+E-037,Ifeanyi,Nwachukwu,Sales Associate,ST-005,2019-04-15,138000,Active
+E-038,Ijeoma,Bello,Sales Associate,ST-005,2021-04-29,141000,Active
+E-039,Modupe,Onwudiwe,Store Manager,ST-006,2019-02-21,514000,Resigned
+E-040,Tunde,Abdulrahman,Cashier,ST-006,2015-12-10,98000,Active
+E-041,Nasir,Adeyemi,Cashier,ST-006,2013-03-18,98000,Active
+E-042,Femi,Ude,Cashier,ST-006,2017-09-14,119000,Active
+E-043,Femi,Olawale,Cashier,ST-006,2013-01-10,128000,Active
+E-044,Obinna,Bello,Sales Associate,ST-006,2014-11-14,112000,Active
+E-045,Dapo,Ude,Sales Associate,ST-006,2019-06-02,129000,Active
+E-046,Bolanle,Tanimu,Sales Associate,ST-006,2015-07-20,135000,Active
+E-047,Chidinma,Eze,Store Manager,ST-007,2014-01-05,388000,Active
+E-048,Modupe,Tanimu,Cashier,ST-007,2017-10-31,135000,Active
+E-049,Nonso,Onwudiwe,Cashier,ST-007,2018-12-19,113000,Active
+E-050,Chuka,Igwe,Cashier,ST-007,2020-01-25,135000,Active
+E-051,Modupe,Afolabi,Sales Associate,ST-007,2023-12-30,135000,Active
+E-052,Bolanle,Nwosu,Sales Associate,ST-007,2016-12-24,125000,Active
+E-053,Nonso,Waziri,Sales Associate,ST-007,2018-06-02,92000,Active
+E-054,Titilayo,Abdulrahman,Store Manager,ST-008,2014-05-27,387000,Active
+E-055,Chinedu,Eze,Cashier,ST-008,2019-01-14,117000,Active
+E-056,Simisola,Bakare,Cashier,ST-008,2016-01-06,133000,Active
+E-057,Nasir,Ogundipe,Cashier,ST-008,2021-05-12,128000,Active
+E-058,Khadija,Salami,Cashier,ST-008,2016-06-29,110000,Active
+E-059,Bisi,Onyeka,Sales Associate,ST-008,2022-02-03,144000,Resigned
+E-060,Amara,Bakare,Sales Associate,ST-008,2015-11-14,134000,Active
+E-061,Uche,Lawal,Sales Associate,ST-008,2016-01-12,135000,Active
+E-062,Kemi,Bakare,Store Manager,ST-009,2020-04-09,518000,Active
+E-063,Amara,Oladipo,Cashier,ST-009,2015-01-29,120000,Active
+E-064,Kelechi,Adebayo,Cashier,ST-009,2023-10-26,114000,Active
+E-065,Nneka,Suleiman,Cashier,ST-009,2024-02-11,136000,Active
+E-066,Ijeoma,Ekwueme,Sales Associate,ST-009,2013-01-29,97000,Active
+E-067,Adanna,Nnamdi,Sales Associate,ST-009,2022-01-15,99000,Active
+E-068,Abdullahi,Akinwande,Sales Associate,ST-009,2016-03-09,123000,Active
+E-069,Kunle,Obi,Store Manager,ST-010,2014-05-21,399000,Active
+E-070,Dapo,Abdulrahman,Cashier,ST-010,2018-12-08,109000,Active
+E-071,Sani,Waziri,Cashier,ST-010,2014-03-25,120000,Active
+E-072,Rotimi,Musa,Cashier,ST-010,2023-11-18,95000,Resigned
+E-073,Halima,Oladipo,Sales Associate,ST-010,2020-06-18,109000,Active
+E-074,Kelechi,Tanimu,Sales Associate,ST-010,2024-07-19,108000,Active
+E-075,Segun,Shehu,Sales Associate,ST-010,2013-07-21,136000,Active
+E-076,Ifeanyi,Obi,Store Manager,ST-011,2018-01-31,374000,Active
+E-077,Chinedu,Abubakar,Cashier,ST-011,2021-05-02,110000,Active
+E-078,Ronke,Olawale,Cashier,ST-011,2017-09-30,116000,Active
+E-079,Kelechi,Ezenwa,Cashier,ST-011,2017-04-14,99000,Active
+E-080,Dapo,Mohammed,Sales Associate,ST-011,2019-07-29,114000,Active
+E-081,Ebuka,Umeh,Sales Associate,ST-011,2024-07-05,136000,Active
+E-082,Modupe,Aliyu,Store Manager,ST-012,2023-04-21,355000,Active
+E-083,Ikenna,Adesina,Cashier,ST-012,2019-01-29,117000,Active
+E-084,Femi,Mohammed,Cashier,ST-012,2022-08-01,129000,Resigned
+E-085,Ijeoma,Suleiman,Cashier,ST-012,2018-10-04,129000,Active
+E-086,Oluchi,Iheanacho,Sales Associate,ST-012,2019-07-25,100000,Active
+E-087,Segun,Abubakar,Sales Associate,ST-012,2022-07-06,108000,Active
+E-088,Sani,Nnamdi,Store Manager,ST-013,2019-12-20,532000,Active
+E-089,Emeka,Adesina,Cashier,ST-013,2016-09-28,104000,Active
+E-090,Somto,Akinwande,Cashier,ST-013,2024-07-31,103000,Active
+E-091,Segun,Chukwu,Cashier,ST-013,2014-12-24,103000,Active
+E-092,Bisi,Baba,Sales Associate,ST-013,2015-12-07,102000,Active
+E-093,Ngozi,Garba,Sales Associate,ST-013,2024-01-16,135000,Active
+E-094,Ronke,Madu,Sales Associate,ST-013,2015-10-24,96000,Active
+E-095,Adanna,Ogunleye,Store Manager,ST-014,2017-07-15,543000,Active
+E-096,Rukayat,Onyeka,Cashier,ST-014,2017-05-15,113000,Active
+E-097,Segun,Sambo,Cashier,ST-014,2015-10-02,87000,Active
+E-098,Chinedu,Oyelaran,Cashier,ST-014,2024-03-18,106000,Active
+E-099,Folake,Abdulrahman,Cashier,ST-014,2016-02-23,92000,Resigned
+E-100,Yetunde,Nwosu,Sales Associate,ST-014,2021-12-13,145000,Resigned
+E-101,Kemi,Ekwueme,Sales Associate,ST-014,2024-01-13,108000,Active
+E-102,Khadija,Shehu,Sales Associate,ST-014,2024-01-01,118000,Resigned
+E-103,Adanna,Adesina,Store Manager,ST-015,2020-09-07,503000,Active
+E-104,Yetunde,Balogun,Cashier,ST-015,2018-03-20,99000,Active
+E-105,Segun,Afolabi,Cashier,ST-015,2020-06-11,93000,Active
+E-106,Emeka,Onyeka,Cashier,ST-015,2022-11-13,112000,Active
+E-107,Nonso,Igwe,Sales Associate,ST-015,2022-09-16,147000,Active
+E-108,Abdullahi,Nnamdi,Sales Associate,ST-015,2014-08-13,136000,Active
+E-109,Ebuka,Olawale,Store Manager,ST-016,2022-03-31,429000,Active
+E-110,Fatima,Okonkwo,Cashier,ST-016,2019-02-07,131000,Active
+E-111,Oluchi,Danjuma,Cashier,ST-016,2014-07-22,112000,Active
+E-112,Funke,Ogbonna,Cashier,ST-016,2013-01-15,127000,Active
+E-113,Ifeanyi,Obi,Cashier,ST-016,2013-12-13,98000,Active
+E-114,Blessing,Akinwande,Sales Associate,ST-016,2023-12-05,111000,Active
+E-115,Obinna,Olawale,Sales Associate,ST-016,2015-03-30,133000,Active
+E-116,Simisola,Ekwueme,Sales Associate,ST-016,2015-04-05,90000,Active
+E-117,Amina,Kalu,Store Manager,ST-017,2014-05-23,485000,Active
+E-118,Ikenna,Ogbonna,Cashier,ST-017,2021-11-22,126000,Active
+E-119,Hauwa,Ekwueme,Cashier,ST-017,2018-11-28,110000,Resigned
+E-120,Yusuf,Fashola,Cashier,ST-017,2016-03-01,118000,Active
+E-121,Obinna,Eze,Sales Associate,ST-017,2013-08-19,126000,Active
+E-122,Ayodeji,Ajayi,Sales Associate,ST-017,2018-12-04,115000,Active
+E-123,Ebuka,Fashola,Sales Associate,ST-017,2017-07-12,98000,Active
+E-124,Kemi,Idris,Store Manager,ST-018,2020-09-09,440000,Active
+E-125,Nneka,Anyanwu,Cashier,ST-018,2015-06-14,133000,Active
+E-126,Kelechi,Ekwueme,Cashier,ST-018,2022-10-26,130000,Active
+E-127,Khadija,Ezenwa,Cashier,ST-018,2013-09-08,136000,Resigned
+E-128,Sani,Akinwande,Sales Associate,ST-018,2019-03-05,98000,Active
+E-129,Ikenna,Dauda,Sales Associate,ST-018,2017-07-18,94000,Active
+E-130,Chuka,Kalu,Sales Associate,ST-018,2021-10-03,94000,Active
+E-131,Safiya,Nnamdi,Store Manager,ST-019,2015-07-10,419000,Active
+E-132,Ijeoma,Ogbonna,Cashier,ST-019,2021-02-01,94000,Active
+E-133,Gbenga,Tanimu,Cashier,ST-019,2016-11-20,110000,Active
+E-134,Funke,Akinwande,Cashier,ST-019,2015-09-28,89000,Active
+E-135,Lekan,Kalu,Sales Associate,ST-019,2022-05-07,128000,Active
+E-136,Khadija,Madu,Sales Associate,ST-019,2014-04-20,106000,Active
+E-137,Maryam,Shehu,Sales Associate,ST-019,2024-10-05,142000,Active
+E-138,Yetunde,Kalu,Store Manager,ST-020,2018-04-24,526000,Active
+E-139,Chinedu,Kalu,Cashier,ST-020,2019-10-17,126000,Resigned
+E-140,Musa,Chikezie,Cashier,ST-020,2022-09-10,122000,Active
+E-141,Ifeanyi,Ude,Cashier,ST-020,2013-02-03,116000,Active
+E-142,Bisi,Dauda,Sales Associate,ST-020,2014-12-03,97000,Active
+E-143,Kemi,Bakare,Sales Associate,ST-020,2024-04-16,110000,Active
+E-144,Nasir,Nwachukwu,Store Manager,ST-021,2021-03-24,520000,Active
+E-145,Folake,Garba,Cashier,ST-021,2018-09-18,124000,Active
+E-146,Amara,Ajayi,Cashier,ST-021,2023-09-26,113000,Active
+E-147,Lekan,Abdulrahman,Cashier,ST-021,2018-08-06,107000,Active
+E-148,Khadija,Hassan,Sales Associate,ST-021,2018-07-05,136000,Active
+E-149,Ikenna,Kalu,Sales Associate,ST-021,2024-05-14,108000,Active
+E-150,Ayodeji,Mohammed,Store Manager,ST-022,2021-06-07,467000,Active
+E-151,Maryam,Bakare,Cashier,ST-022,2014-07-10,98000,Active
+E-152,Ijeoma,Chikezie,Cashier,ST-022,2014-11-17,119000,Active
+E-153,Amina,Umeh,Cashier,ST-022,2017-08-19,107000,Active
+E-154,Chidinma,Ekwueme,Sales Associate,ST-022,2021-03-06,93000,Active
+E-155,Titilayo,Balogun,Sales Associate,ST-022,2013-05-11,105000,Active
+E-156,Gbenga,Adeyemi,Sales Associate,ST-022,2018-10-20,148000,Active
+E-157,Kunle,Yakubu,Store Manager,ST-023,2020-05-12,443000,Active
+E-158,Chinedu,Yakubu,Cashier,ST-023,2021-04-17,120000,Active
+E-159,Uche,Abubakar,Cashier,ST-023,2018-10-04,99000,Active
+E-160,Ngozi,Dauda,Cashier,ST-023,2014-05-13,134000,Active
+E-161,Ebuka,Akinwande,Sales Associate,ST-023,2014-12-24,117000,Active
+E-162,Rotimi,Akinwande,Sales Associate,ST-023,2020-02-08,113000,Active
+E-163,Dapo,Ezenwa,Store Manager,ST-024,2015-05-05,447000,Active
+E-164,Ngozi,Bello,Cashier,ST-024,2017-11-09,85000,Active
+E-165,Ifeanyi,Dauda,Cashier,ST-024,2013-10-08,126000,Active
+E-166,Ikenna,Ezenwa,Cashier,ST-024,2022-12-26,114000,Active
+E-167,Ronke,Kalu,Cashier,ST-024,2022-04-18,90000,Active
+E-168,Chidinma,Balogun,Sales Associate,ST-024,2015-03-24,126000,Active
+E-169,Wale,Bakare,Sales Associate,ST-024,2018-08-09,92000,Active
+E-170,Uche,Baba,Sales Associate,ST-024,2020-11-20,108000,Resigned
+E-171,Oluchi,Uzo,Store Manager,ST-025,2015-02-22,405000,Active
+E-172,Ayodeji,Nnamdi,Cashier,ST-025,2023-02-09,125000,Active
+E-173,Khadija,Nwachukwu,Cashier,ST-025,2014-01-22,136000,Active
+E-174,Ibrahim,Lawal,Cashier,ST-025,2014-10-05,122000,Active
+E-175,Wale,Bakare,Cashier,ST-025,2023-10-18,91000,Active
+E-176,Ronke,Adeyemi,Sales Associate,ST-025,2013-03-20,127000,Active
+E-177,Funke,Shehu,Sales Associate,ST-025,2022-06-27,105000,Active
+E-178,Funke,Oyelaran,Sales Associate,ST-025,2022-02-10,128000,Active
+E-179,Bisi,Aliyu,Store Manager,ST-026,2022-04-23,533000,Active
+E-180,Bello,Mohammed,Cashier,ST-026,2016-04-22,131000,Resigned
+E-181,Nonso,Ekwueme,Cashier,ST-026,2023-12-20,97000,Active
+E-182,Somto,Okafor,Cashier,ST-026,2018-07-21,111000,Active
+E-183,Modupe,Abubakar,Cashier,ST-026,2023-01-15,108000,Active
+E-184,Simisola,Suleiman,Sales Associate,ST-026,2017-12-01,117000,Active
+E-185,Khadija,Umeh,Sales Associate,ST-026,2013-07-11,146000,Active
+E-186,Bisi,Olawale,Sales Associate,ST-026,2022-08-07,137000,Active
+E-187,Yusuf,Balogun,Warehouse Staff,WH-002,2019-02-15,336000,Active
+E-188,Oluchi,Salami,Warehouse Staff,WH-001,2025-01-12,355000,Active
+E-189,Yusuf,Falana,Warehouse Staff,WH-002,2014-09-07,336000,Active
+E-190,Segun,Eze,Warehouse Staff,WH-002,2018-10-11,331000,Active
+E-191,Emeka,Lawal,Warehouse Staff,WH-003,2016-08-03,269000,Active
+E-192,Khadija,Ogunleye,Warehouse Staff,WH-001,2015-01-29,324000,Active
+E-193,Uche,Adesina,Warehouse Staff,WH-002,2017-01-17,156000,Active
+E-194,Titilayo,Adesina,Warehouse Staff,WH-001,2023-09-07,159000,Active
+E-195,Usman,Garba,Warehouse Staff,WH-001,2021-09-06,219000,Active
+E-196,Usman,Ude,Warehouse Staff,WH-001,2022-05-06,307000,Resigned
+E-197,Ijeoma,Salami,Warehouse Staff,WH-003,2020-05-07,121000,Active
+E-198,Safiya,Mohammed,Warehouse Staff,WH-003,2016-01-27,317000,Active
+E-199,Rotimi,Ogunleye,Warehouse Staff,WH-003,2021-12-18,142000,Active
+E-200,Modupe,Musa,Warehouse Staff,WH-002,2018-10-30,141000,Active
+E-201,Ebuka,Aliyu,Warehouse Staff,WH-001,2024-07-10,299000,Active
+E-202,Nonso,Oyelaran,Warehouse Staff,WH-001,2023-08-12,231000,Active
+E-203,Rukayat,Mohammed,Warehouse Staff,WH-003,2017-09-23,168000,Active
+E-204,Musa,Suleiman,Warehouse Staff,WH-002,2019-05-25,360000,Active
+E-205,Ebuka,Nwachukwu,Warehouse Staff,WH-001,2018-08-29,318000,Active
+E-206,Modupe,Abdulrahman,Warehouse Staff,WH-002,2014-09-22,91000,Active
+E-207,Safiya,Igwe,Warehouse Staff,WH-001,2020-11-26,96000,Active
+E-208,Usman,Aliyu,Warehouse Staff,WH-002,2024-04-22,233000,Active
+E-209,Gbenga,Waziri,Warehouse Staff,WH-001,2015-04-30,220000,Active
+E-210,Tunde,Suleiman,Warehouse Staff,WH-001,2018-02-27,93000,Active
+E-211,Chuka,Bello,Warehouse Staff,WH-001,2019-12-03,345000,Active
+E-212,Ayodeji,Oladipo,Warehouse Staff,WH-003,2014-02-23,114000,Active
+E-213,Gbenga,Soyinka,Warehouse Staff,WH-003,2016-11-20,295000,Active
+E-214,Emeka,Yakubu,Warehouse Staff,WH-002,2023-06-26,357000,Active
+E-215,Ebuka,Afolabi,Warehouse Staff,WH-001,2025-03-12,128000,Active
+E-216,Khadija,Abubakar,Warehouse Staff,WH-002,2015-11-22,169000,Active
+E-217,Zainab,Ajayi,Warehouse Staff,WH-001,2017-05-06,211000,Active
+E-218,Tanko,Eze,Warehouse Staff,WH-003,2022-05-25,237000,Active
+E-219,Yusuf,Garba,Warehouse Staff,WH-002,2023-06-10,392000,Active
+E-220,Obinna,Ajayi,Warehouse Staff,WH-001,2023-03-12,197000,Active
+E-221,Safiya,Ogunleye,Warehouse Staff,WH-003,2017-01-10,309000,Active
+E-222,Rukayat,Nnamdi,Warehouse Staff,WH-003,2014-01-11,247000,Active
+E-223,Kunle,Falana,Warehouse Staff,WH-001,2016-03-19,125000,Active
+E-224,Yusuf,Ogunleye,Warehouse Staff,WH-003,2024-02-17,95000,Active
+E-225,Chidinma,Shehu,Warehouse Staff,WH-003,2021-04-29,176000,Active
+E-226,Ijeoma,Olawale,Warehouse Staff,WH-002,2015-04-22,111000,Active
+E-227,Chinedu,Ojo,Warehouse Staff,WH-002,2014-12-13,163000,Active
+E-228,Ikenna,Dauda,Warehouse Staff,WH-002,2019-11-30,386000,Active
+E-229,Dapo,Adesina,Warehouse Staff,WH-001,2023-10-23,117000,Active
+E-230,Ngozi,Madu,Warehouse Staff,WH-001,2017-08-18,287000,Active
+E-231,Yetunde,Nwachukwu,Warehouse Staff,WH-001,2024-02-17,295000,Active
+E-232,Nneka,Onyeka,Delivery Driver,WH-002,2023-07-26,380000,Active
+E-233,Adaeze,Dauda,Delivery Driver,WH-003,2019-01-26,134000,Active
+E-234,Nonso,Shehu,Delivery Driver,WH-001,2024-05-25,135000,Active
+E-235,Chiamaka,Odutola,Delivery Driver,WH-001,2019-12-05,303000,Active
+E-236,Musa,Akinwande,Delivery Driver,WH-003,2020-09-29,155000,Active
+E-237,Ijeoma,Ezenwa,Delivery Driver,WH-001,2015-01-24,338000,Active
+E-238,Nasir,Obi,Delivery Driver,WH-002,2016-10-09,368000,Active
+E-239,Rukayat,Okafor,Delivery Driver,WH-002,2014-10-30,255000,Active
+E-240,Somto,Iheanacho,Delivery Driver,WH-002,2014-04-13,351000,Active
+E-241,Chiamaka,Ude,Delivery Driver,WH-002,2016-06-02,315000,Active
+E-242,Tunde,Hassan,Delivery Driver,WH-003,2025-05-21,140000,Active
+E-243,Bello,Ojo,Delivery Driver,WH-002,2024-01-17,172000,Active
+E-244,Rukayat,Mohammed,Delivery Driver,WH-003,2024-11-25,176000,Active
+E-245,Nonso,Garba,Delivery Driver,WH-001,2023-06-28,359000,Active
+E-246,Titilayo,Madu,Delivery Driver,WH-003,2019-03-21,338000,Active
+E-247,Tunde,Chukwu,Delivery Driver,WH-001,2018-05-11,119000,Active
+E-248,Halima,Musa,Delivery Driver,WH-002,2022-04-16,202000,Active
+E-249,Somto,Dauda,Delivery Driver,WH-001,2022-02-01,120000,Active
+E-250,Oluchi,Adesina,Delivery Driver,WH-002,2021-10-18,314000,Resigned
+E-251,Wale,Hassan,Delivery Driver,WH-001,2022-04-18,244000,Active
+E-252,Rotimi,Ekwueme,Delivery Driver,WH-001,2021-03-10,390000,Active
+E-253,Rotimi,Adeyemi,Delivery Driver,WH-002,2014-10-12,380000,Active
+E-254,Oluchi,Idris,Delivery Driver,WH-002,2021-05-08,150000,Active
+E-255,Simisola,Musa,Delivery Driver,WH-002,2014-01-15,122000,Resigned
+E-256,Amara,Bakare,Delivery Driver,WH-002,2017-03-27,217000,Active
+E-257,Usman,Idris,Finance Officer,,2018-01-04,185000,Active
+E-258,Ikenna,Eze,Finance Officer,,2024-07-02,103000,Active
+E-259,Segun,Mohammed,Finance Officer,,2017-01-11,282000,Active
+E-260,Aisha,Aliyu,Finance Officer,,2016-11-30,373000,Active
+E-261,Simisola,Ogundipe,Finance Officer,,2023-10-13,260000,Active
+E-262,Fatima,Ojo,Finance Officer,,2016-01-07,234000,Active
+E-263,Adaeze,Mohammed,Finance Officer,,2018-08-14,372000,Active
+E-264,Ngozi,Madu,Finance Officer,,2018-04-06,213000,Active
+E-265,Emeka,Fashola,Finance Officer,,2024-11-14,374000,Active
+E-266,Oluchi,Fashola,Finance Officer,,2017-08-17,284000,Active
+E-267,Ayodeji,Shehu,HR Officer,,2020-09-28,302000,Active
+E-268,Zainab,Obi,HR Officer,,2015-06-15,307000,Active
+E-269,Segun,Aliyu,HR Officer,,2015-11-22,246000,Active
+E-270,Nonso,Chukwu,HR Officer,,2019-05-09,167000,Active
+E-271,Oluchi,Oyelaran,HR Officer,,2015-03-31,338000,Active
+E-272,Simisola,Odutola,HR Officer,,2022-06-08,307000,Active
+E-273,Halima,Afolabi,HR Officer,,2022-08-26,396000,Active
+E-274,Somto,Garba,HR Officer,,2018-03-26,224000,Resigned
+E-275,Nneka,Musa,IT Support,,2021-12-15,248000,Active
+E-276,Tunde,Chikezie,IT Support,,2014-07-02,127000,Active
+E-277,Chuka,Tanimu,IT Support,,2016-05-13,282000,Active
+E-278,Bolanle,Salami,IT Support,,2024-01-17,222000,Active
+E-279,Adanna,Shehu,IT Support,,2014-07-27,261000,Active
+E-280,Ikenna,Hassan,IT Support,,2018-06-19,233000,Active
+E-281,Kelechi,Ogunleye,IT Support,,2017-04-13,373000,Active
+E-282,Simisola,Waziri,IT Support,,2022-01-28,139000,Active
+E-283,Adaeze,Iheanacho,Marketing Officer,,2018-04-09,343000,Resigned
+E-284,Oluchi,Madu,Marketing Officer,,2020-07-08,366000,Active
+E-285,Amina,Okafor,Marketing Officer,,2025-01-01,399000,Active
+E-286,Titilayo,Olawale,Marketing Officer,,2017-02-16,348000,Active
+E-287,Simisola,Garba,Marketing Officer,,2021-07-03,269000,Active
+E-288,Halima,Chukwu,Marketing Officer,,2023-09-20,149000,Active
+E-289,Bello,Oyelaran,Marketing Officer,,2025-01-29,250000,Active
+E-290,Ifeanyi,Nwachukwu,Marketing Officer,,2015-09-08,130000,Active
+E-291,Chinedu,Ojo,Procurement Officer,,2014-07-03,180000,Active
+E-292,Amara,Bakare,Procurement Officer,,2014-12-10,199000,Active
+E-293,Chiamaka,Adebayo,Procurement Officer,,2022-09-10,177000,Active
+E-294,Usman,Aliyu,Procurement Officer,,2015-10-10,109000,Active
+E-295,Khadija,Oyelaran,Procurement Officer,,2016-03-02,171000,Active
+E-296,Nneka,Garba,Procurement Officer,,2015-05-22,177000,Active
+E-297,Segun,Ezenwa,Data Analyst,,2015-04-01,274000,Active
+E-298,Yetunde,Ekwueme,Data Analyst,,2018-09-25,132000,Resigned
+E-299,Musa,Obi,Data Analyst,,2018-09-27,131000,Active
+E-300,Obinna,Abdulrahman,Data Analyst,,2019-12-02,124000,Active

@@ -1,0 +1,16 @@
+Rule,Rows_Affected,Detection,Recommended Treatment,Fixed?
+Duplicate OrderDetailID,250,Power Query profiling / cross-field validation,Remove duplicate OrderDetailID rows after preserving an audit count.,Review required in Power Query
+Non-numeric/null Quantity,6,Power Query profiling / cross-field validation,Repair or quarantine non-numeric/null quantities; never silently coerce.,Review required in Power Query
+Quantity <= 0,25,Power Query profiling / cross-field validation,Flag and exclude from valid sales calculations unless corrected.,Review required in Power Query
+DiscountPct outside 0-50%,40,Power Query profiling / cross-field validation,Flag as policy breach; retain for exception reporting.,Review required in Power Query
+Missing SalesAmount,60,Power Query profiling / cross-field validation,Recalculate only when validated source components support reconstruction; otherwise quarantine.,Review required in Power Query
+SalesAmount mismatch > ₦0.01,25,Power Query profiling / cross-field validation,Recalculate/repair after validating source components; retain audit trail.,Review required in Power Query
+Delivery before Order,30,Power Query profiling / cross-field validation,Flag for delivery-performance analysis; do not delete the order.,Review required in Power Query
+Online EmployeeID populated,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+In-store EmployeeID blank,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+Online ShippingCost <= 0,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+In-store ShippingCost != 0,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+Invalid OrderID FK,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+Invalid ProductID FK,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+Return qty > purchased,0,Power Query profiling / cross-field validation,No violation detected.,Review required in Power Query
+Refund > original SalesAmount,1,Power Query profiling / cross-field validation,Investigate and quarantine refund exception before financial reporting.,Review required in Power Query

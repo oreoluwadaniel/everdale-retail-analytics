@@ -1,0 +1,41 @@
+SupplierID,SupplierName,ContactPerson,Phone,Email,City,Country,LeadTimeDays,PaymentTermsDays
+SUP-001,Nestle Nigeria Plc,Blessing Balogun,08069836577,blessing.balogun@nestle.com.ng,Lagos,Nigeria,8,30
+SUP-002,Unilever Nigeria,Musa Danjuma,08173464884,musa.danjuma@unilever.com.ng,Lagos,Nigeria,5,14
+SUP-003,PZ Cussons Nigeria,Lekan Sambo,08080265612,lekan.sambo@pz.com.ng,Lagos,Nigeria,9,60
+SUP-004,Dangote Foods,Sani Bello,08051302419,sani.bello@dangote.com.ng,Lagos,Nigeria,8,14
+SUP-005,Flour Mills of Nigeria,Obinna Danjuma,08061186707,obinna.danjuma@flour.com.ng,Lagos,Nigeria,2,60
+SUP-006,Cadbury Nigeria,Amina Chikezie,09022581729,amina.chikezie@cadbury.com.ng,Lagos,Nigeria,5,30
+SUP-007,Nigerian Breweries,Adanna Tanimu,07020307706,adanna.tanimu@nigerian.com.ng,Lagos,Nigeria,7,14
+SUP-008,Seven-Up Bottling Co,Oluchi Ezenwa,08170156266,oluchi.ezenwa@sevenup.com.ng,Lagos,Nigeria,10,45
+SUP-009,Rite Foods Ltd,Usman Garba,08152398658,usman.garba@rite.com.ng,Ogun,Nigeria,13,30
+SUP-010,Chi Limited,Oluchi Obi,08060871249,oluchi.obi@chi.com.ng,Lagos,Nigeria,3,14
+SUP-011,Dufil Prima Foods,Fatima Nwachukwu,07078849897,fatima.nwachukwu@dufil.com.ng,Lagos,Nigeria,9,30
+SUP-012,Honeywell Foods,Ronke Afolabi,08067124648,ronke.afolabi@honeywell.com.ng,Lagos,Nigeria,9,45
+SUP-013,BUA Foods,Chidinma Balogun,09059822146,chidinma.balogun@bua.com.ng,Lagos,Nigeria,3,14
+SUP-014,Olam Nigeria,Wale Onyeka,07060328644,wale.onyeka@olam.com.ng,Lagos,Nigeria,12,60
+SUP-015,Promasidor Nigeria,Amina Chikezie,08037355508,amina.chikezie@promasidor.com.ng,Lagos,Nigeria,9,14
+SUP-016,Samsung West Africa,Amara Danjuma,07012773605,amara.danjuma@samsung.com.ng,Lagos,Nigeria,6,14
+SUP-017,LG Electronics Nigeria,Ijeoma Danjuma,08049304565,ijeoma.danjuma@lg.com.ng,Lagos,Nigeria,14,45
+SUP-018,Hisense Nigeria,Femi Ekwueme,07029312620,femi.ekwueme@hisense.com.ng,Lagos,Nigeria,5,30
+SUP-019,Tecno Mobile Distribution,Dapo Akinwande,08146767577,dapo.akinwande@tecno.com.ng,Lagos,Nigeria,14,30
+SUP-020,Infinix Distribution NG,Rukayat Dauda,08086806276,rukayat.dauda@infinix.com.ng,Lagos,Nigeria,2,60
+SUP-021,Binatone Distribution,Blessing Adebayo,08131054553,blessing.adebayo@binatone.com.ng,Lagos,Nigeria,12,30
+SUP-022,Scanfrost Appliances,Kunle Nnamdi,07015247246,kunle.nnamdi@scanfrost.com.ng,Lagos,Nigeria,13,60
+SUP-023,Nexus Electronics Ltd,Yetunde Ojo,07035324550,yetunde.ojo@nexus.com.ng,Onitsha,Nigeria,13,14
+SUP-024,Zinox Technologies,Yetunde Odutola,08036423438,yetunde.odutola@zinox.com.ng,Lagos,Nigeria,7,30
+SUP-025,Slot Systems Ltd,Uche Garba,08069572486,uche.garba@slot.com.ng,Lagos,Nigeria,3,30
+SUP-026,Vitafoam Nigeria,Folake Soyinka,07060132893,folake.soyinka@vitafoam.com.ng,Lagos,Nigeria,8,30
+SUP-027,Bennett Homewares Ltd,Yusuf Shehu,09080550838,yusuf.shehu@bennett.com.ng,Aba,Nigeria,14,45
+SUP-028,Ankara House Textiles,Kelechi Afolabi,08169788218,kelechi.afolabi@ankara.com.ng,Abeokuta,Nigeria,7,30
+SUP-029,Rosies Fashion Imports,Tanko Madu,07046574817,tanko.madu@rosies.com.ng,Lagos,Nigeria,7,60
+SUP-030,Sleek Studio Lagos,Sani Onwudiwe,09083261834,sani.onwudiwe@sleek.com.ng,Lagos,Nigeria,6,30
+SUP-031,House of Bunmi Apparel,Yetunde Mohammed,09025027562,yetunde.mohammed@house.com.ng,Lagos,Nigeria,6,14
+SUP-032,Kanem Leatherworks Kano,Oluchi Eze,08012044086,oluchi.eze@kanem.com.ng,Kano,Nigeria,3,30
+SUP-033,Mamuwa Baby Essentials,Blessing Adebayo,09018104307,blessing.adebayo@mamuwa.com.ng,Kano,Nigeria,12,60
+SUP-034,Kimberly-Clark WA,Funke Nnamdi,09075012341,funke.nnamdi@kimberlyclark.com.ng,Lagos,Nigeria,11,60
+SUP-035,Procter & Gamble Nigeria,Kunle Bakare,07051568950,kunle.bakare@procter.com.ng,Lagos,Nigeria,11,60
+SUP-036,Beiersdorf West Africa,Ayodeji Okafor,08024514460,ayodeji.okafor@beiersdorf.com.ng,Lagos,Nigeria,13,60
+SUP-037,Oriflame Beauty NG,Oluchi Garba,07055094029,oluchi.garba@oriflame.com.ng,Lagos,Nigeria,14,14
+SUP-038,Zaron Cosmetics,Halima Fashola,08123708089,halima.fashola@zaron.com.ng,Lagos,Nigeria,8,45
+SUP-039,GSK Consumer Nigeria,Adaeze Oyelaran,07072668833,adaeze.oyelaran@gsk.com.ng,Lagos,Nigeria,8,60
+SUP-040,Fan Milk Nigeria,Oluchi Suleiman,08050154064,oluchi.suleiman@fan.com.ng,Ibadan,Nigeria,4,30
