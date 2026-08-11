@@ -1,8 +1,8 @@
-# Data Dictionary
+﻿# Data Dictionary
 
 ## Fact
 
-`order_details` — one row per product line on an order.
+`order_details` â€” one row per product line on an order.
 
 Core measures:
 - `Quantity`
@@ -16,21 +16,21 @@ Core measures:
 
 ## Order header
 
-`orders` — one row per order. Provides order date/time, customer, store, employee, channel, payment, status, shipping and delivery attributes.
+`orders` â€” one row per order. Provides order date/time, customer, store, employee, channel, payment, status, shipping and delivery attributes.
 
 ## Dimensions
 
-- `customers` — customer identity and segment attributes
-- `products` — SKU, category, supplier, cost and retail price
-- `categories` — category targets
-- `suppliers` — supplier and lead-time attributes
-- `employees` — employee/store assignment
-- `stores` — store/fulfilment-centre attributes
-- `regions` — management region hierarchy
-- `calendar` — date dimension
-- `payment_methods` — payment reference data
-- `promotions` — campaign reference data
-- `returns` — returned order-line events
+- `customers` â€” customer identity and segment attributes
+- `products` â€” SKU, category, supplier, cost and retail price
+- `categories` â€” category targets
+- `suppliers` â€” supplier and lead-time attributes
+- `employees` â€” employee/store assignment
+- `stores` â€” store/fulfilment-centre attributes
+- `regions` â€” management region hierarchy
+- `calendar` â€” date dimension
+- `payment_methods` â€” payment reference data
+- `promotions` â€” campaign reference data
+- `returns` â€” returned order-line events
 
 ## KPI grain rules
 
