@@ -1,4 +1,4 @@
-﻿# Everdale Retail â€” Business Context
+﻿# Everdale Retail Business Context
 
 ## Business model
 
